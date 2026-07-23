@@ -1,33 +1,94 @@
 {
-  "name": "",
-  "menuBackgroundImage": "",
+  "name": "Oshi Push",
+  "menuBackgroundImage": "https://raw.githubusercontent.com/woosle1234/TCG-Arena-Oshi-Push/refs/heads/main/images/oshipush.jpg",
   "defaultRessources": {
-    "backgrounds": [],
+    "backgrounds": [
+      "https://github.com/woosle1234/TCG-Arena-Oshi-Push/blob/main/images/Captain%20Camille%20Playmat.jpg?raw=true",
+      "https://github.com/woosle1234/TCG-Arena-Oshi-Push/blob/main/images/Chisaka%20Playmat.webp?raw=true",
+      "https://github.com/woosle1234/TCG-Arena-Oshi-Push/blob/main/images/Eden%20Playmat.webp?raw=true",
+      "https://github.com/woosle1234/TCG-Arena-Oshi-Push/blob/main/images/Iori%20Playmat.webp?raw=true",
+      "https://github.com/woosle1234/TCG-Arena-Oshi-Push/blob/main/images/Komoachi%20Panko%20Playmat.webp?raw=true",
+      "https://github.com/woosle1234/TCG-Arena-Oshi-Push/blob/main/images/La%20Avispa%20Nectarina%20Playmat.jpg?raw=true",
+      "https://github.com/woosle1234/TCG-Arena-Oshi-Push/blob/main/images/Lia%20Playmat.webp?raw=true",
+      "https://github.com/woosle1234/TCG-Arena-Oshi-Push/blob/main/images/Linechu%20Playmat.webp?raw=true",
+      "https://github.com/woosle1234/TCG-Arena-Oshi-Push/blob/main/images/Michiru%20Playmat.jpg?raw=true",
+      "https://github.com/woosle1234/TCG-Arena-Oshi-Push/blob/main/images/Nasa%20Playmat.webp?raw=true",
+      "https://github.com/woosle1234/TCG-Arena-Oshi-Push/blob/main/images/Pippa%20Playmat.webp?raw=true",
+      "https://github.com/woosle1234/TCG-Arena-Oshi-Push/blob/main/images/Porcelain%20Maid%20Playmat.webp?raw=true",
+      "https://github.com/woosle1234/TCG-Arena-Oshi-Push/blob/main/images/Remilla%20Playmat.webp?raw=true",
+      "https://github.com/woosle1234/TCG-Arena-Oshi-Push/blob/main/images/Shiina%20Playmat.webp?raw=true",
+      "https://github.com/woosle1234/TCG-Arena-Oshi-Push/blob/main/images/Tenma%20Playmat.webp?raw=true",
+      "https://github.com/woosle1234/TCG-Arena-Oshi-Push/blob/main/images/Uruka%20Playmat.webp?raw=true"
+    ],
     "decksUrl": ""
   },
-  "customHelp": "",
+  "customHelp": "CustomHelp Text",
   "cardRotation": 45,
   "cards": {
-    "dataUrl": "",
-    "cardBack": ""
+    "dataUrl": "https://raw.githubusercontent.com/woosle1234/TCG-Arena-Oshi-Push/refs/heads/main/OshiPushCardList.json",
+    "cardBack": "https://raw.githubusercontent.com/woosle1234/TCG-Arena-Oshi-Push/refs/heads/main/images/Card%20Back.png"
   },
   "deckBuilding": {
-    "mainFilters": [],
-    "formats": []
+    "mainFilters": [
+      "type",
+      "color",
+      "cost",
+      "bits",
+      "influence",
+      "subscriberCount",
+      "popularityThreshold"
+    ],
+    "costCurveIgnoredTypes": [
+      "Persona",
+      "Platform"
+    ],
+    "formats": [
+      {
+        "title": "1v1",
+        "gameplay": "Classic",
+        "legalityCode": "VI",
+        "deckRuleset": "Classic"
+      }
+
+    ],
+    "deckRulesets": {
+      "Classic": {
+        "general": {
+          "min": 40,
+          "max": 40,
+          "maxPerCard": 3
+        },
+        "categories": [
+          {
+            "category": "Persona",
+            "min": 1,
+            "max": 1,
+            "ignoreTotalCount": true
+          },
+          {
+            "category": "Platforms",
+            "min": 5,
+            "max": 5,
+            "maxPerCard": 1,
+            "ignoreTotalCount": true
+          }
+        ]
+      }
+    }
   },
   "gameplay": {
     "Classic": {
       "mulligan": {
-        "info": "",
-        "startingHandSize": 7,
+        "info": "You can shuffle your hand back into your draw deck and draw a new set of 5 cards",
+        "startingHandSize": 5,
         "drawNewHand": true,
         "putSelectionAtBottom": false,
         "drawNewSelectedCards": false
       },
       "newTurn": {
         "drawOnStart": false,
-        "sharedTurn": false,
-        "firstPlayerTokenName": "",
+        "sharedTurn": true,
+        "firstPlayerTokenName": "First Player Token",
         "drawPerTurn": 1
       },
       "defaultNotes": "",
@@ -38,7 +99,7 @@
       "hideFacedDownCards": false,
       "sections": {
         "customSections": [
-          "Mana"
+          "Bits"
         ],
         "layout": {
           "direction": "column",
@@ -49,8 +110,8 @@
         "autoPlayFromHand": {},
         "autoPlayFromStack": {},
         "sectionsDict": {
-          "Mana": {
-            "title": "Mana",
+          "Bits": {
+            "title": "Bits",
             "isHidden": "yes",
             "height": "SMALL",
             "alignment": "START",

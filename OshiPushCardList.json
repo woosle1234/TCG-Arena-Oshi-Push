@@ -30,8 +30,8 @@
     "genre": [
       "Zatsudan"
     ],
-    "bits": "3",
-    "influence": "4"
+    "bits": 3,
+    "influence": 4
   },
   "OPKS/PHC-003": {
     "id": "OPKS/PHC-003",
@@ -66,9 +66,9 @@
     "genre": [
       "Zatsudan"
     ],
-    "cost": "7",
-    "bits": "5",
-    "influence": "9"
+    "cost": 7,
+    "bits": 5,
+    "influence": 9
   },
   "OPKS/PHC-007": {
     "id": "OPKS/PHC-007",
@@ -99,8 +99,8 @@
     "genre": [
       "Zatsudan"
     ],
-    "bits": "3",
-    "influence": "3"
+    "bits": 3,
+    "influence": 3
   },
   "OPKS/PHC-009": {
     "id": "OPKS/PHC-009",
@@ -135,9 +135,9 @@
     "genre": [
       "Zatsudan"
     ],
-    "cost": "6",
-    "bits": "6",
-    "influence": "6"
+    "cost": 6,
+    "bits": 6,
+    "influence": 6
   },
   "OPKS/PHC-013": {
     "id": "OPKS/PHC-013",
@@ -168,8 +168,8 @@
     "genre": [
       "Poggers"
     ],
-    "bits": "3",
-    "influence": "3"
+    "bits": 3,
+    "influence": 3
   },
   "OPKS/PHC-015": {
     "id": "OPKS/PHC-015",
@@ -203,9 +203,9 @@
     "genre": [
       "Poggers"
     ],
-    "cost": "6",
-    "bits": "5",
-    "influence": "5"
+    "cost": 6,
+    "bits": 5,
+    "influence": 5
   },
   "OPKS/PHC-019": {
     "id": "OPKS/PHC-019",
@@ -236,8 +236,8 @@
     "genre": [
       "Poggers"
     ],
-    "bits": "3",
-    "influence": "4"
+    "bits": 3,
+    "influence": 4
   },
   "OPKS/PHC-021": {
     "id": "OPKS/PHC-021",
@@ -272,9 +272,9 @@
     "genre": [
       "Poggers"
     ],
-    "cost": "8",
-    "bits": "6",
-    "influence": "7"
+    "cost": 8,
+    "bits": 6,
+    "influence": 7
   },
   "OPKS/PHC-025": {
     "id": "OPKS/PHC-025",
@@ -305,8 +305,8 @@
     "genre": [
       "Creatives"
     ],
-    "bits": "3",
-    "influence": "4"
+    "bits": 3,
+    "influence": 4
   },
   "OPKS/PHC-027": {
     "id": "OPKS/PHC-027",
@@ -341,9 +341,9 @@
     "genre": [
       "Creatives"
     ],
-    "cost": "7",
-    "bits": "6",
-    "influence": "6"
+    "cost": 7,
+    "bits": 6,
+    "influence": 6
   },
   "OPKS/PHC-031": {
     "id": "OPKS/PHC-031",
@@ -374,8 +374,8 @@
     "genre": [
       "Creatives"
     ],
-    "bits": "3",
-    "influence": "3"
+    "bits": 3,
+    "influence": 3
   },
   "OPKS/PHC-033": {
     "id": "OPKS/PHC-033",
@@ -409,9 +409,9 @@
     "genre": [
       "Creatives"
     ],
-    "cost": "7",
-    "bits": "5",
-    "influence": "7"
+    "cost": 7,
+    "bits": 5,
+    "influence": 7
   },
   "OPKS/PHC-037": {
     "id": "OPKS/PHC-037",
@@ -444,8 +444,8 @@
     "genre": [
       "Experience"
     ],
-    "bits": "3",
-    "influence": "4"
+    "bits": 3,
+    "influence": 4
   },
   "OPKS/PHC-039": {
     "id": "OPKS/PHC-039",
@@ -480,9 +480,9 @@
     "genre": [
       "Experience"
     ],
-    "cost": "8",
-    "bits": "6",
-    "influence": "7"
+    "cost": 8,
+    "bits": 6,
+    "influence": 7
   },
   "OP01/PHC-001": {
     "id": "OP01/PHC-001",
@@ -515,8 +515,8 @@
     "genre": [
       "Zatsudan"
     ],
-    "bits": "3",
-    "influence": "4"
+    "bits": 3,
+    "influence": 4
   },
   "OP01/PHC-002": {
     "id": "OP01/PHC-002",
@@ -551,9 +551,9 @@
       "Zatsudan"
     ],
     "nickname": "Filippa Pipkin",
-    "cost": "3",
-    "bits": "4",
-    "influence": "6"
+    "cost": 3,
+    "bits": 4,
+    "influence": 6
   },
   "OP01/PHC-003": {
     "id": "OP01/PHC-003",
@@ -588,9 +588,9 @@
     "genre": [
       "Zatsudan"
     ],
-    "cost": "7",
-    "bits": "5",
-    "influence": "9"
+    "cost": 7,
+    "bits": 5,
+    "influence": 9
   },
   "OP01/PHC-004": {
     "id": "OP01/PHC-004",
@@ -622,8 +622,8 @@
     "genre": [
       "Zatsudan"
     ],
-    "cost": "7",
-    "influence": "7"
+    "cost": 7,
+    "influence": 7
   },
   "OP01/PHC-005": {
     "id": "OP01/PHC-005",
@@ -655,7 +655,7 @@
     "genre": [
       "Zatsudan"
     ],
-    "cost": "1"
+    "cost": 1
   },
   "OP01/PHC-006": {
     "id": "OP01/PHC-006",
@@ -687,7 +687,7 @@
     "genre": [
       "Poggers"
     ],
-    "cost": "3"
+    "cost": 3
   },
   "OP01/PHC-007": {
     "id": "OP01/PHC-007",
@@ -718,8 +718,8 @@
     "genre": [
       "Zatsudan"
     ],
-    "bits": "3",
-    "influence": "3"
+    "bits": 3,
+    "influence": 3
   },
   "OP01/PHC-008": {
     "id": "OP01/PHC-008",
@@ -754,9 +754,9 @@
     "genre": [
       "Zatsudan"
     ],
-    "cost": "3",
-    "bits": "4",
-    "influence": "5"
+    "cost": 3,
+    "bits": 4,
+    "influence": 5
   },
   "OP01/PHC-009": {
     "id": "OP01/PHC-009",
@@ -791,9 +791,9 @@
     "genre": [
       "Zatsudan"
     ],
-    "cost": "6",
-    "bits": "6",
-    "influence": "6"
+    "cost": 6,
+    "bits": 6,
+    "influence": 6
   },
   "OP01/PHC-010": {
     "id": "OP01/PHC-010",
@@ -825,8 +825,8 @@
     "genre": [
       "Zatsudan"
     ],
-    "cost": "1",
-    "influence": "5"
+    "cost": 1,
+    "influence": 5
   },
   "OP01/PHC-011": {
     "id": "OP01/PHC-011",
@@ -860,7 +860,7 @@
     "genre": [
       "Zatsudan"
     ],
-    "cost": "0"
+    "cost": 0
   },
   "OP01/PHC-012": {
     "id": "OP01/PHC-012",
@@ -892,8 +892,8 @@
     "genre": [
       "Experience"
     ],
-    "cost": "6",
-    "influence": "8"
+    "cost": 6,
+    "influence": 8
   },
   "OP01/PHC-013": {
     "id": "OP01/PHC-013",
@@ -924,8 +924,8 @@
     "genre": [
       "Poggers"
     ],
-    "bits": "3",
-    "influence": "3"
+    "bits": 3,
+    "influence": 3
   },
   "OP01/PHC-014": {
     "id": "OP01/PHC-014",
@@ -959,9 +959,9 @@
     "genre": [
       "Poggers"
     ],
-    "cost": "2",
-    "bits": "4",
-    "influence": "4"
+    "cost": 2,
+    "bits": 4,
+    "influence": 4
   },
   "OP01/PHC-015": {
     "id": "OP01/PHC-015",
@@ -995,9 +995,9 @@
     "genre": [
       "Poggers"
     ],
-    "cost": "6",
-    "bits": "5",
-    "influence": "5"
+    "cost": 6,
+    "bits": 5,
+    "influence": 5
   },
   "OP01/PHC-016": {
     "id": "OP01/PHC-016",
@@ -1029,8 +1029,8 @@
     "genre": [
       "Poggers"
     ],
-    "cost": "3",
-    "influence": "5"
+    "cost": 3,
+    "influence": 5
   },
   "OP01/PHC-017": {
     "id": "OP01/PHC-017",
@@ -1062,7 +1062,7 @@
     "genre": [
       "Poggers"
     ],
-    "cost": "2"
+    "cost": 2
   },
   "OP01/PHC-018": {
     "id": "OP01/PHC-018",
@@ -1094,7 +1094,7 @@
     "genre": [
       "Creatives"
     ],
-    "cost": "1"
+    "cost": 1
   },
   "OP01/PHC-019": {
     "id": "OP01/PHC-019",
@@ -1125,8 +1125,8 @@
     "genre": [
       "Poggers"
     ],
-    "bits": "3",
-    "influence": "4"
+    "bits": 3,
+    "influence": 4
   },
   "OP01/PHC-020": {
     "id": "OP01/PHC-020",
@@ -1160,9 +1160,9 @@
     "genre": [
       "Poggers"
     ],
-    "cost": "4",
-    "bits": "5",
-    "influence": "4"
+    "cost": 4,
+    "bits": 5,
+    "influence": 4
   },
   "OP01/PHC-021": {
     "id": "OP01/PHC-021",
@@ -1197,9 +1197,9 @@
     "genre": [
       "Poggers"
     ],
-    "cost": "8",
-    "bits": "6",
-    "influence": "7"
+    "cost": 8,
+    "bits": 6,
+    "influence": 7
   },
   "OP01/PHC-022": {
     "id": "OP01/PHC-022",
@@ -1231,8 +1231,8 @@
     "genre": [
       "Poggers"
     ],
-    "cost": "4",
-    "influence": "7"
+    "cost": 4,
+    "influence": 7
   },
   "OP01/PHC-023": {
     "id": "OP01/PHC-023",
@@ -1264,7 +1264,7 @@
     "genre": [
       "Zatsudan"
     ],
-    "cost": "2"
+    "cost": 2
   },
   "OP01/PHC-024": {
     "id": "OP01/PHC-024",
@@ -1296,7 +1296,7 @@
     "genre": [
       "Poggers"
     ],
-    "cost": "5"
+    "cost": 5
   },
   "OP01/PHC-025": {
     "id": "OP01/PHC-025",
@@ -1327,8 +1327,8 @@
     "genre": [
       "Creatives"
     ],
-    "bits": "3",
-    "influence": "4"
+    "bits": 3,
+    "influence": 4
   },
   "OP01/PHC-026": {
     "id": "OP01/PHC-026",
@@ -1362,9 +1362,9 @@
     "genre": [
       "Creatives"
     ],
-    "cost": "3",
-    "bits": "4",
-    "influence": "5"
+    "cost": 3,
+    "bits": 4,
+    "influence": 5
   },
   "OP01/PHC-027": {
     "id": "OP01/PHC-027",
@@ -1399,9 +1399,9 @@
     "genre": [
       "Creatives"
     ],
-    "cost": "7",
-    "bits": "6",
-    "influence": "6"
+    "cost": 7,
+    "bits": 6,
+    "influence": 6
   },
   "OP01/PHC-028": {
     "id": "OP01/PHC-028",
@@ -1433,8 +1433,8 @@
     "genre": [
       "Creatives"
     ],
-    "cost": "5",
-    "influence": "8"
+    "cost": 5,
+    "influence": 8
   },
   "OP01/PHC-029": {
     "id": "OP01/PHC-029",
@@ -1466,7 +1466,7 @@
     "genre": [
       "Creatives"
     ],
-    "cost": "2"
+    "cost": 2
   },
   "OP01/PHC-030": {
     "id": "OP01/PHC-030",
@@ -1498,7 +1498,7 @@
     "genre": [
       "Creatives"
     ],
-    "cost": "1"
+    "cost": 1
   },
   "OP01/PHC-031": {
     "id": "OP01/PHC-031",
@@ -1529,8 +1529,8 @@
     "genre": [
       "Creatives"
     ],
-    "bits": "3",
-    "influence": "3"
+    "bits": 3,
+    "influence": 3
   },
   "OP01/PHC-032": {
     "id": "OP01/PHC-032",
@@ -1564,9 +1564,9 @@
     "genre": [
       "Creatives"
     ],
-    "cost": "3",
-    "bits": "4",
-    "influence": "5"
+    "cost": 3,
+    "bits": 4,
+    "influence": 5
   },
   "OP01/PHC-033": {
     "id": "OP01/PHC-033",
@@ -1600,9 +1600,9 @@
     "genre": [
       "Creatives"
     ],
-    "cost": "7",
-    "bits": "5",
-    "influence": "7"
+    "cost": 7,
+    "bits": 5,
+    "influence": 7
   },
   "OP01/PHC-034": {
     "id": "OP01/PHC-034",
@@ -1636,8 +1636,8 @@
     "genre": [
       "Creatives"
     ],
-    "cost": "5",
-    "influence": "8"
+    "cost": 5,
+    "influence": 8
   },
   "OP01/PHC-035": {
     "id": "OP01/PHC-035",
@@ -1669,7 +1669,7 @@
     "genre": [
       "Creatives"
     ],
-    "cost": "1"
+    "cost": 1
   },
   "OP01/PHC-036": {
     "id": "OP01/PHC-036",
@@ -1702,7 +1702,7 @@
     "genre": [
       "Creatives"
     ],
-    "cost": "2"
+    "cost": 2
   },
   "OP01/PHC-037": {
     "id": "OP01/PHC-037",
@@ -1735,8 +1735,8 @@
     "genre": [
       "Experience"
     ],
-    "bits": "3",
-    "influence": "4"
+    "bits": 3,
+    "influence": 4
   },
   "OP01/PHC-038": {
     "id": "OP01/PHC-038",
@@ -1771,9 +1771,9 @@
       "Experience"
     ],
     "nickname": "Mii-chan",
-    "cost": "3",
-    "bits": "4",
-    "influence": "6"
+    "cost": 3,
+    "bits": 4,
+    "influence": 6
   },
   "OP01/PHC-039": {
     "id": "OP01/PHC-039",
@@ -1808,9 +1808,9 @@
     "genre": [
       "Experience"
     ],
-    "cost": "8",
-    "bits": "6",
-    "influence": "7"
+    "cost": 8,
+    "bits": 6,
+    "influence": 7
   },
   "OP01/PHC-040": {
     "id": "OP01/PHC-040",
@@ -1842,8 +1842,8 @@
     "genre": [
       "Experience"
     ],
-    "cost": "5",
-    "influence": "7"
+    "cost": 5,
+    "influence": 7
   },
   "OP01/PHC-041": {
     "id": "OP01/PHC-041",
@@ -1876,7 +1876,7 @@
     "genre": [
       "Experience"
     ],
-    "cost": "2"
+    "cost": 2
   },
   "OP01/PHC-042": {
     "id": "OP01/PHC-042",
@@ -1908,7 +1908,7 @@
     "genre": [
       "Poggers"
     ],
-    "cost": "3"
+    "cost": 3
   },
   "OP01/PHC-049": {
     "id": "OP01/PHC-049",
@@ -1935,8 +1935,8 @@
       "Independent",
       "Networking"
     ],
-    "subscriberCount": "400000",
-    "popularityThreshold": "3"
+    "Subscriber Count": 400000,
+    "Popularity Threshold": 3
   },
   "OP01/PHC-050": {
     "id": "OP01/PHC-050",
@@ -1964,8 +1964,8 @@
     "tags": [
       "Networking"
     ],
-    "subscriberCount": "300000",
-    "popularityThreshold": "2"
+    "Subscriber Count": 300000,
+    "Popularity Threshold": 2
   },
   "OP01/PHC-051": {
     "id": "OP01/PHC-051",
@@ -1993,8 +1993,8 @@
     "tags": [
       "Networking"
     ],
-    "subscriberCount": "600000",
-    "popularityThreshold": "4"
+    "Subscriber Count": 600000,
+    "Popularity Threshold": 4
   },
   "OP01/PHC-052": {
     "id": "OP01/PHC-052",
@@ -2022,8 +2022,8 @@
     "tags": [
       "Image Sharing"
     ],
-    "subscriberCount": "300000",
-    "popularityThreshold": "2"
+    "Subscriber Count": 300000,
+    "Popularity Threshold": 2
   },
   "OP01/PHC-053": {
     "id": "OP01/PHC-053",
@@ -2051,8 +2051,8 @@
     "tags": [
       "Image Sharing"
     ],
-    "subscriberCount": "500000",
-    "popularityThreshold": "3"
+    "Subscriber Count": 500000,
+    "Popularity Threshold": 3
   },
   "OP01/PHC-054": {
     "id": "OP01/PHC-054",
@@ -2080,8 +2080,8 @@
     "tags": [
       "Podcasting"
     ],
-    "subscriberCount": "600000",
-    "popularityThreshold": "4"
+    "Subscriber Count": 600000,
+    "Popularity Threshold": 4
   },
   "OP01/PHC-055": {
     "id": "OP01/PHC-055",
@@ -2109,8 +2109,8 @@
     "tags": [
       "Streaming"
     ],
-    "subscriberCount": "500000",
-    "popularityThreshold": "3"
+    "Subscriber Count": 500000,
+    "Popularity Threshold": 3
   },
   "OP01/PHC-056": {
     "id": "OP01/PHC-056",
@@ -2137,8 +2137,8 @@
       "Independent",
       "Streaming"
     ],
-    "subscriberCount": "300000",
-    "popularityThreshold": "2"
+    "Subscriber Count": 300000,
+    "Popularity Threshold": 2
   },
   "OP01/PHC-057": {
     "id": "OP01/PHC-057",
@@ -2166,8 +2166,8 @@
     "tags": [
       "Streaming"
     ],
-    "subscriberCount": "400000",
-    "popularityThreshold": "3"
+    "Subscriber Count": 400000,
+    "Popularity Threshold": 3
   },
   "OP01/PHC-058": {
     "id": "OP01/PHC-058",
@@ -2195,8 +2195,8 @@
     "tags": [
       "Streaming"
     ],
-    "subscriberCount": "400000",
-    "popularityThreshold": "3"
+    "Subscriber Count": 400000,
+    "Popularity Threshold": 3
   },
   "OP01/PHC-059": {
     "id": "OP01/PHC-059",
@@ -2223,8 +2223,8 @@
       "Independent",
       "Podcasting"
     ],
-    "subscriberCount": "600000",
-    "popularityThreshold": "4"
+    "Subscriber Count": 600000,
+    "Popularity Threshold": 4
   },
   "OP01/PHC-060": {
     "id": "OP01/PHC-060",
@@ -2251,8 +2251,8 @@
       "Image Sharing",
       "Independent"
     ],
-    "subscriberCount": "500000",
-    "popularityThreshold": "3"
+    "Subscriber Count": 500000,
+    "Popularity Threshold": 3
   },
   "OP01/PHC-061": {
     "id": "OP01/PHC-061",
@@ -2279,8 +2279,8 @@
       "Independent",
       "Video"
     ],
-    "subscriberCount": "200000",
-    "popularityThreshold": "1"
+    "Subscriber Count": 200000,
+    "Popularity Threshold": 1
   },
   "OP01/PHC-062": {
     "id": "OP01/PHC-062",
@@ -2308,8 +2308,8 @@
     "tags": [
       "Video"
     ],
-    "subscriberCount": "400000",
-    "popularityThreshold": "3"
+    "Subscriber Count": 400000,
+    "Popularity Threshold": 3
   },
   "OP01/PHC-063": {
     "id": "OP01/PHC-063",
@@ -2336,8 +2336,8 @@
       "Independent",
       "Video"
     ],
-    "subscriberCount": "500000",
-    "popularityThreshold": "3"
+    "Subscriber Count": 500000,
+    "Popularity Threshold": 3
   },
   "OP01/PHC-064": {
     "id": "OP01/PHC-064",
@@ -2363,8 +2363,8 @@
     "tags": [
       "Phase Connect"
     ],
-    "subscriberCount": "500000",
-    "popularityThreshold": "3"
+    "Subscriber Count": 500000,
+    "Popularity Threshold": 3
   },
   "OP01/PHC-065": {
     "id": "OP01/PHC-065",
@@ -2390,8 +2390,8 @@
     "tags": [
       "Phase Connect"
     ],
-    "subscriberCount": "500000",
-    "popularityThreshold": "3"
+    "Subscriber Count": 500000,
+    "Popularity Threshold": 3
   },
   "OP01/PHC-066": {
     "id": "OP01/PHC-066",
@@ -2417,8 +2417,8 @@
     "tags": [
       "Phase Connect"
     ],
-    "subscriberCount": "500000",
-    "popularityThreshold": "3"
+    "Subscriber Count": 500000,
+    "Popularity Threshold": 3
   },
   "OP01/PHC-067": {
     "id": "OP01/PHC-067",
@@ -2444,8 +2444,8 @@
     "tags": [
       "Phase Connect"
     ],
-    "subscriberCount": "500000",
-    "popularityThreshold": "3"
+    "Subscriber Count": 500000,
+    "Popularity Threshold": 3
   },
   "OP01/PHC-068": {
     "id": "OP01/PHC-068",
@@ -2471,8 +2471,8 @@
     "tags": [
       "Phase Connect"
     ],
-    "subscriberCount": "500000",
-    "popularityThreshold": "3"
+    "Subscriber Count": 500000,
+    "Popularity Threshold": 3
   },
   "OP01/PHC-069": {
     "id": "OP01/PHC-069",
@@ -2498,8 +2498,8 @@
     "tags": [
       "Phase Connect"
     ],
-    "subscriberCount": "500000",
-    "popularityThreshold": "3"
+    "Subscriber Count": 500000,
+    "Popularity Threshold": 3
   },
   "OP01/PHC-070": {
     "id": "OP01/PHC-070",
@@ -2525,8 +2525,8 @@
     "tags": [
       "Phase Connect"
     ],
-    "subscriberCount": "400000",
-    "popularityThreshold": "2"
+    "Subscriber Count": 400000,
+    "Popularity Threshold": 2
   },
   "OP01/PHC-071": {
     "id": "OP01/PHC-071",
@@ -2560,8 +2560,8 @@
       "Poggers"
     ],
     "quote": "Look, there's trash.",
-    "cost": "1",
-    "influence": "3"
+    "cost": 1,
+    "influence": 3
   },
   "OP01/PHC-072": {
     "id": "OP01/PHC-072",
@@ -2594,8 +2594,8 @@
     "genre": [
       "Poggers"
     ],
-    "cost": "2",
-    "influence": "6"
+    "cost": 2,
+    "influence": 6
   },
   "OP01/PHC-073": {
     "id": "OP01/PHC-073",
@@ -2629,8 +2629,8 @@
       "Poggers"
     ],
     "quote": "That rat has mad rizz.",
-    "cost": "3",
-    "influence": "6"
+    "cost": 3,
+    "influence": 6
   },
   "OP01/PHC-074": {
     "id": "OP01/PHC-074",
@@ -2662,8 +2662,8 @@
     "genre": [
       "Poggers"
     ],
-    "cost": "4",
-    "influence": "7"
+    "cost": 4,
+    "influence": 7
   },
   "OP01/PHC-075": {
     "id": "OP01/PHC-075",
@@ -2698,8 +2698,8 @@
     "genre": [
       "Poggers"
     ],
-    "cost": "6",
-    "influence": "8"
+    "cost": 6,
+    "influence": 8
   },
   "OP01/PHC-076": {
     "id": "OP01/PHC-076",
@@ -2731,8 +2731,8 @@
     "genre": [
       "Poggers"
     ],
-    "cost": "8",
-    "influence": "21"
+    "cost": 8,
+    "influence": 21
   },
   "OP01/PHC-077": {
     "id": "OP01/PHC-077",
@@ -2766,7 +2766,7 @@
       "Poggers"
     ],
     "quote": "Do you eat that 'other' cheese too?",
-    "cost": "4"
+    "cost": 4
   },
   "OP01/PHC-078": {
     "id": "OP01/PHC-078",
@@ -2798,7 +2798,7 @@
     "genre": [
       "Poggers"
     ],
-    "cost": "1"
+    "cost": 1
   },
   "OP01/PHC-079": {
     "id": "OP01/PHC-079",
@@ -2830,8 +2830,8 @@
     "genre": [
       "Poggers"
     ],
-    "cost": "2",
-    "influence": "4"
+    "cost": 2,
+    "influence": 4
   },
   "OP01/PHC-080": {
     "id": "OP01/PHC-080",
@@ -2865,8 +2865,8 @@
     "genre": [
       "Poggers"
     ],
-    "cost": "3",
-    "influence": "5"
+    "cost": 3,
+    "influence": 5
   },
   "OP01/PHC-081": {
     "id": "OP01/PHC-081",
@@ -2900,8 +2900,8 @@
     "genre": [
       "Poggers"
     ],
-    "cost": "4",
-    "influence": "7"
+    "cost": 4,
+    "influence": 7
   },
   "OP01/PHC-082": {
     "id": "OP01/PHC-082",
@@ -2933,8 +2933,8 @@
     "genre": [
       "Poggers"
     ],
-    "cost": "5",
-    "influence": "8"
+    "cost": 5,
+    "influence": 8
   },
   "OP01/PHC-083": {
     "id": "OP01/PHC-083",
@@ -2966,8 +2966,8 @@
     "genre": [
       "Poggers"
     ],
-    "cost": "7",
-    "influence": "10"
+    "cost": 7,
+    "influence": 10
   },
   "OP01/PHC-084": {
     "id": "OP01/PHC-084",
@@ -3002,8 +3002,8 @@
     "genre": [
       "Poggers"
     ],
-    "cost": "10",
-    "influence": "20"
+    "cost": 10,
+    "influence": 20
   },
   "OP01/PHC-085": {
     "id": "OP01/PHC-085",
@@ -3035,7 +3035,7 @@
     "genre": [
       "Poggers"
     ],
-    "cost": "2"
+    "cost": 2
   },
   "OP01/PHC-086": {
     "id": "OP01/PHC-086",
@@ -3067,7 +3067,7 @@
     "genre": [
       "Poggers"
     ],
-    "cost": "4"
+    "cost": 4
   },
   "OP01/PHC-087": {
     "id": "OP01/PHC-087",
@@ -3101,8 +3101,8 @@
     "genre": [
       "Poggers"
     ],
-    "cost": "1",
-    "influence": "3"
+    "cost": 1,
+    "influence": 3
   },
   "OP01/PHC-088": {
     "id": "OP01/PHC-088",
@@ -3136,8 +3136,8 @@
     "genre": [
       "Poggers"
     ],
-    "cost": "3",
-    "influence": "5"
+    "cost": 3,
+    "influence": 5
   },
   "OP01/PHC-089": {
     "id": "OP01/PHC-089",
@@ -3169,8 +3169,8 @@
       "Poggers"
     ],
     "quote": "I'm gonna drink 7 beers after this stream.",
-    "cost": "4",
-    "influence": "6"
+    "cost": 4,
+    "influence": 6
   },
   "OP01/PHC-090": {
     "id": "OP01/PHC-090",
@@ -3202,8 +3202,8 @@
     "genre": [
       "Poggers"
     ],
-    "cost": "5",
-    "influence": "6"
+    "cost": 5,
+    "influence": 6
   },
   "OP01/PHC-091": {
     "id": "OP01/PHC-091",
@@ -3235,8 +3235,8 @@
     "genre": [
       "Poggers"
     ],
-    "cost": "7",
-    "influence": "10"
+    "cost": 7,
+    "influence": 10
   },
   "OP01/PHC-092": {
     "id": "OP01/PHC-092",
@@ -3268,8 +3268,8 @@
     "genre": [
       "Poggers"
     ],
-    "cost": "9",
-    "influence": "19"
+    "cost": 9,
+    "influence": 19
   },
   "OP01/PHC-093": {
     "id": "OP01/PHC-093",
@@ -3301,7 +3301,7 @@
     "genre": [
       "Poggers"
     ],
-    "cost": "3"
+    "cost": 3
   },
   "OP01/PHC-094": {
     "id": "OP01/PHC-094",
@@ -3333,7 +3333,7 @@
       "Poggers"
     ],
     "quote": "AHHH! THAT PINK SH*T!!!",
-    "cost": "4"
+    "cost": 4
   },
   "OP01/PHC-095": {
     "id": "OP01/PHC-095",
@@ -3365,8 +3365,8 @@
       "Zatsudan"
     ],
     "quote": "They have [BlockGame] for monkies.",
-    "cost": "1",
-    "influence": "2"
+    "cost": 1,
+    "influence": 2
   },
   "OP01/PHC-096": {
     "id": "OP01/PHC-096",
@@ -3398,8 +3398,8 @@
       "Zatsudan"
     ],
     "quote": "[Petite Homie]",
-    "cost": "2",
-    "influence": "4"
+    "cost": 2,
+    "influence": 4
   },
   "OP01/PHC-097": {
     "id": "OP01/PHC-097",
@@ -3431,8 +3431,8 @@
     "genre": [
       "Zatsudan"
     ],
-    "cost": "3",
-    "influence": "4"
+    "cost": 3,
+    "influence": 4
   },
   "OP01/PHC-098": {
     "id": "OP01/PHC-098",
@@ -3466,8 +3466,8 @@
       "Zatsudan"
     ],
     "quote": "...getting food poisoning was not the plan.",
-    "cost": "5",
-    "influence": "10"
+    "cost": 5,
+    "influence": 10
   },
   "OP01/PHC-099": {
     "id": "OP01/PHC-099",
@@ -3501,8 +3501,8 @@
     "genre": [
       "Zatsudan"
     ],
-    "cost": "6",
-    "influence": "9"
+    "cost": 6,
+    "influence": 9
   },
   "OP01/PHC-100": {
     "id": "OP01/PHC-100",
@@ -3535,8 +3535,8 @@
     "genre": [
       "Zatsudan"
     ],
-    "cost": "8",
-    "influence": "15"
+    "cost": 8,
+    "influence": 15
   },
   "OP01/PHC-101": {
     "id": "OP01/PHC-101",
@@ -3568,7 +3568,7 @@
     "genre": [
       "Zatsudan"
     ],
-    "cost": "1"
+    "cost": 1
   },
   "OP01/PHC-102": {
     "id": "OP01/PHC-102",
@@ -3600,7 +3600,7 @@
     "genre": [
       "Zatsudan"
     ],
-    "cost": "4"
+    "cost": 4
   },
   "OP01/PHC-103": {
     "id": "OP01/PHC-103",
@@ -3634,8 +3634,8 @@
       "Zatsudan"
     ],
     "quote": "You should act like you just got a free advertisement.",
-    "cost": "1",
-    "influence": "2"
+    "cost": 1,
+    "influence": 2
   },
   "OP01/PHC-104": {
     "id": "OP01/PHC-104",
@@ -3667,8 +3667,8 @@
     "genre": [
       "Zatsudan"
     ],
-    "cost": "2",
-    "influence": "3"
+    "cost": 2,
+    "influence": 3
   },
   "OP01/PHC-105": {
     "id": "OP01/PHC-105",
@@ -3702,8 +3702,8 @@
     "genre": [
       "Zatsudan"
     ],
-    "cost": "3",
-    "influence": "5"
+    "cost": 3,
+    "influence": 5
   },
   "OP01/PHC-106": {
     "id": "OP01/PHC-106",
@@ -3735,8 +3735,8 @@
       "Zatsudan"
     ],
     "quote": "I'm a contrarian and I'm gonna say your statement sucks massive...",
-    "cost": "4",
-    "influence": "5"
+    "cost": 4,
+    "influence": 5
   },
   "OP01/PHC-107": {
     "id": "OP01/PHC-107",
@@ -3768,8 +3768,8 @@
     "genre": [
       "Zatsudan"
     ],
-    "cost": "6",
-    "influence": "10"
+    "cost": 6,
+    "influence": 10
   },
   "OP01/PHC-108": {
     "id": "OP01/PHC-108",
@@ -3801,8 +3801,8 @@
     "genre": [
       "Zatsudan"
     ],
-    "cost": "8",
-    "influence": "15"
+    "cost": 8,
+    "influence": 15
   },
   "OP01/PHC-109": {
     "id": "OP01/PHC-109",
@@ -3834,7 +3834,7 @@
     "genre": [
       "Zatsudan"
     ],
-    "cost": "3"
+    "cost": 3
   },
   "OP01/PHC-110": {
     "id": "OP01/PHC-110",
@@ -3866,7 +3866,7 @@
     "genre": [
       "Zatsudan"
     ],
-    "cost": "8"
+    "cost": 8
   },
   "OP01/PHC-111": {
     "id": "OP01/PHC-111",
@@ -3900,8 +3900,8 @@
       "Zatsudan"
     ],
     "quote": "C-F-D C-F-V",
-    "cost": "2",
-    "influence": "4"
+    "cost": 2,
+    "influence": 4
   },
   "OP01/PHC-112": {
     "id": "OP01/PHC-112",
@@ -3933,8 +3933,8 @@
       "Zatsudan"
     ],
     "quote": "Kind of surprising that people wants to marry people from Phase Connect.",
-    "cost": "3",
-    "influence": "4"
+    "cost": 3,
+    "influence": 4
   },
   "OP01/PHC-113": {
     "id": "OP01/PHC-113",
@@ -3968,8 +3968,8 @@
       "Zatsudan"
     ],
     "quote": "My name is Jaxa.",
-    "cost": "4",
-    "influence": "7"
+    "cost": 4,
+    "influence": 7
   },
   "OP01/PHC-114": {
     "id": "OP01/PHC-114",
@@ -4001,8 +4001,8 @@
     "genre": [
       "Zatsudan"
     ],
-    "cost": "3",
-    "influence": "5"
+    "cost": 3,
+    "influence": 5
   },
   "OP01/PHC-115": {
     "id": "OP01/PHC-115",
@@ -4036,8 +4036,8 @@
       "Zatsudan"
     ],
     "quote": "Flame Thrower!",
-    "cost": "7",
-    "influence": "10"
+    "cost": 7,
+    "influence": 10
   },
   "OP01/PHC-116": {
     "id": "OP01/PHC-116",
@@ -4069,8 +4069,8 @@
       "Zatsudan"
     ],
     "quote": "Clip Out of Context",
-    "cost": "10",
-    "influence": "21"
+    "cost": 10,
+    "influence": 21
   },
   "OP01/PHC-117": {
     "id": "OP01/PHC-117",
@@ -4102,7 +4102,7 @@
       "Zatsudan"
     ],
     "quote": "That girl has a weird thing on her bike.",
-    "cost": "2"
+    "cost": 2
   },
   "OP01/PHC-118": {
     "id": "OP01/PHC-118",
@@ -4135,7 +4135,7 @@
       "Zatsudan"
     ],
     "quote": "I hope she breaks her [REDACTED].",
-    "cost": "3"
+    "cost": 3
   },
   "OP01/PHC-119": {
     "id": "OP01/PHC-119",
@@ -4167,8 +4167,8 @@
       "Creatives"
     ],
     "quote": "I hope you go to [BuildABunny].",
-    "cost": "1",
-    "influence": "3"
+    "cost": 1,
+    "influence": 3
   },
   "OP01/PHC-120": {
     "id": "OP01/PHC-120",
@@ -4202,8 +4202,8 @@
     "genre": [
       "Creatives"
     ],
-    "cost": "3",
-    "influence": "6"
+    "cost": 3,
+    "influence": 6
   },
   "OP01/PHC-121": {
     "id": "OP01/PHC-121",
@@ -4246,8 +4246,8 @@
     "genre": [
       "Creatives"
     ],
-    "cost": "4",
-    "influence": "5"
+    "cost": 4,
+    "influence": 5
   },
   "OP01/PHC-122": {
     "id": "OP01/PHC-122",
@@ -4280,8 +4280,8 @@
       "Creatives"
     ],
     "quote": "She might not burn things down exactly but she will bring a disaster.",
-    "cost": "5",
-    "influence": "13"
+    "cost": 5,
+    "influence": 13
   },
   "OP01/PHC-123": {
     "id": "OP01/PHC-123",
@@ -4319,8 +4319,8 @@
     "genre": [
       "Creatives"
     ],
-    "cost": "6",
-    "influence": "9"
+    "cost": 6,
+    "influence": 9
   },
   "OP01/PHC-124": {
     "id": "OP01/PHC-124",
@@ -4354,8 +4354,8 @@
     "genre": [
       "Creatives"
     ],
-    "cost": "9",
-    "influence": "16"
+    "cost": 9,
+    "influence": 16
   },
   "OP01/PHC-125": {
     "id": "OP01/PHC-125",
@@ -4387,7 +4387,7 @@
       "Creatives"
     ],
     "quote": "You're always baby.",
-    "cost": "2"
+    "cost": 2
   },
   "OP01/PHC-126": {
     "id": "OP01/PHC-126",
@@ -4419,7 +4419,7 @@
       "Creatives"
     ],
     "quote": "I'll be your sister.",
-    "cost": "1"
+    "cost": 1
   },
   "OP01/PHC-127": {
     "id": "OP01/PHC-127",
@@ -4453,8 +4453,8 @@
     "genre": [
       "Creatives"
     ],
-    "cost": "1",
-    "influence": "3"
+    "cost": 1,
+    "influence": 3
   },
   "OP01/PHC-128": {
     "id": "OP01/PHC-128",
@@ -4488,8 +4488,8 @@
     "genre": [
       "Creatives"
     ],
-    "cost": "2",
-    "influence": "4"
+    "cost": 2,
+    "influence": 4
   },
   "OP01/PHC-129": {
     "id": "OP01/PHC-129",
@@ -4521,8 +4521,8 @@
     "genre": [
       "Creatives"
     ],
-    "cost": "3",
-    "influence": "4"
+    "cost": 3,
+    "influence": 4
   },
   "OP01/PHC-130": {
     "id": "OP01/PHC-130",
@@ -4556,8 +4556,8 @@
     "genre": [
       "Creatives"
     ],
-    "cost": "5",
-    "influence": "9"
+    "cost": 5,
+    "influence": 9
   },
   "OP01/PHC-131": {
     "id": "OP01/PHC-131",
@@ -4589,8 +4589,8 @@
       "Creatives"
     ],
     "quote": "I eat like I'm a dog.",
-    "cost": "6",
-    "influence": "9"
+    "cost": 6,
+    "influence": 9
   },
   "OP01/PHC-132": {
     "id": "OP01/PHC-132",
@@ -4622,8 +4622,8 @@
     "genre": [
       "Creatives"
     ],
-    "cost": "8",
-    "influence": "20"
+    "cost": 8,
+    "influence": 20
   },
   "OP01/PHC-133": {
     "id": "OP01/PHC-133",
@@ -4656,7 +4656,7 @@
     "genre": [
       "Creatives"
     ],
-    "cost": "3"
+    "cost": 3
   },
   "OP01/PHC-134": {
     "id": "OP01/PHC-134",
@@ -4723,8 +4723,8 @@
       "Creatives"
     ],
     "quote": "You can now punch every single generation.",
-    "cost": "1",
-    "influence": "2"
+    "cost": 1,
+    "influence": 2
   },
   "OP01/PHC-136": {
     "id": "OP01/PHC-136",
@@ -4756,8 +4756,8 @@
     "genre": [
       "Creatives"
     ],
-    "cost": "2",
-    "influence": "4"
+    "cost": 2,
+    "influence": 4
   },
   "OP01/PHC-137": {
     "id": "OP01/PHC-137",
@@ -4791,8 +4791,8 @@
     "genre": [
       "Creatives"
     ],
-    "cost": "3",
-    "influence": "5"
+    "cost": 3,
+    "influence": 5
   },
   "OP01/PHC-138": {
     "id": "OP01/PHC-138",
@@ -4830,8 +4830,8 @@
     "genre": [
       "Creatives"
     ],
-    "cost": "3",
-    "influence": "4"
+    "cost": 3,
+    "influence": 4
   },
   "OP01/PHC-139": {
     "id": "OP01/PHC-139",
@@ -4865,8 +4865,8 @@
       "Creatives"
     ],
     "quote": "Welcome to Phase Connect.",
-    "cost": "6",
-    "influence": "8"
+    "cost": 6,
+    "influence": 8
   },
   "OP01/PHC-140": {
     "id": "OP01/PHC-140",
@@ -4907,8 +4907,8 @@
     "genre": [
       "Creatives"
     ],
-    "cost": "8",
-    "influence": "14"
+    "cost": 8,
+    "influence": 14
   },
   "OP01/PHC-141": {
     "id": "OP01/PHC-141",
@@ -4942,7 +4942,7 @@
       "Creatives"
     ],
     "quote": "Can't believe our boss is on the stream.",
-    "cost": "1"
+    "cost": 1
   },
   "OP01/PHC-142": {
     "id": "OP01/PHC-142",
@@ -4976,7 +4976,7 @@
     "genre": [
       "Creatives"
     ],
-    "cost": "2"
+    "cost": 2
   },
   "OP01/PHC-143": {
     "id": "OP01/PHC-143",
@@ -5011,8 +5011,8 @@
     "genre": [
       "Experience"
     ],
-    "cost": "4",
-    "influence": "2"
+    "cost": 4,
+    "influence": 2
   },
   "OP01/PHC-144": {
     "id": "OP01/PHC-144",
@@ -5044,8 +5044,8 @@
       "Experience"
     ],
     "quote": "[527]",
-    "cost": "3",
-    "influence": "6"
+    "cost": 3,
+    "influence": 6
   },
   "OP01/PHC-145": {
     "id": "OP01/PHC-145",
@@ -5080,8 +5080,8 @@
       "Experience"
     ],
     "quote": "A lot of blue bears are still produced sexually.",
-    "cost": "4",
-    "influence": "8"
+    "cost": 4,
+    "influence": 8
   },
   "OP01/PHC-146": {
     "id": "OP01/PHC-146",
@@ -5113,8 +5113,8 @@
       "Experience"
     ],
     "quote": "They're putting nanotechnologies inside of the vaccines.",
-    "cost": "2",
-    "influence": "4"
+    "cost": 2,
+    "influence": 4
   },
   "OP01/PHC-147": {
     "id": "OP01/PHC-147",
@@ -5148,8 +5148,8 @@
       "Experience"
     ],
     "quote": "[No Pancakes]",
-    "cost": "7",
-    "influence": "10"
+    "cost": 7,
+    "influence": 10
   },
   "OP01/PHC-148": {
     "id": "OP01/PHC-148",
@@ -5183,8 +5183,8 @@
     "genre": [
       "Experience"
     ],
-    "cost": "10",
-    "influence": "15"
+    "cost": 10,
+    "influence": 15
   },
   "OP01/PHC-149": {
     "id": "OP01/PHC-149",
@@ -5216,7 +5216,7 @@
       "Experience"
     ],
     "quote": "If somebody kneels, I'm gonna kneel down too so I can take your hand.",
-    "cost": "1"
+    "cost": 1
   },
   "OP01/PHC-150": {
     "id": "OP01/PHC-150",
@@ -5248,7 +5248,7 @@
     "genre": [
       "Experience"
     ],
-    "cost": "4"
+    "cost": 4
   },
   "OP01/PHC-151": {
     "id": "OP01/PHC-151",
@@ -5282,8 +5282,8 @@
     "genre": [
       "Experience"
     ],
-    "cost": "1",
-    "influence": "3"
+    "cost": 1,
+    "influence": 3
   },
   "OP01/PHC-152": {
     "id": "OP01/PHC-152",
@@ -5317,8 +5317,8 @@
       "Experience"
     ],
     "quote": "[Uruka owns 5 flannels.]",
-    "cost": "3",
-    "influence": "5"
+    "cost": 3,
+    "influence": 5
   },
   "OP01/PHC-153": {
     "id": "OP01/PHC-153",
@@ -5350,8 +5350,8 @@
     "genre": [
       "Experience"
     ],
-    "cost": "4",
-    "influence": "7"
+    "cost": 4,
+    "influence": 7
   },
   "OP01/PHC-154": {
     "id": "OP01/PHC-154",
@@ -5383,8 +5383,8 @@
     "genre": [
       "Experience"
     ],
-    "cost": "7",
-    "influence": "10"
+    "cost": 7,
+    "influence": 10
   },
   "OP01/PHC-155": {
     "id": "OP01/PHC-155",
@@ -5416,8 +5416,8 @@
       "Experience"
     ],
     "quote": "Raise both your hands at the same time.",
-    "cost": "2",
-    "influence": "4"
+    "cost": 2,
+    "influence": 4
   },
   "OP01/PHC-156": {
     "id": "OP01/PHC-156",
@@ -5449,8 +5449,8 @@
     "genre": [
       "Experience"
     ],
-    "cost": "9",
-    "influence": "19"
+    "cost": 9,
+    "influence": 19
   },
   "OP01/PHC-157": {
     "id": "OP01/PHC-157",
@@ -5483,7 +5483,7 @@
       "Experience"
     ],
     "quote": "Hissssssssss",
-    "cost": "2"
+    "cost": 2
   },
   "OP01/PHC-158": {
     "id": "OP01/PHC-158",
@@ -5516,7 +5516,7 @@
     "genre": [
       "Experience"
     ],
-    "cost": "7"
+    "cost": 7
   },
   "OP01/PHC-159": {
     "id": "OP01/PHC-159",
@@ -5550,8 +5550,8 @@
       "Experience"
     ],
     "quote": "I'm getting light notes of grandma's musty chair.",
-    "cost": "1",
-    "influence": "2"
+    "cost": 1,
+    "influence": 2
   },
   "OP01/PHC-160": {
     "id": "OP01/PHC-160",
@@ -5583,8 +5583,8 @@
       "Experience"
     ],
     "quote": "Need a whole new keyboard for a single spacebar.",
-    "cost": "2",
-    "influence": "2"
+    "cost": 2,
+    "influence": 2
   },
   "OP01/PHC-161": {
     "id": "OP01/PHC-161",
@@ -5618,8 +5618,8 @@
       "Experience"
     ],
     "quote": "I could find you a new daddy right now.",
-    "cost": "3",
-    "influence": "4"
+    "cost": 3,
+    "influence": 4
   },
   "OP01/PHC-162": {
     "id": "OP01/PHC-162",
@@ -5651,8 +5651,8 @@
       "Experience"
     ],
     "quote": "[BIGGER]",
-    "cost": "5",
-    "influence": "8"
+    "cost": 5,
+    "influence": 8
   },
   "OP01/PHC-163": {
     "id": "OP01/PHC-163",
@@ -5692,8 +5692,8 @@
     "genre": [
       "Experience"
     ],
-    "cost": "6",
-    "influence": "2"
+    "cost": 6,
+    "influence": 2
   },
   "OP01/PHC-164": {
     "id": "OP01/PHC-164",
@@ -5725,7 +5725,7 @@
     "genre": [
       "Experience"
     ],
-    "cost": "8"
+    "cost": 8
   },
   "OP01/PHC-165": {
     "id": "OP01/PHC-165",
@@ -5757,7 +5757,7 @@
     "genre": [
       "Experience"
     ],
-    "cost": "2"
+    "cost": 2
   },
   "OP01/PHC-166": {
     "id": "OP01/PHC-166",
@@ -5789,7 +5789,7 @@
       "Experience"
     ],
     "quote": "Nasa pretty beam!",
-    "cost": "4"
+    "cost": 4
   },
   "OPKS/PHC-167": {
     "id": "OPKS/PHC-167",
@@ -5822,8 +5822,8 @@
     "genre": [
       "Zatsudan"
     ],
-    "bits": "4",
-    "influence": "4"
+    "bits": 4,
+    "influence": 4
   },
   "OPKS/PHC-168": {
     "id": "OPKS/PHC-168",
@@ -5846,8 +5846,8 @@
     "artist": [
       "Magpie_Feather"
     ],
-    "subscriberCount": "500000",
-    "popularityThreshold": "3",
+    "Subscriber Count": 500000,
+    "Popularity Threshold": 3,
     "tags": [
       "Phase Connect"
     ]
@@ -5884,7 +5884,7 @@
     "genre": [
       "Creatives"
     ],
-    "cost": "6"
+    "cost": 6
   },
   "OPKS/PHC-043": {
     "id": "OPKS/PHC-043",
@@ -5919,9 +5919,9 @@
     "genre": [
       "Zatsudan"
     ],
-    "cost": "6",
-    "bits": "5",
-    "influence": "7"
+    "cost": 6,
+    "bits": 5,
+    "influence": 7
   },
   "OPKS/PHC-045": {
     "id": "OPKS/PHC-045",
@@ -5956,8 +5956,8 @@
     "genre": [
       "Poggers"
     ],
-    "cost": "6",
-    "influence": "10"
+    "cost": 6,
+    "influence": 10
   },
   "OPKS/PHC-046": {
     "id": "OPKS/PHC-046",
@@ -5989,7 +5989,7 @@
     "genre": [
       "Zatsudan"
     ],
-    "cost": "2"
+    "cost": 2
   },
   "OPKS/PHC-044": {
     "id": "OPKS/PHC-044",
@@ -6024,9 +6024,9 @@
     "genre": [
       "Experience"
     ],
-    "cost": "7",
-    "bits": "5",
-    "influence": "7"
+    "cost": 7,
+    "bits": 5,
+    "influence": 7
   },
   "OPKS/PHC-047": {
     "id": "OPKS/PHC-047",
@@ -6058,8 +6058,8 @@
     "genre": [
       "Experience"
     ],
-    "cost": "1",
-    "influence": "2"
+    "cost": 1,
+    "influence": 2
   },
   "OPKS/PHC-048": {
     "id": "OPKS/PHC-048",
@@ -6091,7 +6091,7 @@
     "genre": [
       "Creatives"
     ],
-    "cost": "2"
+    "cost": 2
   },
   "OP02/HKS-001": {
     "id": "OP02/HKS-001",
@@ -6122,8 +6122,8 @@
     "genre": [
       "Poggers"
     ],
-    "bits": "3",
-    "influence": "3"
+    "bits": 3,
+    "influence": 3
   },
   "OP02/HKS-002": {
     "id": "OP02/HKS-002",
@@ -6157,9 +6157,9 @@
     "genre": [
       "Poggers"
     ],
-    "cost": "2",
-    "bits": "4",
-    "influence": "4"
+    "cost": 2,
+    "bits": 4,
+    "influence": 4
   },
   "OP02/HKS-003": {
     "id": "OP02/HKS-003",
@@ -6193,9 +6193,9 @@
     "genre": [
       "Poggers"
     ],
-    "cost": "6",
-    "bits": "5",
-    "influence": "7"
+    "cost": 6,
+    "bits": 5,
+    "influence": 7
   },
   "OP02/HKS-004": {
     "id": "OP02/HKS-004",
@@ -6227,8 +6227,8 @@
     "genre": [
       "Poggers"
     ],
-    "cost": "4",
-    "influence": "5"
+    "cost": 4,
+    "influence": 5
   },
   "OP02/HKS-005": {
     "id": "OP02/HKS-005",
@@ -6260,7 +6260,7 @@
     "genre": [
       "Zatsudan"
     ],
-    "cost": "2"
+    "cost": 2
   },
   "OP02/HKS-006": {
     "id": "OP02/HKS-006",
@@ -6293,8 +6293,8 @@
     "genre": [
       "Poggers"
     ],
-    "bits": "3",
-    "influence": "3"
+    "bits": 3,
+    "influence": 3
   },
   "OP02/HKS-007": {
     "id": "OP02/HKS-007",
@@ -6329,9 +6329,9 @@
     "genre": [
       "Poggers"
     ],
-    "cost": "3",
-    "bits": "4",
-    "influence": "4"
+    "cost": 3,
+    "bits": 4,
+    "influence": 4
   },
   "OP02/HKS-008": {
     "id": "OP02/HKS-008",
@@ -6366,9 +6366,9 @@
       "Poggers"
     ],
     "nickname": "Retired Captain",
-    "cost": "7",
-    "bits": "5",
-    "influence": "5"
+    "cost": 7,
+    "bits": 5,
+    "influence": 5
   },
   "OP02/HKS-009": {
     "id": "OP02/HKS-009",
@@ -6402,8 +6402,8 @@
     "genre": [
       "Zatsudan"
     ],
-    "cost": "5",
-    "influence": "6"
+    "cost": 5,
+    "influence": 6
   },
   "OP02/HKS-010": {
     "id": "OP02/HKS-010",
@@ -6437,7 +6437,7 @@
     "genre": [
       "Poggers"
     ],
-    "cost": "2"
+    "cost": 2
   },
   "OP02/HKS-011": {
     "id": "OP02/HKS-011",
@@ -6470,8 +6470,8 @@
     "genre": [
       "Zatsudan"
     ],
-    "bits": "3",
-    "influence": "4"
+    "bits": 3,
+    "influence": 4
   },
   "OP02/HKS-012": {
     "id": "OP02/HKS-012",
@@ -6506,9 +6506,9 @@
       "Zatsudan"
     ],
     "nickname": "Jowol the Caretaker",
-    "cost": "4",
-    "bits": "5",
-    "influence": "4"
+    "cost": 4,
+    "bits": 5,
+    "influence": 4
   },
   "OP02/HKS-013": {
     "id": "OP02/HKS-013",
@@ -6543,9 +6543,9 @@
     "genre": [
       "Zatsudan"
     ],
-    "cost": "8",
-    "bits": "6",
-    "influence": "7"
+    "cost": 8,
+    "bits": 6,
+    "influence": 7
   },
   "OP02/HKS-014": {
     "id": "OP02/HKS-014",
@@ -6577,7 +6577,7 @@
     "genre": [
       "Zatsudan"
     ],
-    "cost": "5"
+    "cost": 5
   },
   "OP02/HKS-015": {
     "id": "OP02/HKS-015",
@@ -6609,7 +6609,7 @@
     "genre": [
       "Poggers"
     ],
-    "cost": "2"
+    "cost": 2
   },
   "OP02/HKS-016": {
     "id": "OP02/HKS-016",
@@ -6642,8 +6642,8 @@
     "genre": [
       "Creatives"
     ],
-    "bits": "3",
-    "influence": "4"
+    "bits": 3,
+    "influence": 4
   },
   "OP02/HKS-017": {
     "id": "OP02/HKS-017",
@@ -6678,9 +6678,9 @@
     "genre": [
       "Creatives"
     ],
-    "cost": "3",
-    "bits": "4",
-    "influence": "4"
+    "cost": 3,
+    "bits": 4,
+    "influence": 4
   },
   "OP02/HKS-018": {
     "id": "OP02/HKS-018",
@@ -6715,9 +6715,9 @@
     "genre": [
       "Creatives"
     ],
-    "cost": "7",
-    "bits": "5",
-    "influence": "7"
+    "cost": 7,
+    "bits": 5,
+    "influence": 7
   },
   "OP02/HKS-019": {
     "id": "OP02/HKS-019",
@@ -6749,8 +6749,8 @@
     "genre": [
       "Creatives"
     ],
-    "cost": "3",
-    "influence": "0"
+    "cost": 3,
+    "influence": 0
   },
   "OP02/HKS-020": {
     "id": "OP02/HKS-020",
@@ -6782,7 +6782,7 @@
     "genre": [
       "Zatsudan"
     ],
-    "cost": "1"
+    "cost": 1
   },
   "OP02/HKS-021": {
     "id": "OP02/HKS-021",
@@ -6813,8 +6813,8 @@
     "genre": [
       "Experience"
     ],
-    "bits": "3",
-    "influence": "0"
+    "bits": 3,
+    "influence": 0
   },
   "OP02/HKS-022": {
     "id": "OP02/HKS-022",
@@ -6848,9 +6848,9 @@
       "Experience"
     ],
     "nickname": "Sweaty Tomboy",
-    "cost": "3",
-    "bits": "5",
-    "influence": "0"
+    "cost": 3,
+    "bits": 5,
+    "influence": 0
   },
   "OP02/HKS-023": {
     "id": "OP02/HKS-023",
@@ -6882,9 +6882,9 @@
     "genre": [
       "Experience"
     ],
-    "cost": "7",
-    "bits": "7",
-    "influence": "0"
+    "cost": 7,
+    "bits": 7,
+    "influence": 0
   },
   "OP02/HKS-024": {
     "id": "OP02/HKS-024",
@@ -6916,7 +6916,7 @@
       "Experience"
     ],
     "quote": "Bugs are soulless, so I eat them without guilt!",
-    "cost": "2"
+    "cost": 2
   },
   "OP02/HKS-025": {
     "id": "OP02/HKS-025",
@@ -6948,7 +6948,7 @@
     "genre": [
       "Experience"
     ],
-    "cost": "4"
+    "cost": 4
   },
   "OP02/HKS-026": {
     "id": "OP02/HKS-026",
@@ -6982,8 +6982,8 @@
     "genre": [
       "Experience"
     ],
-    "bits": "3",
-    "influence": "4"
+    "bits": 3,
+    "influence": 4
   },
   "OP02/HKS-027": {
     "id": "OP02/HKS-027",
@@ -7018,9 +7018,9 @@
       "Experience"
     ],
     "nickname": "The Bottom Line",
-    "cost": "3",
-    "bits": "4",
-    "influence": "5"
+    "cost": 3,
+    "bits": 4,
+    "influence": 5
   },
   "OP02/HKS-028": {
     "id": "OP02/HKS-028",
@@ -7055,9 +7055,9 @@
       "Experience"
     ],
     "nickname": "Femboy Princess",
-    "cost": "7",
-    "bits": "6",
-    "influence": "6"
+    "cost": 7,
+    "bits": 6,
+    "influence": 6
   },
   "OP02/HKS-029": {
     "id": "OP02/HKS-029",
@@ -7091,8 +7091,8 @@
       "Zatsudan"
     ],
     "quote": "I don't know if I feel as special...",
-    "cost": "3",
-    "influence": "5"
+    "cost": 3,
+    "influence": 5
   },
   "OP02/HKS-030": {
     "id": "OP02/HKS-030",
@@ -7127,7 +7127,7 @@
       "Experience"
     ],
     "quote": "I'm your biggest fan.",
-    "cost": "2"
+    "cost": 2
   },
   "OP02/HKS-035": {
     "id": "OP02/HKS-035",
@@ -7156,8 +7156,8 @@
       "Independent",
       "Networking"
     ],
-    "subscriberCount": "200000",
-    "popularityThreshold": "1"
+    "Subscriber Count": 200000,
+    "Popularity Threshold": 1
   },
   "OP02/HKS-036": {
     "id": "OP02/HKS-036",
@@ -7186,8 +7186,8 @@
       "Independent",
       "Podcasting"
     ],
-    "subscriberCount": "300000",
-    "popularityThreshold": "2"
+    "Subscriber Count": 300000,
+    "Popularity Threshold": 2
   },
   "OP02/HKS-037": {
     "id": "OP02/HKS-037",
@@ -7217,8 +7217,8 @@
     "tags": [
       "Networking"
     ],
-    "subscriberCount": "300000",
-    "popularityThreshold": "2"
+    "Subscriber Count": 300000,
+    "Popularity Threshold": 2
   },
   "OP02/HKS-038": {
     "id": "OP02/HKS-038",
@@ -7248,8 +7248,8 @@
     "tags": [
       "Video"
     ],
-    "subscriberCount": "300000",
-    "popularityThreshold": "2"
+    "Subscriber Count": 300000,
+    "Popularity Threshold": 2
   },
   "OP02/HKS-039": {
     "id": "OP02/HKS-039",
@@ -7274,8 +7274,8 @@
     "artist": [
       "Magpie_Feather"
     ],
-    "subscriberCount": "300000",
-    "popularityThreshold": "2",
+    "Subscriber Count": 300000,
+    "Popularity Threshold": 2,
     "tags": [
       "Image Sharing"
     ]
@@ -7307,8 +7307,8 @@
       "Image Sharing",
       "Independent"
     ],
-    "subscriberCount": "400000",
-    "popularityThreshold": "3"
+    "Subscriber Count": 400000,
+    "Popularity Threshold": 3
   },
   "OP02/HKS-041": {
     "id": "OP02/HKS-041",
@@ -7337,8 +7337,8 @@
       "Independent",
       "Video"
     ],
-    "subscriberCount": "400000",
-    "popularityThreshold": "3"
+    "Subscriber Count": 400000,
+    "Popularity Threshold": 3
   },
   "OP02/HKS-042": {
     "id": "OP02/HKS-042",
@@ -7368,8 +7368,8 @@
     "tags": [
       "Podcasting"
     ],
-    "subscriberCount": "400000",
-    "popularityThreshold": "3"
+    "Subscriber Count": 400000,
+    "Popularity Threshold": 3
   },
   "OP02/HKS-043": {
     "id": "OP02/HKS-043",
@@ -7394,8 +7394,8 @@
     "artist": [
       "Magpie_Feather"
     ],
-    "subscriberCount": "400000",
-    "popularityThreshold": "3",
+    "Subscriber Count": 400000,
+    "Popularity Threshold": 3,
     "tags": [
       "Streaming"
     ]
@@ -7423,8 +7423,8 @@
     "artist": [
       "Magpie_Feather"
     ],
-    "subscriberCount": "400000",
-    "popularityThreshold": "3",
+    "Subscriber Count": 400000,
+    "Popularity Threshold": 3,
     "tags": [
       "Networking"
     ]
@@ -7452,8 +7452,8 @@
     "artist": [
       "Magpie_Feather"
     ],
-    "subscriberCount": "400000",
-    "popularityThreshold": "3",
+    "Subscriber Count": 400000,
+    "Popularity Threshold": 3,
     "tags": [
       "Networking"
     ]
@@ -7485,8 +7485,8 @@
       "Independent",
       "Video"
     ],
-    "subscriberCount": "500000",
-    "popularityThreshold": "3"
+    "Subscriber Count": 500000,
+    "Popularity Threshold": 3
   },
   "OP02/HKS-047": {
     "id": "OP02/HKS-047",
@@ -7516,8 +7516,8 @@
     "tags": [
       "Image Sharing"
     ],
-    "subscriberCount": "500000",
-    "popularityThreshold": "3"
+    "Subscriber Count": 500000,
+    "Popularity Threshold": 3
   },
   "OP02/HKS-048": {
     "id": "OP02/HKS-048",
@@ -7542,8 +7542,8 @@
     "artist": [
       "Magpie_Feather"
     ],
-    "subscriberCount": "500000",
-    "popularityThreshold": "3",
+    "Subscriber Count": 500000,
+    "Popularity Threshold": 3,
     "tags": [
       "Podcasting"
     ]
@@ -7573,8 +7573,8 @@
       "Independent",
       "Streaming"
     ],
-    "subscriberCount": "600000",
-    "popularityThreshold": "4"
+    "Subscriber Count": 600000,
+    "Popularity Threshold": 4
   },
   "OP02/HKS-050": {
     "id": "OP02/HKS-050",
@@ -7599,8 +7599,8 @@
     "artist": [
       "Magpie_Feather"
     ],
-    "subscriberCount": "600000",
-    "popularityThreshold": "4",
+    "Subscriber Count": 600000,
+    "Popularity Threshold": 4,
     "tags": [
       "Streaming"
     ]
@@ -7630,8 +7630,8 @@
     "artist": [
       "XrayDreads"
     ],
-    "subscriberCount": "400000",
-    "popularityThreshold": "3"
+    "Subscriber Count": 400000,
+    "Popularity Threshold": 3
   },
   "OP02/HKS-052": {
     "id": "OP02/HKS-052",
@@ -7656,8 +7656,8 @@
     "artist": [
       "Magpie_Feather"
     ],
-    "subscriberCount": "400000",
-    "popularityThreshold": "3"
+    "Subscriber Count": 400000,
+    "Popularity Threshold": 3
   },
   "OP02/HKS-053": {
     "id": "OP02/HKS-053",
@@ -7682,8 +7682,8 @@
     "artist": [
       "Magpie_Feather"
     ],
-    "subscriberCount": "400000",
-    "popularityThreshold": "3",
+    "Subscriber Count": 400000,
+    "Popularity Threshold": 3,
     "tags": []
   },
   "OP02/HKS-054": {
@@ -7709,8 +7709,8 @@
     "artist": [
       "UwUMedia"
     ],
-    "subscriberCount": "400000",
-    "popularityThreshold": "3",
+    "Subscriber Count": 400000,
+    "Popularity Threshold": 3,
     "tags": []
   },
   "OP02/HKS-055": {
@@ -7736,8 +7736,8 @@
     "artist": [
       "Magpie_Feather"
     ],
-    "subscriberCount": "400000",
-    "popularityThreshold": "3",
+    "Subscriber Count": 400000,
+    "Popularity Threshold": 3,
     "tags": []
   },
   "OP02/HKS-056": {
@@ -7765,8 +7765,8 @@
     "artist": [
       "Kream_VT"
     ],
-    "subscriberCount": "400000",
-    "popularityThreshold": "3"
+    "Subscriber Count": 400000,
+    "Popularity Threshold": 3
   },
   "OP02/HKS-057": {
     "id": "OP02/HKS-057",
@@ -7800,8 +7800,8 @@
       "Poggers"
     ],
     "quote": "She could if she calls me!",
-    "cost": "1",
-    "influence": "4"
+    "cost": 1,
+    "influence": 4
   },
   "OP02/HKS-058": {
     "id": "OP02/HKS-058",
@@ -7835,8 +7835,8 @@
     "genre": [
       "Poggers"
     ],
-    "cost": "2",
-    "influence": "3"
+    "cost": 2,
+    "influence": 3
   },
   "OP02/HKS-059": {
     "id": "OP02/HKS-059",
@@ -7870,8 +7870,8 @@
     "genre": [
       "Poggers"
     ],
-    "cost": "2",
-    "influence": "10"
+    "cost": 2,
+    "influence": 10
   },
   "OP02/HKS-060": {
     "id": "OP02/HKS-060",
@@ -7903,8 +7903,8 @@
     "genre": [
       "Poggers"
     ],
-    "cost": "3",
-    "influence": "11"
+    "cost": 3,
+    "influence": 11
   },
   "OP02/HKS-061": {
     "id": "OP02/HKS-061",
@@ -7936,8 +7936,8 @@
     "genre": [
       "Poggers"
     ],
-    "cost": "6",
-    "influence": "9"
+    "cost": 6,
+    "influence": 9
   },
   "OP02/HKS-062": {
     "id": "OP02/HKS-062",
@@ -7972,8 +7972,8 @@
     "genre": [
       "Poggers"
     ],
-    "cost": "9",
-    "influence": "23"
+    "cost": 9,
+    "influence": 23
   },
   "OP02/HKS-063": {
     "id": "OP02/HKS-063",
@@ -8005,7 +8005,7 @@
     "genre": [
       "Poggers"
     ],
-    "cost": "2"
+    "cost": 2
   },
   "OP02/HKS-064": {
     "id": "OP02/HKS-064",
@@ -8039,7 +8039,7 @@
     "genre": [
       "Poggers"
     ],
-    "cost": "3"
+    "cost": 3
   },
   "OP02/HKS-065": {
     "id": "OP02/HKS-065",
@@ -8073,9 +8073,9 @@
     "genre": [
       "Poggers"
     ],
-    "cost": "6",
-    "bits": "0",
-    "influence": "6"
+    "cost": 6,
+    "bits": 0,
+    "influence": 6
   },
   "OP02/HKS-066": {
     "id": "OP02/HKS-066",
@@ -8110,8 +8110,8 @@
       "Poggers"
     ],
     "quote": "Welcome to my flower shop!... We only sell bread.",
-    "cost": "2",
-    "influence": "3"
+    "cost": 2,
+    "influence": 3
   },
   "OP02/HKS-067": {
     "id": "OP02/HKS-067",
@@ -8143,8 +8143,8 @@
     "genre": [
       "Poggers"
     ],
-    "cost": "3",
-    "influence": "4"
+    "cost": 3,
+    "influence": 4
   },
   "OP02/HKS-068": {
     "id": "OP02/HKS-068",
@@ -8176,8 +8176,8 @@
     "genre": [
       "Poggers"
     ],
-    "cost": "4",
-    "influence": "6"
+    "cost": 4,
+    "influence": 6
   },
   "OP02/HKS-069": {
     "id": "OP02/HKS-069",
@@ -8209,8 +8209,8 @@
     "genre": [
       "Poggers"
     ],
-    "cost": "5",
-    "influence": "8"
+    "cost": 5,
+    "influence": 8
   },
   "OP02/HKS-070": {
     "id": "OP02/HKS-070",
@@ -8242,8 +8242,8 @@
     "genre": [
       "Poggers"
     ],
-    "cost": "6",
-    "influence": "8"
+    "cost": 6,
+    "influence": 8
   },
   "OP02/HKS-071": {
     "id": "OP02/HKS-071",
@@ -8275,8 +8275,8 @@
     "genre": [
       "Poggers"
     ],
-    "cost": "8",
-    "influence": "15"
+    "cost": 8,
+    "influence": 15
   },
   "OP02/HKS-072": {
     "id": "OP02/HKS-072",
@@ -8308,7 +8308,7 @@
     "genre": [
       "Poggers"
     ],
-    "cost": "4"
+    "cost": 4
   },
   "OP02/HKS-073": {
     "id": "OP02/HKS-073",
@@ -8340,7 +8340,7 @@
       "Poggers"
     ],
     "quote": "Why's that a thing?",
-    "cost": "6"
+    "cost": 6
   },
   "OP02/HKS-074": {
     "id": "OP02/HKS-074",
@@ -8375,9 +8375,9 @@
     "genre": [
       "Poggers"
     ],
-    "cost": "3",
-    "bits": "1",
-    "influence": "0"
+    "cost": 3,
+    "bits": 1,
+    "influence": 0
   },
   "OP02/HKS-075": {
     "id": "OP02/HKS-075",
@@ -8410,8 +8410,8 @@
     "genre": [
       "Poggers"
     ],
-    "cost": "1",
-    "influence": "3"
+    "cost": 1,
+    "influence": 3
   },
   "OP02/HKS-076": {
     "id": "OP02/HKS-076",
@@ -8445,8 +8445,8 @@
     "genre": [
       "Poggers"
     ],
-    "cost": "2",
-    "influence": "4"
+    "cost": 2,
+    "influence": 4
   },
   "OP02/HKS-077": {
     "id": "OP02/HKS-077",
@@ -8478,8 +8478,8 @@
     "genre": [
       "Poggers"
     ],
-    "cost": "3",
-    "influence": "6"
+    "cost": 3,
+    "influence": 6
   },
   "OP02/HKS-078": {
     "id": "OP02/HKS-078",
@@ -8511,8 +8511,8 @@
     "genre": [
       "Poggers"
     ],
-    "cost": "4",
-    "influence": "6"
+    "cost": 4,
+    "influence": 6
   },
   "OP02/HKS-079": {
     "id": "OP02/HKS-079",
@@ -8544,8 +8544,8 @@
       "Poggers"
     ],
     "quote": "Ignore the fact that I can go big and small.",
-    "cost": "5",
-    "influence": "7"
+    "cost": 5,
+    "influence": 7
   },
   "OP02/HKS-080": {
     "id": "OP02/HKS-080",
@@ -8577,8 +8577,8 @@
     "genre": [
       "Poggers"
     ],
-    "cost": "7",
-    "influence": "17"
+    "cost": 7,
+    "influence": 17
   },
   "OP02/HKS-081": {
     "id": "OP02/HKS-081",
@@ -8610,7 +8610,7 @@
     "genre": [
       "Poggers"
     ],
-    "cost": "2"
+    "cost": 2
   },
   "OP02/HKS-082": {
     "id": "OP02/HKS-082",
@@ -8642,7 +8642,7 @@
     "genre": [
       "Poggers"
     ],
-    "cost": "3"
+    "cost": 3
   },
   "OP02/HKS-083": {
     "id": "OP02/HKS-083",
@@ -8676,9 +8676,9 @@
       "Poggers"
     ],
     "quote": "If Joel likes annoying things, does that mean we're annoying?",
-    "cost": "3",
-    "bits": "1",
-    "influence": "0"
+    "cost": 3,
+    "bits": 1,
+    "influence": 0
   },
   "OP02/HKS-084": {
     "id": "OP02/HKS-084",
@@ -8712,8 +8712,8 @@
     "genre": [
       "Zatsudan"
     ],
-    "cost": "3",
-    "influence": "7"
+    "cost": 3,
+    "influence": 7
   },
   "OP02/HKS-085": {
     "id": "OP02/HKS-085",
@@ -8747,8 +8747,8 @@
       "Zatsudan"
     ],
     "quote": "She took the PSP in the Divorce, but left behind Chat...",
-    "cost": "3",
-    "influence": "5"
+    "cost": 3,
+    "influence": 5
   },
   "OP02/HKS-086": {
     "id": "OP02/HKS-086",
@@ -8780,8 +8780,8 @@
       "Zatsudan"
     ],
     "quote": "I just like mature women.",
-    "cost": "3",
-    "influence": "8"
+    "cost": 3,
+    "influence": 8
   },
   "OP02/HKS-087": {
     "id": "OP02/HKS-087",
@@ -8813,8 +8813,8 @@
     "genre": [
       "Zatsudan"
     ],
-    "cost": "4",
-    "influence": "5"
+    "cost": 4,
+    "influence": 5
   },
   "OP02/HKS-088": {
     "id": "OP02/HKS-088",
@@ -8846,8 +8846,8 @@
     "genre": [
       "Zatsudan"
     ],
-    "cost": "6",
-    "influence": "11"
+    "cost": 6,
+    "influence": 11
   },
   "OP02/HKS-089": {
     "id": "OP02/HKS-089",
@@ -8880,8 +8880,8 @@
       "Zatsudan"
     ],
     "quote": "All women have hot girl IBS.",
-    "cost": "7",
-    "influence": "16"
+    "cost": 7,
+    "influence": 16
   },
   "OP02/HKS-090": {
     "id": "OP02/HKS-090",
@@ -8913,7 +8913,7 @@
       "Zatsudan"
     ],
     "quote": "She stinks, but she stinks kinda good.",
-    "cost": "2"
+    "cost": 2
   },
   "OP02/HKS-092": {
     "id": "OP02/HKS-092",
@@ -8945,7 +8945,7 @@
       "Zatsudan"
     ],
     "quote": "Zoomer Humor Test",
-    "cost": "4"
+    "cost": 4
   },
   "OP02/HKS-093": {
     "id": "OP02/HKS-093",
@@ -8979,9 +8979,9 @@
     "genre": [
       "Zatsudan"
     ],
-    "cost": "3",
-    "bits": "0",
-    "influence": "0"
+    "cost": 3,
+    "bits": 0,
+    "influence": 0
   },
   "OP02/HKS-094": {
     "id": "OP02/HKS-094",
@@ -9013,8 +9013,8 @@
       "Zatsudan"
     ],
     "quote": "I named him Ricardo.",
-    "cost": "1",
-    "influence": "2"
+    "cost": 1,
+    "influence": 2
   },
   "OP02/HKS-095": {
     "id": "OP02/HKS-095",
@@ -9048,8 +9048,8 @@
       "Zatsudan"
     ],
     "quote": "Vodka is the empty piece of paper.",
-    "cost": "2",
-    "influence": "5"
+    "cost": 2,
+    "influence": 5
   },
   "OP02/HKS-096": {
     "id": "OP02/HKS-096",
@@ -9084,8 +9084,8 @@
       "Zatsudan"
     ],
     "quote": "I'm not manspreading.",
-    "cost": "2",
-    "influence": "6"
+    "cost": 2,
+    "influence": 6
   },
   "OP02/HKS-097": {
     "id": "OP02/HKS-097",
@@ -9117,8 +9117,8 @@
       "Zatsudan"
     ],
     "quote": "On it Boss! Throwing them in the Hydraulic Press!",
-    "cost": "4",
-    "influence": "6"
+    "cost": 4,
+    "influence": 6
   },
   "OP02/HKS-098": {
     "id": "OP02/HKS-098",
@@ -9152,8 +9152,8 @@
     "genre": [
       "Zatsudan"
     ],
-    "cost": "5",
-    "influence": "7"
+    "cost": 5,
+    "influence": 7
   },
   "OP02/HKS-099": {
     "id": "OP02/HKS-099",
@@ -9187,8 +9187,8 @@
     "genre": [
       "Zatsudan"
     ],
-    "cost": "8",
-    "influence": "17"
+    "cost": 8,
+    "influence": 17
   },
   "OP02/HKS-100": {
     "id": "OP02/HKS-100",
@@ -9220,7 +9220,7 @@
       "Zatsudan"
     ],
     "quote": "Chat likes the cage.",
-    "cost": "2"
+    "cost": 2
   },
   "OP02/HKS-101": {
     "id": "OP02/HKS-101",
@@ -9252,7 +9252,7 @@
     "genre": [
       "Zatsudan"
     ],
-    "cost": "5"
+    "cost": 5
   },
   "OP02/HKS-102": {
     "id": "OP02/HKS-102",
@@ -9286,9 +9286,9 @@
       "Zatsudan"
     ],
     "quote": "There's only Minkye.",
-    "cost": "5",
-    "bits": "0",
-    "influence": "4"
+    "cost": 5,
+    "bits": 0,
+    "influence": 4
   },
   "OP02/HKS-103": {
     "id": "OP02/HKS-103",
@@ -9320,8 +9320,8 @@
       "Zatsudan"
     ],
     "quote": "It's made out of cardboard and love.",
-    "cost": "1",
-    "influence": "3"
+    "cost": 1,
+    "influence": 3
   },
   "OP02/HKS-104": {
     "id": "OP02/HKS-104",
@@ -9355,8 +9355,8 @@
     "genre": [
       "Zatsudan"
     ],
-    "cost": "2",
-    "influence": "4"
+    "cost": 2,
+    "influence": 4
   },
   "OP02/HKS-105": {
     "id": "OP02/HKS-105",
@@ -9390,8 +9390,8 @@
       "Zatsudan"
     ],
     "quote": "Give me a second, let me unzip.",
-    "cost": "2",
-    "influence": "5"
+    "cost": 2,
+    "influence": 5
   },
   "OP02/HKS-106": {
     "id": "OP02/HKS-106",
@@ -9423,8 +9423,8 @@
       "Zatsudan"
     ],
     "quote": "Wanna hold mouths?",
-    "cost": "4",
-    "influence": "5"
+    "cost": 4,
+    "influence": 5
   },
   "OP02/HKS-107": {
     "id": "OP02/HKS-107",
@@ -9456,8 +9456,8 @@
       "Zatsudan"
     ],
     "quote": "Man, I love Chat.",
-    "cost": "3",
-    "influence": "5"
+    "cost": 3,
+    "influence": 5
   },
   "OP02/HKS-108": {
     "id": "OP02/HKS-108",
@@ -9489,8 +9489,8 @@
       "Zatsudan"
     ],
     "quote": "Cuteness Aggression is telling me to eat you guys...",
-    "cost": "6",
-    "influence": "13"
+    "cost": 6,
+    "influence": 13
   },
   "OP02/HKS-109": {
     "id": "OP02/HKS-109",
@@ -9522,8 +9522,8 @@
     "genre": [
       "Zatsudan"
     ],
-    "cost": "9",
-    "influence": "15"
+    "cost": 9,
+    "influence": 15
   },
   "OP02/HKS-110": {
     "id": "OP02/HKS-110",
@@ -9557,7 +9557,7 @@
       "Zatsudan"
     ],
     "quote": "I wanna swear.",
-    "cost": "1"
+    "cost": 1
   },
   "OP02/HKS-111": {
     "id": "OP02/HKS-111",
@@ -9591,9 +9591,9 @@
     "genre": [
       "Zatsudan"
     ],
-    "cost": "6",
-    "bits": "3",
-    "influence": "0"
+    "cost": 6,
+    "bits": 3,
+    "influence": 0
   },
   "OP02/HKS-112": {
     "id": "OP02/HKS-112",
@@ -9625,8 +9625,8 @@
     "genre": [
       "Creatives"
     ],
-    "cost": "2",
-    "influence": "5"
+    "cost": 2,
+    "influence": 5
   },
   "OP02/HKS-113": {
     "id": "OP02/HKS-113",
@@ -9660,8 +9660,8 @@
     "genre": [
       "Creatives"
     ],
-    "cost": "2",
-    "influence": "5"
+    "cost": 2,
+    "influence": 5
   },
   "OP02/HKS-114": {
     "id": "OP02/HKS-114",
@@ -9696,8 +9696,8 @@
     "genre": [
       "Creatives"
     ],
-    "cost": "2",
-    "influence": "5"
+    "cost": 2,
+    "influence": 5
   },
   "OP02/HKS-115": {
     "id": "OP02/HKS-115",
@@ -9729,8 +9729,8 @@
     "genre": [
       "Creatives"
     ],
-    "cost": "3",
-    "influence": "10"
+    "cost": 3,
+    "influence": 10
   },
   "OP02/HKS-116": {
     "id": "OP02/HKS-116",
@@ -9762,8 +9762,8 @@
     "genre": [
       "Creatives"
     ],
-    "cost": "5",
-    "influence": "12"
+    "cost": 5,
+    "influence": 12
   },
   "OP02/HKS-117": {
     "id": "OP02/HKS-117",
@@ -9795,8 +9795,8 @@
     "genre": [
       "Creatives"
     ],
-    "cost": "6",
-    "influence": "17"
+    "cost": 6,
+    "influence": 17
   },
   "OP02/HKS-118": {
     "id": "OP02/HKS-118",
@@ -9828,7 +9828,7 @@
     "genre": [
       "Creatives"
     ],
-    "cost": "3"
+    "cost": 3
   },
   "OP02/HKS-119": {
     "id": "OP02/HKS-119",
@@ -9862,7 +9862,7 @@
     "genre": [
       "Creatives"
     ],
-    "cost": "5"
+    "cost": 5
   },
   "OP02/HKS-120": {
     "id": "OP02/HKS-120",
@@ -9896,9 +9896,9 @@
     "genre": [
       "Creatives"
     ],
-    "cost": "5",
-    "bits": "1",
-    "influence": "0"
+    "cost": 5,
+    "bits": 1,
+    "influence": 0
   },
   "OP02/HKS-121": {
     "id": "OP02/HKS-121",
@@ -9931,8 +9931,8 @@
       "Creatives"
     ],
     "quote": "Turns me on.",
-    "cost": "3",
-    "influence": "5"
+    "cost": 3,
+    "influence": 5
   },
   "OP02/HKS-122": {
     "id": "OP02/HKS-122",
@@ -9964,8 +9964,8 @@
       "Creatives"
     ],
     "quote": "One day, you won't know where you're at.",
-    "cost": "4",
-    "influence": "6"
+    "cost": 4,
+    "influence": 6
   },
   "OP02/HKS-123": {
     "id": "OP02/HKS-123",
@@ -9997,8 +9997,8 @@
       "Creatives"
     ],
     "quote": "No idea what is happening but it's just chaos.",
-    "cost": "5",
-    "influence": "8"
+    "cost": 5,
+    "influence": 8
   },
   "OP02/HKS-124": {
     "id": "OP02/HKS-124",
@@ -10030,8 +10030,8 @@
     "genre": [
       "Creatives"
     ],
-    "cost": "6",
-    "influence": "11"
+    "cost": 6,
+    "influence": 11
   },
   "OP02/HKS-125": {
     "id": "OP02/HKS-125",
@@ -10063,8 +10063,8 @@
     "genre": [
       "Creatives"
     ],
-    "cost": "7",
-    "influence": "11"
+    "cost": 7,
+    "influence": 11
   },
   "OP02/HKS-126": {
     "id": "OP02/HKS-126",
@@ -10097,8 +10097,8 @@
     "genre": [
       "Creatives"
     ],
-    "cost": "8",
-    "influence": "20"
+    "cost": 8,
+    "influence": 20
   },
   "OP02/HKS-127": {
     "id": "OP02/HKS-127",
@@ -10130,7 +10130,7 @@
       "Creatives"
     ],
     "quote": "I'm a rabid catboy!",
-    "cost": "1"
+    "cost": 1
   },
   "OP02/HKS-128": {
     "id": "OP02/HKS-128",
@@ -10162,7 +10162,7 @@
     "genre": [
       "Creatives"
     ],
-    "cost": "2"
+    "cost": 2
   },
   "OP02/HKS-129": {
     "id": "OP02/HKS-129",
@@ -10196,9 +10196,9 @@
     "genre": [
       "Creatives"
     ],
-    "cost": "7",
-    "bits": "2",
-    "influence": "3"
+    "cost": 7,
+    "bits": 2,
+    "influence": 3
   },
   "OP02/HKS-130": {
     "id": "OP02/HKS-130",
@@ -10232,8 +10232,8 @@
       "Creatives"
     ],
     "quote": "We're in this together!!",
-    "cost": "1",
-    "influence": "2"
+    "cost": 1,
+    "influence": 2
   },
   "OP02/HKS-131": {
     "id": "OP02/HKS-131",
@@ -10268,8 +10268,8 @@
       "Creatives"
     ],
     "quote": "A new step dad for you daddy issues people.",
-    "cost": "2",
-    "influence": "4"
+    "cost": 2,
+    "influence": 4
   },
   "OP02/HKS-132": {
     "id": "OP02/HKS-132",
@@ -10303,8 +10303,8 @@
     "genre": [
       "Creatives"
     ],
-    "cost": "2",
-    "influence": "4"
+    "cost": 2,
+    "influence": 4
   },
   "OP02/HKS-133": {
     "id": "OP02/HKS-133",
@@ -10336,8 +10336,8 @@
       "Creatives"
     ],
     "quote": "If you are scared of something, draw it attractive.",
-    "cost": "3",
-    "influence": "7"
+    "cost": 3,
+    "influence": 7
   },
   "OP02/HKS-134": {
     "id": "OP02/HKS-134",
@@ -10370,8 +10370,8 @@
     "genre": [
       "Creatives"
     ],
-    "cost": "7",
-    "influence": "13"
+    "cost": 7,
+    "influence": 13
   },
   "OP02/HKS-135": {
     "id": "OP02/HKS-135",
@@ -10403,8 +10403,8 @@
     "genre": [
       "Creatives"
     ],
-    "cost": "9",
-    "influence": "22"
+    "cost": 9,
+    "influence": 22
   },
   "OP02/HKS-136": {
     "id": "OP02/HKS-136",
@@ -10438,7 +10438,7 @@
     "genre": [
       "Creatives"
     ],
-    "cost": "0"
+    "cost": 0
   },
   "OP02/HKS-137": {
     "id": "OP02/HKS-137",
@@ -10470,7 +10470,7 @@
     "genre": [
       "Creatives"
     ],
-    "cost": "2"
+    "cost": 2
   },
   "OP02/HKS-138": {
     "id": "OP02/HKS-138",
@@ -10504,9 +10504,9 @@
     "genre": [
       "Creatives"
     ],
-    "cost": "4",
-    "bits": "0",
-    "influence": "3"
+    "cost": 4,
+    "bits": 0,
+    "influence": 3
   },
   "OP02/HKS-139": {
     "id": "OP02/HKS-139",
@@ -10538,8 +10538,8 @@
       "Experience"
     ],
     "quote": "Am I mentally ill?",
-    "cost": "1",
-    "influence": "4"
+    "cost": 1,
+    "influence": 4
   },
   "OP02/HKS-140": {
     "id": "OP02/HKS-140",
@@ -10573,8 +10573,8 @@
       "Experience"
     ],
     "quote": "I'm gonna show my feet on the front page-",
-    "cost": "2",
-    "influence": "6"
+    "cost": 2,
+    "influence": 6
   },
   "OP02/HKS-141": {
     "id": "OP02/HKS-141",
@@ -10608,8 +10608,8 @@
     "genre": [
       "Experience"
     ],
-    "cost": "2",
-    "influence": "8"
+    "cost": 2,
+    "influence": 8
   },
   "OP02/HKS-142": {
     "id": "OP02/HKS-142",
@@ -10641,8 +10641,8 @@
     "genre": [
       "Experience"
     ],
-    "cost": "3",
-    "influence": "10"
+    "cost": 3,
+    "influence": 10
   },
   "OP02/HKS-143": {
     "id": "OP02/HKS-143",
@@ -10674,8 +10674,8 @@
     "genre": [
       "Experience"
     ],
-    "cost": "5",
-    "influence": "10"
+    "cost": 5,
+    "influence": 10
   },
   "OP02/HKS-144": {
     "id": "OP02/HKS-144",
@@ -10707,8 +10707,8 @@
     "genre": [
       "Experience"
     ],
-    "cost": "5",
-    "influence": "9"
+    "cost": 5,
+    "influence": 9
   },
   "OP02/HKS-145": {
     "id": "OP02/HKS-145",
@@ -10740,8 +10740,8 @@
       "Experience"
     ],
     "quote": "Rate my meowing/barking!",
-    "cost": "7",
-    "influence": "18"
+    "cost": 7,
+    "influence": 18
   },
   "OP02/HKS-146": {
     "id": "OP02/HKS-146",
@@ -10775,7 +10775,7 @@
       "Experience"
     ],
     "quote": "[Drink #3]",
-    "cost": "2"
+    "cost": 2
   },
   "OP02/HKS-147": {
     "id": "OP02/HKS-147",
@@ -10807,7 +10807,7 @@
       "Experience"
     ],
     "quote": "I definitely flashed some people.",
-    "cost": "2"
+    "cost": 2
   },
   "OP02/HKS-148": {
     "id": "OP02/HKS-148",
@@ -10841,9 +10841,9 @@
       "Experience"
     ],
     "quote": "See you, Space Captain.",
-    "cost": "3",
-    "bits": "0",
-    "influence": "2"
+    "cost": 3,
+    "bits": 0,
+    "influence": 2
   },
   "OP02/HKS-149": {
     "id": "OP02/HKS-149",
@@ -10876,8 +10876,8 @@
     "genre": [
       "Experience"
     ],
-    "cost": "1",
-    "influence": "3"
+    "cost": 1,
+    "influence": 3
   },
   "OP02/HKS-150": {
     "id": "OP02/HKS-150",
@@ -10911,8 +10911,8 @@
       "Experience"
     ],
     "quote": "When does it end bro?",
-    "cost": "2",
-    "influence": "4"
+    "cost": 2,
+    "influence": 4
   },
   "OP02/HKS-151": {
     "id": "OP02/HKS-151",
@@ -10946,8 +10946,8 @@
     "genre": [
       "Experience"
     ],
-    "cost": "2",
-    "influence": "4"
+    "cost": 2,
+    "influence": 4
   },
   "OP02/HKS-152": {
     "id": "OP02/HKS-152",
@@ -10979,8 +10979,8 @@
       "Experience"
     ],
     "quote": "What if the thigh highs rip?",
-    "cost": "3",
-    "influence": "6"
+    "cost": 3,
+    "influence": 6
   },
   "OP02/HKS-153": {
     "id": "OP02/HKS-153",
@@ -11013,8 +11013,8 @@
     "genre": [
       "Experience"
     ],
-    "cost": "4",
-    "influence": "6"
+    "cost": 4,
+    "influence": 6
   },
   "OP02/HKS-154": {
     "id": "OP02/HKS-154",
@@ -11046,8 +11046,8 @@
     "genre": [
       "Experience"
     ],
-    "cost": "7",
-    "influence": "12"
+    "cost": 7,
+    "influence": 12
   },
   "OP02/HKS-155": {
     "id": "OP02/HKS-155",
@@ -11079,7 +11079,7 @@
     "genre": [
       "Experience"
     ],
-    "cost": "2"
+    "cost": 2
   },
   "OP02/HKS-156": {
     "id": "OP02/HKS-156",
@@ -11111,7 +11111,7 @@
     "genre": [
       "Experience"
     ],
-    "cost": "3"
+    "cost": 3
   },
   "OP02/HKS-157": {
     "id": "OP02/HKS-157",
@@ -11145,9 +11145,9 @@
     "genre": [
       "Experience"
     ],
-    "cost": "5",
-    "bits": "1",
-    "influence": "1"
+    "cost": 5,
+    "bits": 1,
+    "influence": 1
   },
   "OP02/HKS-158": {
     "id": "OP02/HKS-158",
@@ -11180,8 +11180,8 @@
       "Experience"
     ],
     "quote": "How do you feel about steak?",
-    "cost": "2",
-    "influence": "5"
+    "cost": 2,
+    "influence": 5
   },
   "OP02/HKS-159": {
     "id": "OP02/HKS-159",
@@ -11216,8 +11216,8 @@
       "Experience"
     ],
     "quote": "Be a boy, Be feminine.",
-    "cost": "2",
-    "influence": "5"
+    "cost": 2,
+    "influence": 5
   },
   "OP02/HKS-160": {
     "id": "OP02/HKS-160",
@@ -11251,8 +11251,8 @@
     "genre": [
       "Experience"
     ],
-    "cost": "3",
-    "influence": "6"
+    "cost": 3,
+    "influence": 6
   },
   "OP02/HKS-161": {
     "id": "OP02/HKS-161",
@@ -11286,8 +11286,8 @@
       "Experience"
     ],
     "quote": "When I'm in jail, I can't make content.",
-    "cost": "6",
-    "influence": "9"
+    "cost": 6,
+    "influence": 9
   },
   "OP02/HKS-162": {
     "id": "OP02/HKS-162",
@@ -11319,8 +11319,8 @@
     "genre": [
       "Experience"
     ],
-    "cost": "8",
-    "influence": "18"
+    "cost": 8,
+    "influence": 18
   },
   "OP02/HKS-163": {
     "id": "OP02/HKS-163",
@@ -11352,8 +11352,8 @@
     "genre": [
       "Experience"
     ],
-    "cost": "10",
-    "influence": "25"
+    "cost": 10,
+    "influence": 25
   },
   "OP02/HKS-164": {
     "id": "OP02/HKS-164",
@@ -11385,7 +11385,7 @@
       "Experience"
     ],
     "quote": "The father has been dead for 5 years and the children neglect the mother.",
-    "cost": "1"
+    "cost": 1
   },
   "OP02/HKS-165": {
     "id": "OP02/HKS-165",
@@ -11417,7 +11417,7 @@
       "Experience"
     ],
     "quote": "I've created an Abomination but like, in a good way.",
-    "cost": "2"
+    "cost": 2
   },
   "OP02/HKS-166": {
     "id": "OP02/HKS-166",
@@ -11451,9 +11451,9 @@
       "Experience"
     ],
     "quote": "1.5 brain cells left.",
-    "cost": "3",
-    "bits": "1",
-    "influence": "1"
+    "cost": 3,
+    "bits": 1,
+    "influence": 1
   },
   "OP02/HKS-031": {
     "id": "OP02/HKS-031",
@@ -11488,9 +11488,9 @@
     "genre": [
       "Zatsudan"
     ],
-    "cost": "7",
-    "bits": "6",
-    "influence": "6"
+    "cost": 7,
+    "bits": 6,
+    "influence": 6
   },
   "OP02/HKS-032": {
     "id": "OP02/HKS-032",
@@ -11522,8 +11522,8 @@
       "Zatsudan"
     ],
     "quote": "What does 1 Joel say to another Joel?",
-    "cost": "3",
-    "influence": "5"
+    "cost": 3,
+    "influence": 5
   },
   "OP02/HKS-091": {
     "id": "OP02/HKS-091",
@@ -11555,7 +11555,7 @@
     "genre": [
       "Zatsudan"
     ],
-    "cost": "2"
+    "cost": 2
   },
   "OP02/HKS-033": {
     "id": "OP02/HKS-033",
@@ -11589,9 +11589,9 @@
     "genre": [
       "Experience"
     ],
-    "cost": "6",
-    "bits": "5",
-    "influence": "6"
+    "cost": 6,
+    "bits": 5,
+    "influence": 6
   },
   "OP02/HKS-034": {
     "id": "OP02/HKS-034",
@@ -11624,6 +11624,6 @@
     "genre": [
       "Experience"
     ],
-    "cost": "3"
+    "cost": 3
   }
 }
