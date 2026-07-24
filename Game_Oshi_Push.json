@@ -25,7 +25,7 @@
   "customHelp": "CustomHelp Text",
   "cardRotation": 45,
   "cards": {
-    "dataUrl": "https://raw.githubusercontent.com/woosle1234/TCG-Arena-Oshi-Push/refs/heads/main/OshiPushCardList.json",
+    "dataUrl": "https://raw.githubusercontent.com/woosle1234/TCG-Arena-Oshi-Push/refs/heads/main/OshiPushCards.json",
     "cardBack": "https://raw.githubusercontent.com/woosle1234/TCG-Arena-Oshi-Push/refs/heads/main/images/Card%20Back.png"
   },
   "deckBuilding": {
