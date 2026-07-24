@@ -44,9 +44,8 @@
     ],
     "formats": [
       {
-        "title": "1v1",
+        "title": "Constructed 1v1",
         "gameplay": "Classic",
-        "legalityCode": "VI",
         "deckRuleset": "Classic"
       }
 
@@ -54,23 +53,21 @@
     "deckRulesets": {
       "Classic": {
         "general": {
-          "min": 40,
-          "max": 40,
+          "min": 46,
+          "max": 46,
           "maxPerCard": 3
         },
         "categories": [
           {
             "category": "Persona",
             "min": 1,
-            "max": 1,
-            "ignoreTotalCount": true
+            "max": 1
           },
           {
             "category": "Platforms",
             "min": 5,
             "max": 5,
-            "maxPerCard": 1,
-            "ignoreTotalCount": true
+            "maxPerCard": 1
           }
         ]
       }
@@ -79,8 +76,18 @@
   "gameplay": {
     "Classic": {
       "mulligan": {
-        "info": "You can shuffle your hand back into your draw deck and draw a new set of 5 cards",
         "startingHandSize": 5,
+        "mulliganCycle": {
+          "info": "an optional, one-time action. After drawing your initial hand of 5 cards, if you are unsatisfied with them, you can shuffle that hand back into your draw deck and draw 5 new cards. You can only do this once.",
+          "steps": [
+            "toTop",
+            "shuffle",
+            "draw"
+          ],
+          "selectionRange": {
+            "min": 5
+          }
+        },
         "drawNewHand": true,
         "putSelectionAtBottom": false,
         "drawNewSelectedCards": false
@@ -91,9 +98,17 @@
         "firstPlayerTokenName": "First Player Token",
         "drawPerTurn": 1
       },
-      "defaultNotes": "",
-      "tokens": [],
+      "defaultNotes": "Player1: 0\nPlayer2: 0",
+      "tokens": [
+        {
+          "name": "First Player Token",
+          "image": "https://github.com/woosle1234/TCG-Arena-Oshi-Push/blob/main/images/First%20Player%20Token.png?raw=true",
+          "isUnique": true,
+          "leavesAtEndOfTurn": false
+        }
+      ],
       "countersStartingValues": [
+        0,
         0
       ],
       "hideFacedDownCards": false,
@@ -102,7 +117,7 @@
           "Bits"
         ],
         "layout": {
-          "direction": "column",
+          "direction": "row",
           "isSymetricalForOpponents": false,
           "content": []
         },

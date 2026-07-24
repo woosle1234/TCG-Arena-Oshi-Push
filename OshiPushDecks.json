@@ -1,0 +1,274 @@
+[
+    {
+        "title": "Gen One Tenma Maemi Starter Deck",
+        "id": "Gen One Tenma Maemi Starter Deck",
+        "cardCount": 46,
+        "createdAt": "2026-03-28T05:23:05.085Z",
+        "lastModifiedAt": "2026-07-19T01:57:29.431Z",
+        "game": "Oshi Push",
+        "format": [
+            "Constructed 1v1"
+        ],
+        "deckList": {
+            "categoriesOrder": [
+                "Persona",
+                "Platforms",
+                "Main Deck"
+            ],
+            "Persona": [
+                {
+                    "count": 1,
+                    "id": "OP01/PHC-037"
+                }
+            ],
+            "Platforms": [
+                {
+                    "count": 1,
+                    "id": "OP01/PHC-056"
+                },
+                {
+                    "count": 1,
+                    "id": "OP01/PHC-061"
+                },
+                {
+                    "count": 1,
+                    "id": "OP01/PHC-058"
+                },
+                {
+                    "count": 1,
+                    "id": "OP01/PHC-059"
+                },
+                {
+                    "count": 1,
+                    "id": "OP01/PHC-054"
+                }
+            ],
+            "Main Deck": [
+                {
+                    "count": 2,
+                    "id": "OP01/PHC-038"
+                },
+                {
+                    "count": 1,
+                    "id": "OPKS/PHC-044"
+                },
+                {
+                    "count": 2,
+                    "id": "OP01/PHC-135"
+                },
+                {
+                    "count": 2,
+                    "id": "OP01/PHC-111"
+                },
+                {
+                    "count": 2,
+                    "id": "OP01/PHC-155"
+                },
+                {
+                    "count": 3,
+                    "id": "OPKS/PHC-047"
+                },
+                {
+                    "count": 1,
+                    "id": "OP01/PHC-115"
+                },
+                {
+                    "count": 1,
+                    "id": "OP01/PHC-161"
+                },
+                {
+                    "count": 2,
+                    "id": "OP01/PHC-145"
+                },
+                {
+                    "count": 2,
+                    "id": "OP01/PHC-144"
+                },
+                {
+                    "count": 1,
+                    "id": "OP01/PHC-160"
+                },
+                {
+                    "count": 2,
+                    "id": "OP01/PHC-089"
+                },
+                {
+                    "count": 2,
+                    "id": "OP01/PHC-139"
+                },
+                {
+                    "count": 2,
+                    "id": "OP01/PHC-152"
+                },
+                {
+                    "count": 2,
+                    "id": "OP01/PHC-162"
+                },
+                {
+                    "count": 2,
+                    "id": "OP01/PHC-159"
+                },
+                {
+                    "count": 3,
+                    "id": "OPKS/PHC-048"
+                },
+                {
+                    "count": 2,
+                    "id": "OP01/PHC-149"
+                },
+                {
+                    "count": 2,
+                    "id": "OP01/PHC-094"
+                },
+                {
+                    "count": 1,
+                    "id": "OP01/PHC-166"
+                },
+                {
+                    "count": 1,
+                    "id": "OP01/PHC-141"
+                },
+                {
+                    "count": 2,
+                    "id": "OP01/PHC-157"
+                }
+            ]
+        }
+    },
+    {
+    "title": "Gen One Pipkin Pippa Starter Deck",
+    "id": "Gen One Pipkin Pippa Starter Deck",
+    "cardCount": 46,
+    "createdAt": "2026-03-28T05:59:16.515Z",
+    "lastModifiedAt": "2026-07-19T01:45:46.901Z",
+    "game": "Oshi Push",
+    "format": [
+        "Constructed 1v1"
+    ],
+    "deckList": {
+        "categoriesOrder": [
+            "Persona",
+            "Platforms",
+            "Main Deck"
+        ],
+        "Persona": [
+            {
+                "count": 1,
+                "id": "OP01/PHC-001"
+            }
+        ],
+        "Platforms": [
+            {
+                "count": 1,
+                "id": "OP01/PHC-049"
+            },
+            {
+                "count": 1,
+                "id": "OP01/PHC-060"
+            },
+            {
+                "count": 1,
+                "id": "OP01/PHC-063"
+            },
+            {
+                "count": 1,
+                "id": "OP01/PHC-062"
+            },
+            {
+                "count": 1,
+                "id": "OP01/PHC-052"
+            }
+        ],
+        "Main Deck": [
+            {
+                "count": 2,
+                "id": "OP01/PHC-002"
+            },
+            {
+                "count": 1,
+                "id": "OPKS/PHC-043"
+            },
+            {
+                "count": 1,
+                "id": "OP01/PHC-119"
+            },
+            {
+                "count": 2,
+                "id": "OP01/PHC-073"
+            },
+            {
+                "count": 2,
+                "id": "OP01/PHC-146"
+            },
+            {
+                "count": 2,
+                "id": "OP01/PHC-103"
+            },
+            {
+                "count": 2,
+                "id": "OP01/PHC-106"
+            },
+            {
+                "count": 2,
+                "id": "OP01/PHC-113"
+            },
+            {
+                "count": 2,
+                "id": "OP01/PHC-071"
+            },
+            {
+                "count": 2,
+                "id": "OP01/PHC-095"
+            },
+            {
+                "count": 1,
+                "id": "OP01/PHC-122"
+            },
+            {
+                "count": 2,
+                "id": "OP01/PHC-112"
+            },
+            {
+                "count": 2,
+                "id": "OP01/PHC-098"
+            },
+            {
+                "count": 2,
+                "id": "OP01/PHC-147"
+            },
+            {
+                "count": 3,
+                "id": "OPKS/PHC-045"
+            },
+            {
+                "count": 1,
+                "id": "OP01/PHC-096"
+            },
+            {
+                "count": 1,
+                "id": "OP01/PHC-077"
+            },
+            {
+                "count": 2,
+                "id": "OP01/PHC-126"
+            },
+            {
+                "count": 2,
+                "id": "OP01/PHC-125"
+            },
+            {
+                "count": 2,
+                "id": "OP01/PHC-117"
+            },
+            {
+                "count": 3,
+                "id": "OPKS/PHC-046"
+            },
+            {
+                "count": 1,
+                "id": "OP01/PHC-118"
+            }
+        ]
+    }
+}
+]
