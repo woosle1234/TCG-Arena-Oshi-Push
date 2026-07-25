@@ -7,7 +7,7 @@
         "name": "Pipkin Pippa",
         "type": "Persona",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/6992ffd947ce32f756ba6ef7",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6992ffd947ce32f756ba6ef7.webp",
         "isHorizontal": false
       }
     },
@@ -41,7 +41,7 @@
         "name": "Pipkin Pippa",
         "type": "Upgrade",
         "cost": 7,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/6993032a764db4750f435ce1",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6993032a764db4750f435ce1.webp",
         "isHorizontal": false
       }
     },
@@ -78,7 +78,7 @@
         "name": "Utatane Nasa",
         "type": "Persona",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/6992fe2baa124cba78098513",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6992fe2baa124cba78098513.webp",
         "isHorizontal": false
       }
     },
@@ -110,7 +110,7 @@
         "name": "Utatane Nasa",
         "type": "Upgrade",
         "cost": 6,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/6993068f10bc96b487896fff",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6993068f10bc96b487896fff.webp",
         "isHorizontal": false
       }
     },
@@ -147,7 +147,7 @@
         "name": "Hakushika Iori",
         "type": "Persona",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/6993007c47ce32f756ba6f1c",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6993007c47ce32f756ba6f1c.webp",
         "isHorizontal": false
       }
     },
@@ -179,7 +179,7 @@
         "name": "Hakushika Iori",
         "type": "Upgrade",
         "cost": 6,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/699304f20b43fdb95e6327e2",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/699304f20b43fdb95e6327e2.webp",
         "isHorizontal": false
       }
     },
@@ -215,7 +215,7 @@
         "name": "Shisui Michiru",
         "type": "Persona",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/6992fe926f7fb91384821346",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6992fe926f7fb91384821346.webp",
         "isHorizontal": false
       }
     },
@@ -247,7 +247,7 @@
         "name": "Shisui Michiru",
         "type": "Upgrade",
         "cost": 8,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/699308f58da5a01e2090f035",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/699308f58da5a01e2090f035.webp",
         "isHorizontal": false
       }
     },
@@ -284,7 +284,7 @@
         "name": "Fujikura Uruka",
         "type": "Persona",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/699300e2148311e099541806",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/699300e2148311e099541806.webp",
         "isHorizontal": false
       }
     },
@@ -316,7 +316,7 @@
         "name": "Fujikura Uruka",
         "type": "Upgrade",
         "cost": 7,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69930a5b8adfe69cbc75e9a9",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69930a5b8adfe69cbc75e9a9.webp",
         "isHorizontal": false
       }
     },
@@ -353,7 +353,7 @@
         "name": "Rinkou Ashelia",
         "type": "Persona",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/6992ff73bff6b403ba13fe83",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6992ff73bff6b403ba13fe83.webp",
         "isHorizontal": false
       }
     },
@@ -385,7 +385,7 @@
         "name": "Rinkou Ashelia",
         "type": "Upgrade",
         "cost": 7,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/6993098e3248a2f107e76736",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6993098e3248a2f107e76736.webp",
         "isHorizontal": false
       }
     },
@@ -421,7 +421,7 @@
         "name": "Tenma Maemi",
         "type": "Persona",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/6992ff0afef6385ed68cf58a",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6992ff0afef6385ed68cf58a.webp",
         "isHorizontal": false
       }
     },
@@ -455,7 +455,7 @@
         "name": "Tenma Maemi",
         "type": "Upgrade",
         "cost": 8,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69930833f29918febab6ab76",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69930833f29918febab6ab76.webp",
         "isHorizontal": false
       }
     },
@@ -492,7 +492,7 @@
         "name": "Pipkin Pippa",
         "type": "Persona",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69127d2a98bd9be58fda7e4a",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69127d2a98bd9be58fda7e4a.webp",
         "isHorizontal": false
       }
     },
@@ -526,7 +526,7 @@
         "name": "Pipkin Pippa",
         "type": "Upgrade",
         "cost": 3,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69127f93576a42015f1852b8",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69127f93576a42015f1852b8.webp",
         "isHorizontal": false
       }
     },
@@ -563,7 +563,7 @@
         "name": "Pipkin Pippa",
         "type": "Upgrade",
         "cost": 7,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69128244de54e64332e23cee",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69128244de54e64332e23cee.webp",
         "isHorizontal": false
       }
     },
@@ -600,7 +600,7 @@
         "name": "Eat a Spider",
         "type": "Content",
         "cost": 7,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/691284e0de54e64332e23d44",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/691284e0de54e64332e23d44.webp",
         "isHorizontal": false
       }
     },
@@ -633,7 +633,7 @@
         "name": "Chew on Cables",
         "type": "Action",
         "cost": 1,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69128da1941327b2c76ce845",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69128da1941327b2c76ce845.webp",
         "isHorizontal": false
       }
     },
@@ -665,7 +665,7 @@
         "name": "PIPIPIPIPI",
         "type": "Action",
         "cost": 3,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69128fa644e648381cf0cb26",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69128fa644e648381cf0cb26.webp",
         "isHorizontal": false
       }
     },
@@ -697,7 +697,7 @@
         "name": "Utatane Nasa",
         "type": "Persona",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/6956ba7978df33989c6e628b",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6956ba7978df33989c6e628b.webp",
         "isHorizontal": false
       }
     },
@@ -729,7 +729,7 @@
         "name": "Utatane Nasa",
         "type": "Upgrade",
         "cost": 3,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/6956b8f777df839e1e13c89a",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6956b8f777df839e1e13c89a.webp",
         "isHorizontal": false
       }
     },
@@ -766,7 +766,7 @@
         "name": "Utatane Nasa",
         "type": "Upgrade",
         "cost": 6,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/6956b9fafe68c3b9bd84be55",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6956b9fafe68c3b9bd84be55.webp",
         "isHorizontal": false
       }
     },
@@ -803,7 +803,7 @@
         "name": "Stargazing",
         "type": "Content",
         "cost": 1,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/6912978a63c2ae930ecba5dd",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6912978a63c2ae930ecba5dd.webp",
         "isHorizontal": false
       }
     },
@@ -836,7 +836,7 @@
         "name": "I'll Crush You!",
         "type": "Action",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69129a3f4c88498a3bd1c217",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69129a3f4c88498a3bd1c217.webp",
         "isHorizontal": false
       }
     },
@@ -870,7 +870,7 @@
         "name": "Dragon Deez",
         "type": "Content",
         "cost": 6,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69129b654c88498a3bd1c21d",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69129b654c88498a3bd1c21d.webp",
         "isHorizontal": false
       }
     },
@@ -903,7 +903,7 @@
         "name": "Hakushika Iori",
         "type": "Persona",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/6956c8cd6a2fc4705f527a66",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6956c8cd6a2fc4705f527a66.webp",
         "isHorizontal": false
       }
     },
@@ -935,7 +935,7 @@
         "name": "Hakushika Iori",
         "type": "Upgrade",
         "cost": 2,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/6956cb530afc4b8249c77067",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6956cb530afc4b8249c77067.webp",
         "isHorizontal": false
       }
     },
@@ -971,7 +971,7 @@
         "name": "Hakushika Iori",
         "type": "Upgrade",
         "cost": 6,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/6956c83f6a2fc4705f527a4a",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6956c83f6a2fc4705f527a4a.webp",
         "isHorizontal": false
       }
     },
@@ -1007,7 +1007,7 @@
         "name": "Japanese Lesson",
         "type": "Content",
         "cost": 3,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/6912ab112df2319c72c2fa7e",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6912ab112df2319c72c2fa7e.webp",
         "isHorizontal": false
       }
     },
@@ -1040,7 +1040,7 @@
         "name": "Killer Hands",
         "type": "Action",
         "cost": 2,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/6912acfba417c9060541b552",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6912acfba417c9060541b552.webp",
         "isHorizontal": false
       }
     },
@@ -1072,7 +1072,7 @@
         "name": "Scary Story Writing",
         "type": "Action",
         "cost": 1,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/6912af64db1bbe963fbc8d8e",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6912af64db1bbe963fbc8d8e.webp",
         "isHorizontal": false
       }
     },
@@ -1104,7 +1104,7 @@
         "name": "Shisui Michiru",
         "type": "Persona",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/6912c6a08d0be72861f5ff7e",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6912c6a08d0be72861f5ff7e.webp",
         "isHorizontal": false
       }
     },
@@ -1136,7 +1136,7 @@
         "name": "Shisui Michiru",
         "type": "Upgrade",
         "cost": 4,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/6912c7898d0be72861f5ff84",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6912c7898d0be72861f5ff84.webp",
         "isHorizontal": false
       }
     },
@@ -1172,7 +1172,7 @@
         "name": "Shisui Michiru",
         "type": "Upgrade",
         "cost": 8,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/6912ca3dce5713794d48c30a",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6912ca3dce5713794d48c30a.webp",
         "isHorizontal": false
       }
     },
@@ -1209,7 +1209,7 @@
         "name": "Witch Mommy Energy",
         "type": "Content",
         "cost": 4,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/6912cf41f80d82511995a0bc",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6912cf41f80d82511995a0bc.webp",
         "isHorizontal": false
       }
     },
@@ -1242,7 +1242,7 @@
         "name": "Potion",
         "type": "Action",
         "cost": 2,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/6912d0b5f80d82511995a0c1",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6912d0b5f80d82511995a0c1.webp",
         "isHorizontal": false
       }
     },
@@ -1274,7 +1274,7 @@
         "name": "LVL 2 Naked Club",
         "type": "Action",
         "cost": 5,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/6912d1dcf80d82511995a0c7",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6912d1dcf80d82511995a0c7.webp",
         "isHorizontal": false
       }
     },
@@ -1306,7 +1306,7 @@
         "name": "Fujikura Uruka",
         "type": "Persona",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/6956cbed8f36c05d134f2c2b",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6956cbed8f36c05d134f2c2b.webp",
         "isHorizontal": false
       }
     },
@@ -1338,7 +1338,7 @@
         "name": "Fujikura Uruka",
         "type": "Upgrade",
         "cost": 3,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/6956cc598f36c05d134f2c40",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6956cc598f36c05d134f2c40.webp",
         "isHorizontal": false
       }
     },
@@ -1374,7 +1374,7 @@
         "name": "Fujikura Uruka",
         "type": "Upgrade",
         "cost": 7,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/6956cbb98f36c05d134f2c24",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6956cbb98f36c05d134f2c24.webp",
         "isHorizontal": false
       }
     },
@@ -1411,7 +1411,7 @@
         "name": "The Cringe Song",
         "type": "Content",
         "cost": 5,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/6912d83916c1e5ea0e83aa38",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6912d83916c1e5ea0e83aa38.webp",
         "isHorizontal": false
       }
     },
@@ -1444,7 +1444,7 @@
         "name": "Bear With Me",
         "type": "Action",
         "cost": 2,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/6912d93d16c1e5ea0e83aa3e",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6912d93d16c1e5ea0e83aa3e.webp",
         "isHorizontal": false
       }
     },
@@ -1476,7 +1476,7 @@
         "name": "Freeze Spit",
         "type": "Action",
         "cost": 1,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/6912da1616c1e5ea0e83aa44",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6912da1616c1e5ea0e83aa44.webp",
         "isHorizontal": false
       }
     },
@@ -1508,7 +1508,7 @@
         "name": "Rinkou Ashelia",
         "type": "Persona",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/6912ddaa94015178de8eef27",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6912ddaa94015178de8eef27.webp",
         "isHorizontal": false
       }
     },
@@ -1540,7 +1540,7 @@
         "name": "Rinkou Ashelia",
         "type": "Upgrade",
         "cost": 3,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/691301b0864019525a6185ce",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/691301b0864019525a6185ce.webp",
         "isHorizontal": false
       }
     },
@@ -1576,7 +1576,7 @@
         "name": "Rinkou Ashelia",
         "type": "Upgrade",
         "cost": 7,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/6956be7978df33989c6e6309",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6956be7978df33989c6e6309.webp",
         "isHorizontal": false
       }
     },
@@ -1612,7 +1612,7 @@
         "name": "Feet: A Holy Deep Dive",
         "type": "Content",
         "cost": 5,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69130712ded5f4c89c386839",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69130712ded5f4c89c386839.webp",
         "isHorizontal": false
       }
     },
@@ -1647,7 +1647,7 @@
         "name": "Brother Lover",
         "type": "Action",
         "cost": 1,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69130ac00f248bdd6c457905",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69130ac00f248bdd6c457905.webp",
         "isHorizontal": false
       }
     },
@@ -1679,7 +1679,7 @@
         "name": "Internet Historian",
         "type": "Action",
         "cost": 2,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69130bd70f248bdd6c45790b",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69130bd70f248bdd6c45790b.webp",
         "isHorizontal": false
       }
     },
@@ -1712,7 +1712,7 @@
         "name": "Tenma Maemi",
         "type": "Persona",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69130dd673dbfa1a3df2324c",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69130dd673dbfa1a3df2324c.webp",
         "isHorizontal": false
       }
     },
@@ -1746,7 +1746,7 @@
         "name": "Tenma Maemi",
         "type": "Upgrade",
         "cost": 3,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69130fca1d17611a9d01c180",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69130fca1d17611a9d01c180.webp",
         "isHorizontal": false
       }
     },
@@ -1783,7 +1783,7 @@
         "name": "Tenma Maemi",
         "type": "Upgrade",
         "cost": 8,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/691310b61d17611a9d01c186",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/691310b61d17611a9d01c186.webp",
         "isHorizontal": false
       }
     },
@@ -1820,7 +1820,7 @@
         "name": "Cabbage Voice Pack",
         "type": "Content",
         "cost": 5,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/691312dd2ccc4ad1fbd4c449",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/691312dd2ccc4ad1fbd4c449.webp",
         "isHorizontal": false
       }
     },
@@ -1853,7 +1853,7 @@
         "name": "Yell at Fish",
         "type": "Action",
         "cost": 2,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69131503596801bc34d779b1",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69131503596801bc34d779b1.webp",
         "isHorizontal": false
       }
     },
@@ -1886,7 +1886,7 @@
         "name": "SSD Support Funds",
         "type": "Action",
         "cost": 3,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/6913166b596801bc34d779b7",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6913166b596801bc34d779b7.webp",
         "isHorizontal": false
       }
     },
@@ -1918,7 +1918,7 @@
         "name": "Click Clock",
         "type": "Platform",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69139cfe2ecfadf711ee66d3",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69139cfe2ecfadf711ee66d3.webp",
         "isHorizontal": true
       }
     },
@@ -1946,7 +1946,7 @@
         "name": "SwiftChat",
         "type": "Platform",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/6913a14a2ecfadf711ee6745",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6913a14a2ecfadf711ee6745.webp",
         "isHorizontal": true
       }
     },
@@ -1975,7 +1975,7 @@
         "name": "Chirpper",
         "type": "Platform",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/6913a2582ecfadf711ee674b",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6913a2582ecfadf711ee674b.webp",
         "isHorizontal": true
       }
     },
@@ -2004,7 +2004,7 @@
         "name": "Sudden Clips",
         "type": "Platform",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/6913a3092ecfadf711ee6751",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6913a3092ecfadf711ee6751.webp",
         "isHorizontal": true
       }
     },
@@ -2033,7 +2033,7 @@
         "name": "Sketch Book",
         "type": "Platform",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/6913a90cfa51b9e5be4a05da",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6913a90cfa51b9e5be4a05da.webp",
         "isHorizontal": true
       }
     },
@@ -2062,7 +2062,7 @@
         "name": "Yappers",
         "type": "Platform",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/6913a9b6fa51b9e5be4a05e0",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6913a9b6fa51b9e5be4a05e0.webp",
         "isHorizontal": true
       }
     },
@@ -2091,7 +2091,7 @@
         "name": "Convulsive Movement",
         "type": "Platform",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/6913aadafa51b9e5be4a05e6",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6913aadafa51b9e5be4a05e6.webp",
         "isHorizontal": true
       }
     },
@@ -2120,7 +2120,7 @@
         "name": "Gamble Punch",
         "type": "Platform",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/6913ab64fa51b9e5be4a0606",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6913ab64fa51b9e5be4a0606.webp",
         "isHorizontal": true
       }
     },
@@ -2148,7 +2148,7 @@
         "name": "Bobby Bobby",
         "type": "Platform",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/6913ac62fa51b9e5be4a060b",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6913ac62fa51b9e5be4a060b.webp",
         "isHorizontal": true
       }
     },
@@ -2177,7 +2177,7 @@
         "name": "Historical Lion",
         "type": "Platform",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/6913ff280e124d21cae72855",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6913ff280e124d21cae72855.webp",
         "isHorizontal": true
       }
     },
@@ -2206,7 +2206,7 @@
         "name": "Phase Weekly",
         "type": "Platform",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/6913ff9b0e124d21cae7285b",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6913ff9b0e124d21cae7285b.webp",
         "isHorizontal": true
       }
     },
@@ -2234,7 +2234,7 @@
         "name": "RapidTele",
         "type": "Platform",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69140027bfda80224f032a3b",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69140027bfda80224f032a3b.webp",
         "isHorizontal": true
       }
     },
@@ -2262,7 +2262,7 @@
         "name": "Heartbreaker Hotline",
         "type": "Platform",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/691400a1bfda80224f032a40",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/691400a1bfda80224f032a40.webp",
         "isHorizontal": true
       }
     },
@@ -2290,7 +2290,7 @@
         "name": "Soul Exciting!",
         "type": "Platform",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/6914041148501ac5eee441ba",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6914041148501ac5eee441ba.webp",
         "isHorizontal": true
       }
     },
@@ -2319,7 +2319,7 @@
         "name": "Sad Girl Company",
         "type": "Platform",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/6914048048501ac5eee441c0",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6914048048501ac5eee441c0.webp",
         "isHorizontal": true
       }
     },
@@ -2347,7 +2347,7 @@
         "name": "Pippa's Quarters",
         "type": "Platform",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/6914061a4f837aa6b64c43a7",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6914061a4f837aa6b64c43a7.webp",
         "isHorizontal": true
       }
     },
@@ -2374,7 +2374,7 @@
         "name": "Nasa's Dream",
         "type": "Platform",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/6914094f5e89c7461e3f6625",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6914094f5e89c7461e3f6625.webp",
         "isHorizontal": true
       }
     },
@@ -2401,7 +2401,7 @@
         "name": "Iori's Den",
         "type": "Platform",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69140a495e89c7461e3f663e",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69140a495e89c7461e3f663e.webp",
         "isHorizontal": true
       }
     },
@@ -2428,7 +2428,7 @@
         "name": "Michiru's Cabin",
         "type": "Platform",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69140b734f837aa6b64c4425",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69140b734f837aa6b64c4425.webp",
         "isHorizontal": true
       }
     },
@@ -2455,7 +2455,7 @@
         "name": "Uruka's Lounge",
         "type": "Platform",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69140ca65e89c7461e3f6660",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69140ca65e89c7461e3f6660.webp",
         "isHorizontal": true
       }
     },
@@ -2482,7 +2482,7 @@
         "name": "Lia's Network",
         "type": "Platform",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69140dcb4f837aa6b64c443e",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69140dcb4f837aa6b64c443e.webp",
         "isHorizontal": true
       }
     },
@@ -2509,7 +2509,7 @@
         "name": "Tenma's Basement",
         "type": "Platform",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69140ee25e89c7461e3f66aa",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69140ee25e89c7461e3f66aa.webp",
         "isHorizontal": true
       }
     },
@@ -2536,7 +2536,7 @@
         "name": "Game Flavor of the Week",
         "type": "Content",
         "cost": 1,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/691410ff5e89c7461e3f66da",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/691410ff5e89c7461e3f66da.webp",
         "isHorizontal": false
       }
     },
@@ -2571,7 +2571,7 @@
         "name": "POGCHAMP",
         "type": "Content",
         "cost": 2,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/691411af6d5a1d0bffcda8d2",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/691411af6d5a1d0bffcda8d2.webp",
         "isHorizontal": false
       }
     },
@@ -2605,7 +2605,7 @@
         "name": "Continued Gameplay",
         "type": "Content",
         "cost": 3,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/691412ce5d763946a2ea087b",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/691412ce5d763946a2ea087b.webp",
         "isHorizontal": false
       }
     },
@@ -2640,7 +2640,7 @@
         "name": "Closed Beta",
         "type": "Content",
         "cost": 4,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/6914139b5d763946a2ea0881",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6914139b5d763946a2ea0881.webp",
         "isHorizontal": false
       }
     },
@@ -2673,7 +2673,7 @@
         "name": "Long Game",
         "type": "Content",
         "cost": 6,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/6914152a51138bde6d816bc9",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6914152a51138bde6d816bc9.webp",
         "isHorizontal": false
       }
     },
@@ -2709,7 +2709,7 @@
         "name": "Gaming Marathon",
         "type": "Content",
         "cost": 8,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/6914159551138bde6d816bcf",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6914159551138bde6d816bcf.webp",
         "isHorizontal": false
       }
     },
@@ -2742,7 +2742,7 @@
         "name": "Big Cheese",
         "type": "Action",
         "cost": 4,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/691416f251138bde6d816bd5",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/691416f251138bde6d816bd5.webp",
         "isHorizontal": false
       }
     },
@@ -2776,7 +2776,7 @@
         "name": "Sweet Combo",
         "type": "Action",
         "cost": 1,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/691418870340e4b41d2667c9",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/691418870340e4b41d2667c9.webp",
         "isHorizontal": false
       }
     },
@@ -2808,7 +2808,7 @@
         "name": "Toxic Gaming",
         "type": "Content",
         "cost": 2,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/691419cf0340e4b41d2667cf",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/691419cf0340e4b41d2667cf.webp",
         "isHorizontal": false
       }
     },
@@ -2841,7 +2841,7 @@
         "name": "Sweaty Gaming",
         "type": "Content",
         "cost": 3,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69141b1f47f35cd59c13b4cd",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69141b1f47f35cd59c13b4cd.webp",
         "isHorizontal": false
       }
     },
@@ -2876,7 +2876,7 @@
         "name": "Spooky Town",
         "type": "Content",
         "cost": 4,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69141c4647f35cd59c13b4d3",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69141c4647f35cd59c13b4d3.webp",
         "isHorizontal": false
       }
     },
@@ -2911,7 +2911,7 @@
         "name": "Puzzling Puzzle",
         "type": "Content",
         "cost": 5,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69141d8c47f35cd59c13b4d9",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69141d8c47f35cd59c13b4d9.webp",
         "isHorizontal": false
       }
     },
@@ -2944,7 +2944,7 @@
         "name": "Mahjong Tournament",
         "type": "Content",
         "cost": 7,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69141ec847f35cd59c13b4df",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69141ec847f35cd59c13b4df.webp",
         "isHorizontal": false
       }
     },
@@ -2977,7 +2977,7 @@
         "name": "Sus Gameplay",
         "type": "Content",
         "cost": 10,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/691420356b82677a3b585dab",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/691420356b82677a3b585dab.webp",
         "isHorizontal": false
       }
     },
@@ -3013,7 +3013,7 @@
         "name": "Desk Slam",
         "type": "Action",
         "cost": 2,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/691420d66b82677a3b585db1",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/691420d66b82677a3b585db1.webp",
         "isHorizontal": false
       }
     },
@@ -3045,7 +3045,7 @@
         "name": "RIP",
         "type": "Action",
         "cost": 4,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69142221f74cfd3489cd589d",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69142221f74cfd3489cd589d.webp",
         "isHorizontal": false
       }
     },
@@ -3077,7 +3077,7 @@
         "name": "Gold Farming",
         "type": "Content",
         "cost": 1,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/6914237f06b203dc62d08f0f",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6914237f06b203dc62d08f0f.webp",
         "isHorizontal": false
       }
     },
@@ -3112,7 +3112,7 @@
         "name": "Suck on Copium",
         "type": "Content",
         "cost": 3,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/6914249806b203dc62d08f15",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6914249806b203dc62d08f15.webp",
         "isHorizontal": false
       }
     },
@@ -3147,7 +3147,7 @@
         "name": "Rage Game",
         "type": "Content",
         "cost": 4,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/691426b2d307d1e0650335cb",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/691426b2d307d1e0650335cb.webp",
         "isHorizontal": false
       }
     },
@@ -3180,7 +3180,7 @@
         "name": "Gamer Fluid",
         "type": "Content",
         "cost": 5,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/691427c625898a0af3fbbe5b",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/691427c625898a0af3fbbe5b.webp",
         "isHorizontal": false
       }
     },
@@ -3213,7 +3213,7 @@
         "name": "Batsu Bracket",
         "type": "Content",
         "cost": 7,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/6914286525898a0af3fbbe61",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6914286525898a0af3fbbe61.webp",
         "isHorizontal": false
       }
     },
@@ -3246,7 +3246,7 @@
         "name": "Speedrun",
         "type": "Content",
         "cost": 9,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/6914296025898a0af3fbbe67",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6914296025898a0af3fbbe67.webp",
         "isHorizontal": false
       }
     },
@@ -3279,7 +3279,7 @@
         "name": "License for Winning",
         "type": "Action",
         "cost": 3,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69142b37d75dae6f45aa4093",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69142b37d75dae6f45aa4093.webp",
         "isHorizontal": false
       }
     },
@@ -3311,7 +3311,7 @@
         "name": "Instant Replay",
         "type": "Action",
         "cost": 4,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69142c56d75dae6f45aa4099",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69142c56d75dae6f45aa4099.webp",
         "isHorizontal": false
       }
     },
@@ -3343,7 +3343,7 @@
         "name": "Guerrilla Stream",
         "type": "Content",
         "cost": 1,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69142cf7d75dae6f45aa409f",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69142cf7d75dae6f45aa409f.webp",
         "isHorizontal": false
       }
     },
@@ -3376,7 +3376,7 @@
         "name": "You Laugh You Lose",
         "type": "Content",
         "cost": 2,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69142dfed75dae6f45aa40a5",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69142dfed75dae6f45aa40a5.webp",
         "isHorizontal": false
       }
     },
@@ -3409,7 +3409,7 @@
         "name": "Yapping",
         "type": "Content",
         "cost": 3,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69142ebcd75dae6f45aa40ab",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69142ebcd75dae6f45aa40ab.webp",
         "isHorizontal": false
       }
     },
@@ -3442,7 +3442,7 @@
         "name": "Moldy Bread",
         "type": "Content",
         "cost": 5,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69142fc4d75dae6f45aa40b1",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69142fc4d75dae6f45aa40b1.webp",
         "isHorizontal": false
       }
     },
@@ -3477,7 +3477,7 @@
         "name": "Burned Toast Tart",
         "type": "Content",
         "cost": 6,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/691430e5d75dae6f45aa40b7",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/691430e5d75dae6f45aa40b7.webp",
         "isHorizontal": false
       }
     },
@@ -3512,7 +3512,7 @@
         "name": "Rent Free",
         "type": "Content",
         "cost": 8,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/691432484e46048391346942",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/691432484e46048391346942.webp",
         "isHorizontal": false
       }
     },
@@ -3546,7 +3546,7 @@
         "name": "Sound Alert Jumpscare",
         "type": "Action",
         "cost": 1,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/691433c44e46048391346948",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/691433c44e46048391346948.webp",
         "isHorizontal": false
       }
     },
@@ -3578,7 +3578,7 @@
         "name": "Gaslight",
         "type": "Action",
         "cost": 4,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/691434a34b8911202a3d5235",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/691434a34b8911202a3d5235.webp",
         "isHorizontal": false
       }
     },
@@ -3610,7 +3610,7 @@
         "name": "Debut Stream",
         "type": "Content",
         "cost": 1,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/691435c74b8911202a3d523b",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/691435c74b8911202a3d523b.webp",
         "isHorizontal": false
       }
     },
@@ -3645,7 +3645,7 @@
         "name": "Edgelord Behavior",
         "type": "Content",
         "cost": 2,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/691436a14b8911202a3d5241",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/691436a14b8911202a3d5241.webp",
         "isHorizontal": false
       }
     },
@@ -3678,7 +3678,7 @@
         "name": "Disruption Stream",
         "type": "Content",
         "cost": 3,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/691437f23b0d76acd2a8e2de",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/691437f23b0d76acd2a8e2de.webp",
         "isHorizontal": false
       }
     },
@@ -3713,7 +3713,7 @@
         "name": "Drop In Call",
         "type": "Content",
         "cost": 4,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/691439063b0d76acd2a8e2f9",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/691439063b0d76acd2a8e2f9.webp",
         "isHorizontal": false
       }
     },
@@ -3746,7 +3746,7 @@
         "name": "Big Head Moment",
         "type": "Content",
         "cost": 6,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69143b32e5cdf1b1b831d97d",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69143b32e5cdf1b1b831d97d.webp",
         "isHorizontal": false
       }
     },
@@ -3779,7 +3779,7 @@
         "name": "AD Break",
         "type": "Content",
         "cost": 8,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69143bff9fdccb93d266d5ec",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69143bff9fdccb93d266d5ec.webp",
         "isHorizontal": false
       }
     },
@@ -3812,7 +3812,7 @@
         "name": "Controlling The Narrative",
         "type": "Action",
         "cost": 3,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69143ccb9fdccb93d266d5f2",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69143ccb9fdccb93d266d5f2.webp",
         "isHorizontal": false
       }
     },
@@ -3844,7 +3844,7 @@
         "name": "Ban Hammer",
         "type": "Action",
         "cost": 8,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69143d9aa0c96e0b2e2ac772",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69143d9aa0c96e0b2e2ac772.webp",
         "isHorizontal": false
       }
     },
@@ -3876,7 +3876,7 @@
         "name": "Charity Event",
         "type": "Content",
         "cost": 2,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69143e88a0c96e0b2e2ac778",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69143e88a0c96e0b2e2ac778.webp",
         "isHorizontal": false
       }
     },
@@ -3911,7 +3911,7 @@
         "name": "Marshmallows",
         "type": "Content",
         "cost": 3,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/691449f23f7796b3fc1777af",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/691449f23f7796b3fc1777af.webp",
         "isHorizontal": false
       }
     },
@@ -3944,7 +3944,7 @@
         "name": "Fund Raiser",
         "type": "Content",
         "cost": 4,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69144adb3f7796b3fc1777b5",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69144adb3f7796b3fc1777b5.webp",
         "isHorizontal": false
       }
     },
@@ -3979,7 +3979,7 @@
         "name": "Math Stream",
         "type": "Content",
         "cost": 3,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69144b7d3f7796b3fc1777bb",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69144b7d3f7796b3fc1777bb.webp",
         "isHorizontal": false
       }
     },
@@ -4012,7 +4012,7 @@
         "name": "Donothon",
         "type": "Content",
         "cost": 7,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69144c713f7796b3fc1777c1",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69144c713f7796b3fc1777c1.webp",
         "isHorizontal": false
       }
     },
@@ -4047,7 +4047,7 @@
         "name": "Clip Out of Context",
         "type": "Content",
         "cost": 10,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69144daf3f7796b3fc1777c7",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69144daf3f7796b3fc1777c7.webp",
         "isHorizontal": false
       }
     },
@@ -4080,7 +4080,7 @@
         "name": "React Meta",
         "type": "Action",
         "cost": 2,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69144ea73f7796b3fc1777cd",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69144ea73f7796b3fc1777cd.webp",
         "isHorizontal": false
       }
     },
@@ -4112,7 +4112,7 @@
         "name": "Watchalong",
         "type": "Action",
         "cost": 3,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69144fd13f7796b3fc1777d3",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69144fd13f7796b3fc1777d3.webp",
         "isHorizontal": false
       }
     },
@@ -4145,7 +4145,7 @@
         "name": "Birthday Special",
         "type": "Content",
         "cost": 1,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/6915532f2944d7546dc5e297",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6915532f2944d7546dc5e297.webp",
         "isHorizontal": false
       }
     },
@@ -4178,7 +4178,7 @@
         "name": "Karaoke Night",
         "type": "Content",
         "cost": 3,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/691588542ad7c8821a7b1bcc",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/691588542ad7c8821a7b1bcc.webp",
         "isHorizontal": false
       }
     },
@@ -4213,7 +4213,7 @@
         "name": "From Our Hearts",
         "type": "Content",
         "cost": 4,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69158d420668fefa80af5f62",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69158d420668fefa80af5f62.webp",
         "isHorizontal": false
       }
     },
@@ -4257,7 +4257,7 @@
         "name": "Let 'em Cook",
         "type": "Content",
         "cost": 5,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69158e1e0668fefa80af5f68",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69158e1e0668fefa80af5f68.webp",
         "isHorizontal": false
       }
     },
@@ -4291,7 +4291,7 @@
         "name": "Cover Song",
         "type": "Content",
         "cost": 6,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69158ee50668fefa80af5f6e",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69158ee50668fefa80af5f6e.webp",
         "isHorizontal": false
       }
     },
@@ -4330,7 +4330,7 @@
         "name": "Masterpiece",
         "type": "Content",
         "cost": 9,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69158fd41afbd4e562b0980d",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69158fd41afbd4e562b0980d.webp",
         "isHorizontal": false
       }
     },
@@ -4365,7 +4365,7 @@
         "name": "My Time",
         "type": "Action",
         "cost": 2,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/691590a91afbd4e562b09813",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/691590a91afbd4e562b09813.webp",
         "isHorizontal": false
       }
     },
@@ -4397,7 +4397,7 @@
         "name": "Hype",
         "type": "Action",
         "cost": 1,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/691591e1ad9945dfe73e07b0",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/691591e1ad9945dfe73e07b0.webp",
         "isHorizontal": false
       }
     },
@@ -4429,7 +4429,7 @@
         "name": "ADpocalypse",
         "type": "Content",
         "cost": 1,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/691592a2ad9945dfe73e07b6",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/691592a2ad9945dfe73e07b6.webp",
         "isHorizontal": false
       }
     },
@@ -4464,7 +4464,7 @@
         "name": "Original Song",
         "type": "Content",
         "cost": 2,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69159336ad9945dfe73e07bc",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69159336ad9945dfe73e07bc.webp",
         "isHorizontal": false
       }
     },
@@ -4499,7 +4499,7 @@
         "name": "Dog Food Regret",
         "type": "Content",
         "cost": 3,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/6917e68cfd2ef8272ebf1a9c",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6917e68cfd2ef8272ebf1a9c.webp",
         "isHorizontal": false
       }
     },
@@ -4532,7 +4532,7 @@
         "name": "Background Dogs Barking",
         "type": "Content",
         "cost": 5,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/6917e73b916beb4ecf10f45f",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6917e73b916beb4ecf10f45f.webp",
         "isHorizontal": false
       }
     },
@@ -4567,7 +4567,7 @@
         "name": "Campfire Guitar",
         "type": "Content",
         "cost": 6,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/6917e8951e35d1c777616e3f",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6917e8951e35d1c777616e3f.webp",
         "isHorizontal": false
       }
     },
@@ -4600,7 +4600,7 @@
         "name": "Craft Show",
         "type": "Content",
         "cost": 8,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/6917e9301e35d1c777616e45",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6917e9301e35d1c777616e45.webp",
         "isHorizontal": false
       }
     },
@@ -4633,7 +4633,7 @@
         "name": "Diss Track",
         "type": "Action",
         "cost": 3,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/6917e9f91e35d1c777616e4b",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6917e9f91e35d1c777616e4b.webp",
         "isHorizontal": false
       }
     },
@@ -4666,7 +4666,7 @@
         "name": "No Show",
         "type": "Action",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69195ea76d51e0af3feba984",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69195ea76d51e0af3feba984.webp",
         "isHorizontal": false
       }
     },
@@ -4697,7 +4697,7 @@
         "name": "Anniversary Celebration",
         "type": "Content",
         "cost": 1,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69195ffb6d51e0af3feba98b",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69195ffb6d51e0af3feba98b.webp",
         "isHorizontal": false
       }
     },
@@ -4734,7 +4734,7 @@
         "name": "Encore Performance",
         "type": "Content",
         "cost": 2,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69196228e49067983ce9ec98",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69196228e49067983ce9ec98.webp",
         "isHorizontal": false
       }
     },
@@ -4767,7 +4767,7 @@
         "name": "Requested Song Stream",
         "type": "Content",
         "cost": 3,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69196716cc57edaf81b4009c",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69196716cc57edaf81b4009c.webp",
         "isHorizontal": false
       }
     },
@@ -4802,7 +4802,7 @@
         "name": "Christmas Special",
         "type": "Content",
         "cost": 3,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69196814cc57edaf81b400a2",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69196814cc57edaf81b400a2.webp",
         "isHorizontal": false
       }
     },
@@ -4841,7 +4841,7 @@
         "name": "Royalty Song",
         "type": "Content",
         "cost": 6,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69196cef41540acd1a283446",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69196cef41540acd1a283446.webp",
         "isHorizontal": false
       }
     },
@@ -4876,7 +4876,7 @@
         "name": "Halloween Special",
         "type": "Content",
         "cost": 8,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69196de041540acd1a28344c",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69196de041540acd1a28344c.webp",
         "isHorizontal": false
       }
     },
@@ -4918,7 +4918,7 @@
         "name": "Sponsorship",
         "type": "Action",
         "cost": 1,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69196ee741540acd1a283452",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69196ee741540acd1a283452.webp",
         "isHorizontal": false
       }
     },
@@ -4952,7 +4952,7 @@
         "name": "Embrace Scuff",
         "type": "Action",
         "cost": 2,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/691970755b63f4c4624249da",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/691970755b63f4c4624249da.webp",
         "isHorizontal": false
       }
     },
@@ -4986,7 +4986,7 @@
         "name": "Cinema Date",
         "type": "Content",
         "cost": 4,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/6919738b73b79a6388842f64",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6919738b73b79a6388842f64.webp",
         "isHorizontal": false
       }
     },
@@ -5022,7 +5022,7 @@
         "name": "Origins Video",
         "type": "Content",
         "cost": 3,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/6919745f016e59802bd5419d",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6919745f016e59802bd5419d.webp",
         "isHorizontal": false
       }
     },
@@ -5055,7 +5055,7 @@
         "name": "Mega Capping",
         "type": "Content",
         "cost": 4,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69197585016e59802bd541a3",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69197585016e59802bd541a3.webp",
         "isHorizontal": false
       }
     },
@@ -5091,7 +5091,7 @@
         "name": "Court Room Roleplay",
         "type": "Content",
         "cost": 2,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/691976d19932f01736614333",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/691976d19932f01736614333.webp",
         "isHorizontal": false
       }
     },
@@ -5124,7 +5124,7 @@
         "name": "Mukbang ASMR",
         "type": "Content",
         "cost": 7,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/6919786d9bca77d3f40ad518",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6919786d9bca77d3f40ad518.webp",
         "isHorizontal": false
       }
     },
@@ -5159,7 +5159,7 @@
         "name": "Scary Yandere Roleplay",
         "type": "Content",
         "cost": 10,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69197a2dfc4e1cb7878eefcb",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69197a2dfc4e1cb7878eefcb.webp",
         "isHorizontal": false
       }
     },
@@ -5194,7 +5194,7 @@
         "name": "In Character",
         "type": "Action",
         "cost": 1,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69197bf6089990d6e0451ed8",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69197bf6089990d6e0451ed8.webp",
         "isHorizontal": false
       }
     },
@@ -5226,7 +5226,7 @@
         "name": "ARA ARA",
         "type": "Action",
         "cost": 4,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69197d01089990d6e0451ede",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69197d01089990d6e0451ede.webp",
         "isHorizontal": false
       }
     },
@@ -5258,7 +5258,7 @@
         "name": "First Date",
         "type": "Content",
         "cost": 1,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69197e13089990d6e0451ee4",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69197e13089990d6e0451ee4.webp",
         "isHorizontal": false
       }
     },
@@ -5293,7 +5293,7 @@
         "name": "UWU",
         "type": "Content",
         "cost": 3,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69197eee089990d6e0451eea",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69197eee089990d6e0451eea.webp",
         "isHorizontal": false
       }
     },
@@ -5328,7 +5328,7 @@
         "name": "Thriller Story Reading",
         "type": "Content",
         "cost": 4,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69197fe1089990d6e0451ef0",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69197fe1089990d6e0451ef0.webp",
         "isHorizontal": false
       }
     },
@@ -5361,7 +5361,7 @@
         "name": "Peaceful ASMR",
         "type": "Content",
         "cost": 7,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/691980d7089990d6e0451ef6",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/691980d7089990d6e0451ef6.webp",
         "isHorizontal": false
       }
     },
@@ -5394,7 +5394,7 @@
         "name": "Confessional Stream",
         "type": "Content",
         "cost": 2,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/691982d5ae9026676794b63a",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/691982d5ae9026676794b63a.webp",
         "isHorizontal": false
       }
     },
@@ -5427,7 +5427,7 @@
         "name": "Year 0 Science",
         "type": "Content",
         "cost": 9,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/691983ef4987acb945c57647",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/691983ef4987acb945c57647.webp",
         "isHorizontal": false
       }
     },
@@ -5460,7 +5460,7 @@
         "name": "Succumb to Cringe",
         "type": "Action",
         "cost": 2,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/691984d04987acb945c5764d",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/691984d04987acb945c5764d.webp",
         "isHorizontal": false
       }
     },
@@ -5493,7 +5493,7 @@
         "name": "Parasocial Trap",
         "type": "Action",
         "cost": 7,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/691985854987acb945c57653",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/691985854987acb945c57653.webp",
         "isHorizontal": false
       }
     },
@@ -5526,7 +5526,7 @@
         "name": "Vtuber Coffee",
         "type": "Content",
         "cost": 1,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/691986104987acb945c57659",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/691986104987acb945c57659.webp",
         "isHorizontal": false
       }
     },
@@ -5561,7 +5561,7 @@
         "name": "Puzzle Hand Cam",
         "type": "Content",
         "cost": 2,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/691987364987acb945c5765f",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/691987364987acb945c5765f.webp",
         "isHorizontal": false
       }
     },
@@ -5594,7 +5594,7 @@
         "name": "Mama Cameo",
         "type": "Content",
         "cost": 3,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/691987ee4987acb945c57665",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/691987ee4987acb945c57665.webp",
         "isHorizontal": false
       }
     },
@@ -5629,7 +5629,7 @@
         "name": "Updated Model Stream",
         "type": "Content",
         "cost": 5,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/691988a34987acb945c5766b",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/691988a34987acb945c5766b.webp",
         "isHorizontal": false
       }
     },
@@ -5662,7 +5662,7 @@
         "name": "Menhera Club",
         "type": "Content",
         "cost": 6,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69198a4e19ba6bc1e0adf516",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69198a4e19ba6bc1e0adf516.webp",
         "isHorizontal": false
       }
     },
@@ -5703,7 +5703,7 @@
         "name": "Beating You With A Frying Pan ASMR",
         "type": "Action",
         "cost": 8,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69198b0e626a126957f3fed0",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69198b0e626a126957f3fed0.webp",
         "isHorizontal": false
       }
     },
@@ -5735,7 +5735,7 @@
         "name": "Sudden Rizz",
         "type": "Action",
         "cost": 2,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69198c6de4f9e27e3b4afdab",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69198c6de4f9e27e3b4afdab.webp",
         "isHorizontal": false
       }
     },
@@ -5767,7 +5767,7 @@
         "name": "Microphone Upgrade",
         "type": "Action",
         "cost": 4,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69198d87e4f9e27e3b4afdb1",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69198d87e4f9e27e3b4afdb1.webp",
         "isHorizontal": false
       }
     },
@@ -5799,7 +5799,7 @@
         "name": "Sakana",
         "type": "Persona",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69198ee8e4f9e27e3b4afdb7",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69198ee8e4f9e27e3b4afdb7.webp",
         "isHorizontal": false
       }
     },
@@ -5833,7 +5833,7 @@
         "name": "Phase Warehouse",
         "type": "Platform",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69199055e31ef0e47e2ee392",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69199055e31ef0e47e2ee392.webp",
         "isHorizontal": true
       }
     },
@@ -5860,7 +5860,7 @@
         "name": "Buy Out Artist Alley",
         "type": "Action",
         "cost": 6,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/6919915c77b2fd5884887177",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6919915c77b2fd5884887177.webp",
         "isHorizontal": false
       }
     },
@@ -5894,7 +5894,7 @@
         "name": "Pipkin Pippa",
         "type": "Upgrade",
         "cost": 6,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/691394fe01489a191c7db32f",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/691394fe01489a191c7db32f.webp",
         "isHorizontal": false
       }
     },
@@ -5931,7 +5931,7 @@
         "name": "Pippa The Rippa",
         "type": "Content",
         "cost": 6,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/691398cf2ecfadf711ee66bb",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/691398cf2ecfadf711ee66bb.webp",
         "isHorizontal": false
       }
     },
@@ -5967,7 +5967,7 @@
         "name": "Vomit Drawer",
         "type": "Action",
         "cost": 2,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/691399712ecfadf711ee66c1",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/691399712ecfadf711ee66c1.webp",
         "isHorizontal": false
       }
     },
@@ -5999,7 +5999,7 @@
         "name": "Tenma Maemi",
         "type": "Upgrade",
         "cost": 7,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/6913964f2ecfadf711ee66b5",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6913964f2ecfadf711ee66b5.webp",
         "isHorizontal": false
       }
     },
@@ -6036,7 +6036,7 @@
         "name": "Depressed Single Divorced Fathers",
         "type": "Content",
         "cost": 1,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69139ab42ecfadf711ee66c7",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69139ab42ecfadf711ee66c7.webp",
         "isHorizontal": false
       }
     },
@@ -6069,7 +6069,7 @@
         "name": "FAQ YU",
         "type": "Action",
         "cost": 2,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69139bbf2ecfadf711ee66cd",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69139bbf2ecfadf711ee66cd.webp",
         "isHorizontal": false
       }
     },
@@ -6101,7 +6101,7 @@
         "name": "Eden",
         "type": "Persona",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/698c1a2798264c0aafd3051d",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/698c1a2798264c0aafd3051d.webp",
         "isHorizontal": false
       }
     },
@@ -6133,7 +6133,7 @@
         "name": "Eden",
         "type": "Upgrade",
         "cost": 2,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/698c1b1098264c0aafd3053a",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/698c1b1098264c0aafd3053a.webp",
         "isHorizontal": false
       }
     },
@@ -6169,7 +6169,7 @@
         "name": "Eden",
         "type": "Upgrade",
         "cost": 6,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69dca5c101ffbd6734757f05",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dca5c101ffbd6734757f05.webp",
         "isHorizontal": false
       }
     },
@@ -6205,7 +6205,7 @@
         "name": "Crystal Dragon Memories",
         "type": "Content",
         "cost": 4,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/698c1c1298264c0aafd30557",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/698c1c1298264c0aafd30557.webp",
         "isHorizontal": false
       }
     },
@@ -6238,7 +6238,7 @@
         "name": "Euclase Frost",
         "type": "Action",
         "cost": 2,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69dca68c23c61778a9ce5730",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dca68c23c61778a9ce5730.webp",
         "isHorizontal": false
       }
     },
@@ -6270,7 +6270,7 @@
         "name": "Captain Camille",
         "type": "Persona",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/698c25dba8daf044c4d31451",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/698c25dba8daf044c4d31451.webp",
         "isHorizontal": false
       }
     },
@@ -6304,7 +6304,7 @@
         "name": "Captain Camille",
         "type": "Upgrade",
         "cost": 3,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/698c26ffa8daf044c4d3146e",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/698c26ffa8daf044c4d3146e.webp",
         "isHorizontal": false
       }
     },
@@ -6341,7 +6341,7 @@
         "name": "Captain Camille",
         "type": "Upgrade",
         "cost": 7,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69dca78970e286ebae486c21",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dca78970e286ebae486c21.webp",
         "isHorizontal": false
       }
     },
@@ -6378,7 +6378,7 @@
         "name": "Vaseline On Toast",
         "type": "Content",
         "cost": 5,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/698c28ca714c2ea902ee2c10",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/698c28ca714c2ea902ee2c10.webp",
         "isHorizontal": false
       }
     },
@@ -6413,7 +6413,7 @@
         "name": "Throbbing Egghead",
         "type": "Action",
         "cost": 2,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/698c0e2798264c0aafd30426",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/698c0e2798264c0aafd30426.webp",
         "isHorizontal": false
       }
     },
@@ -6447,7 +6447,7 @@
         "name": "Porcelain Maid",
         "type": "Persona",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/698c14d398264c0aafd3049d",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/698c14d398264c0aafd3049d.webp",
         "isHorizontal": false
       }
     },
@@ -6481,7 +6481,7 @@
         "name": "Porcelain Maid",
         "type": "Upgrade",
         "cost": 4,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/698c156098264c0aafd304a3",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/698c156098264c0aafd304a3.webp",
         "isHorizontal": false
       }
     },
@@ -6518,7 +6518,7 @@
         "name": "Porcelain Maid",
         "type": "Upgrade",
         "cost": 8,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/6a1646aaaa6a879dccfee851",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6a1646aaaa6a879dccfee851.webp",
         "isHorizontal": false
       }
     },
@@ -6555,7 +6555,7 @@
         "name": "Bonus Three Inches",
         "type": "Action",
         "cost": 5,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69dd3ec6754bf2ed9cee1a1b",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd3ec6754bf2ed9cee1a1b.webp",
         "isHorizontal": false
       }
     },
@@ -6587,7 +6587,7 @@
         "name": "Remove Ball-Jointed Head",
         "type": "Action",
         "cost": 2,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/698c166798264c0aafd304c0",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/698c166798264c0aafd304c0.webp",
         "isHorizontal": false
       }
     },
@@ -6619,7 +6619,7 @@
         "name": "Raelice",
         "type": "Persona",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/698c1ca898264c0aafd30574",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/698c1ca898264c0aafd30574.webp",
         "isHorizontal": false
       }
     },
@@ -6653,7 +6653,7 @@
         "name": "Raelice",
         "type": "Upgrade",
         "cost": 3,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/698c1d7e98264c0aafd30591",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/698c1d7e98264c0aafd30591.webp",
         "isHorizontal": false
       }
     },
@@ -6690,7 +6690,7 @@
         "name": "Raelice",
         "type": "Upgrade",
         "cost": 7,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69dd3fc780f548a4c6180725",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd3fc780f548a4c6180725.webp",
         "isHorizontal": false
       }
     },
@@ -6727,7 +6727,7 @@
         "name": "Hot Sauce Karaoke",
         "type": "Content",
         "cost": 3,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/698c103098264c0aafd30456",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/698c103098264c0aafd30456.webp",
         "isHorizontal": false
       }
     },
@@ -6760,7 +6760,7 @@
         "name": "Off the Raelz",
         "type": "Action",
         "cost": 1,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/698c25321ec21df48fe991a7",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/698c25321ec21df48fe991a7.webp",
         "isHorizontal": false
       }
     },
@@ -6792,7 +6792,7 @@
         "name": "La Avispa Nectarina",
         "type": "Persona",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/698c29c6714c2ea902ee2c4e",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/698c29c6714c2ea902ee2c4e.webp",
         "isHorizontal": false
       }
     },
@@ -6824,7 +6824,7 @@
         "name": "La Avispa Nectarina",
         "type": "Upgrade",
         "cost": 3,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/698c2ae4714c2ea902ee2c6b",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/698c2ae4714c2ea902ee2c6b.webp",
         "isHorizontal": false
       }
     },
@@ -6860,7 +6860,7 @@
         "name": "La Avispa Nectarina",
         "type": "Upgrade",
         "cost": 7,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69dd408e5bfb6a136873d90a",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd408e5bfb6a136873d90a.webp",
         "isHorizontal": false
       }
     },
@@ -6894,7 +6894,7 @@
         "name": "Bug Burger Cooking Stream",
         "type": "Content",
         "cost": 2,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/698c4096a56bb481d8e7dbb9",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/698c4096a56bb481d8e7dbb9.webp",
         "isHorizontal": false
       }
     },
@@ -6926,7 +6926,7 @@
         "name": "AVId Gummy Worm Enjoyer",
         "type": "Action",
         "cost": 4,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69931756cc4af7b467545853",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69931756cc4af7b467545853.webp",
         "isHorizontal": false
       }
     },
@@ -6958,7 +6958,7 @@
         "name": "LineChu",
         "type": "Persona",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/698c174c98264c0aafd304dd",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/698c174c98264c0aafd304dd.webp",
         "isHorizontal": false
       }
     },
@@ -6993,7 +6993,7 @@
         "name": "LineChu",
         "type": "Upgrade",
         "cost": 3,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/698c188a98264c0aafd304fa",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/698c188a98264c0aafd304fa.webp",
         "isHorizontal": false
       }
     },
@@ -7030,7 +7030,7 @@
         "name": "LineChu",
         "type": "Upgrade",
         "cost": 7,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69dd41655bfb6a136873d910",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd41655bfb6a136873d910.webp",
         "isHorizontal": false
       }
     },
@@ -7067,7 +7067,7 @@
         "name": "38+ Husbands",
         "type": "Content",
         "cost": 3,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/698c195b98264c0aafd30500",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/698c195b98264c0aafd30500.webp",
         "isHorizontal": false
       }
     },
@@ -7102,7 +7102,7 @@
         "name": "Find the Bepis",
         "type": "Action",
         "cost": 2,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69dd422d5bfb6a136873d916",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd422d5bfb6a136873d916.webp",
         "isHorizontal": false
       }
     },
@@ -7137,7 +7137,7 @@
         "name": "Convention Circuit",
         "type": "Platform",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69dd43cbaa059d08766f4140",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd43cbaa059d08766f4140.webp",
         "isHorizontal": true
       }
     },
@@ -7167,7 +7167,7 @@
         "name": "CollabCast",
         "type": "Platform",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69dd4418aa059d08766f4146",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd4418aa059d08766f4146.webp",
         "isHorizontal": true
       }
     },
@@ -7197,7 +7197,7 @@
         "name": "Quickipedia",
         "type": "Platform",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69dd447daa059d08766f414c",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd447daa059d08766f414c.webp",
         "isHorizontal": true
       }
     },
@@ -7228,7 +7228,7 @@
         "name": "Webflip",
         "type": "Platform",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69dd44dbaa059d08766f4152",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd44dbaa059d08766f4152.webp",
         "isHorizontal": true
       }
     },
@@ -7259,7 +7259,7 @@
         "name": "Goblet",
         "type": "Platform",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69dd4526aa059d08766f4158",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd4526aa059d08766f4158.webp",
         "isHorizontal": true
       }
     },
@@ -7288,7 +7288,7 @@
         "name": "String",
         "type": "Platform",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69dd4558aa059d08766f415e",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd4558aa059d08766f415e.webp",
         "isHorizontal": true
       }
     },
@@ -7318,7 +7318,7 @@
         "name": "Festive",
         "type": "Platform",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69dd4585aa059d08766f4164",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd4585aa059d08766f4164.webp",
         "isHorizontal": true
       }
     },
@@ -7348,7 +7348,7 @@
         "name": "Scuff Pod",
         "type": "Platform",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69dd45d1aa059d08766f416a",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd45d1aa059d08766f416a.webp",
         "isHorizontal": true
       }
     },
@@ -7379,7 +7379,7 @@
         "name": "Supreme Planet Lungs",
         "type": "Platform",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69dd465eaa059d08766f417c",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd465eaa059d08766f417c.webp",
         "isHorizontal": true
       }
     },
@@ -7408,7 +7408,7 @@
         "name": "Blue Butterfly",
         "type": "Platform",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69dd46b6aa059d08766f4181",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd46b6aa059d08766f4181.webp",
         "isHorizontal": true
       }
     },
@@ -7437,7 +7437,7 @@
         "name": "Y",
         "type": "Platform",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69dd472caa059d08766f4186",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd472caa059d08766f4186.webp",
         "isHorizontal": true
       }
     },
@@ -7466,7 +7466,7 @@
         "name": "U-TOOB",
         "type": "Platform",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69dd4765aa059d08766f418b",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd4765aa059d08766f418b.webp",
         "isHorizontal": true
       }
     },
@@ -7496,7 +7496,7 @@
         "name": "MediaFlame",
         "type": "Platform",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69dd47ceaa059d08766f4190",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd47ceaa059d08766f4190.webp",
         "isHorizontal": true
       }
     },
@@ -7527,7 +7527,7 @@
         "name": "Blotify",
         "type": "Platform",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69dd4833aa059d08766f4195",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd4833aa059d08766f4195.webp",
         "isHorizontal": true
       }
     },
@@ -7556,7 +7556,7 @@
         "name": "U-JORTS",
         "type": "Platform",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69dd486caa059d08766f419a",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd486caa059d08766f419a.webp",
         "isHorizontal": true
       }
     },
@@ -7584,7 +7584,7 @@
         "name": "CopyStrike",
         "type": "Platform",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69dd48bdaa059d08766f419f",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd48bdaa059d08766f419f.webp",
         "isHorizontal": true
       }
     },
@@ -7613,7 +7613,7 @@
         "name": "Garden of Euclase Castle",
         "type": "Platform",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69dd4969aa059d08766f41a4",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd4969aa059d08766f41a4.webp",
         "isHorizontal": true
       }
     },
@@ -7641,7 +7641,7 @@
         "name": "B.B. Nightingale",
         "type": "Platform",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69dd4dc8c06ef13bd1c210be",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd4dc8c06ef13bd1c210be.webp",
         "isHorizontal": true
       }
     },
@@ -7667,7 +7667,7 @@
         "name": "Porcelain Parlor",
         "type": "Platform",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69dd4ebac06ef13bd1c210c4",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd4ebac06ef13bd1c210c4.webp",
         "isHorizontal": true
       }
     },
@@ -7694,7 +7694,7 @@
         "name": "Infinite Library",
         "type": "Platform",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69dd53803fbeab0f6f4ecabc",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd53803fbeab0f6f4ecabc.webp",
         "isHorizontal": true
       }
     },
@@ -7721,7 +7721,7 @@
         "name": "The Wasp Bunker",
         "type": "Platform",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69dd54d13fbeab0f6f4ecac2",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd54d13fbeab0f6f4ecac2.webp",
         "isHorizontal": true
       }
     },
@@ -7748,7 +7748,7 @@
         "name": "Bepis Pad",
         "type": "Platform",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69dd58ab47d5fbd24b028baf",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd58ab47d5fbd24b028baf.webp",
         "isHorizontal": true
       }
     },
@@ -7776,7 +7776,7 @@
         "name": "Parasocial Sunday",
         "type": "Content",
         "cost": 1,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69dd593147d5fbd24b028bb5",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd593147d5fbd24b028bb5.webp",
         "isHorizontal": false
       }
     },
@@ -7811,7 +7811,7 @@
         "name": "Wisdom of the Day",
         "type": "Content",
         "cost": 2,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69dd5a13c5a73637e5fb9d92",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd5a13c5a73637e5fb9d92.webp",
         "isHorizontal": false
       }
     },
@@ -7846,7 +7846,7 @@
         "name": "Gamer Gene",
         "type": "Content",
         "cost": 2,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/698d54f0c03c24736b0e794a",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/698d54f0c03c24736b0e794a.webp",
         "isHorizontal": false
       }
     },
@@ -7881,7 +7881,7 @@
         "name": "Toilet Swimmer",
         "type": "Content",
         "cost": 3,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69dd5a96c5a73637e5fb9d98",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd5a96c5a73637e5fb9d98.webp",
         "isHorizontal": false
       }
     },
@@ -7914,7 +7914,7 @@
         "name": "Tomboy Abs",
         "type": "Content",
         "cost": 6,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69dd5b2fc5a73637e5fb9d9e",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd5b2fc5a73637e5fb9d9e.webp",
         "isHorizontal": false
       }
     },
@@ -7947,7 +7947,7 @@
         "name": "Friendship Tax",
         "type": "Content",
         "cost": 9,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69dd5bdec5a73637e5fb9da4",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd5bdec5a73637e5fb9da4.webp",
         "isHorizontal": false
       }
     },
@@ -7983,7 +7983,7 @@
         "name": "Unique Laughing Sounds",
         "type": "Action",
         "cost": 2,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69dd5d9e3378d802267f3d90",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd5d9e3378d802267f3d90.webp",
         "isHorizontal": false
       }
     },
@@ -8015,7 +8015,7 @@
         "name": "Pinata",
         "type": "Action",
         "cost": 3,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/698bfec1017e44430a8f0e1a",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/698bfec1017e44430a8f0e1a.webp",
         "isHorizontal": false
       }
     },
@@ -8049,7 +8049,7 @@
         "name": "Blobin",
         "type": "Cameo",
         "cost": 6,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69dd5e013378d802267f3d96",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd5e013378d802267f3d96.webp",
         "isHorizontal": false
       }
     },
@@ -8085,7 +8085,7 @@
         "name": "Chat Control",
         "type": "Content",
         "cost": 2,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69dd5f37f11fa00a6348f43d",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd5f37f11fa00a6348f43d.webp",
         "isHorizontal": false
       }
     },
@@ -8121,7 +8121,7 @@
         "name": "Joystick User",
         "type": "Content",
         "cost": 3,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69dd601765da2dd71f486166",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd601765da2dd71f486166.webp",
         "isHorizontal": false
       }
     },
@@ -8154,7 +8154,7 @@
         "name": "Pro Gamer",
         "type": "Content",
         "cost": 4,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69dd618f0e0738535b9e426e",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd618f0e0738535b9e426e.webp",
         "isHorizontal": false
       }
     },
@@ -8187,7 +8187,7 @@
         "name": "Knock Knock",
         "type": "Content",
         "cost": 5,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69dd62010e0738535b9e4274",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd62010e0738535b9e4274.webp",
         "isHorizontal": false
       }
     },
@@ -8220,7 +8220,7 @@
         "name": "Kiss, Marry, Kill",
         "type": "Content",
         "cost": 6,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69dd628d0e0738535b9e427a",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd628d0e0738535b9e427a.webp",
         "isHorizontal": false
       }
     },
@@ -8253,7 +8253,7 @@
         "name": "Children's Game",
         "type": "Content",
         "cost": 8,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69dd6323d4b88dc4d7780161",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd6323d4b88dc4d7780161.webp",
         "isHorizontal": false
       }
     },
@@ -8286,7 +8286,7 @@
         "name": "Gacha Pull",
         "type": "Action",
         "cost": 4,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69dd63c5d4b88dc4d7780167",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd63c5d4b88dc4d7780167.webp",
         "isHorizontal": false
       }
     },
@@ -8318,7 +8318,7 @@
         "name": "Nose Pull",
         "type": "Action",
         "cost": 6,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69dd6430d4b88dc4d778016d",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd6430d4b88dc4d778016d.webp",
         "isHorizontal": false
       }
     },
@@ -8350,7 +8350,7 @@
         "name": "CeriYun",
         "type": "Cameo",
         "cost": 3,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69dd64dad4b88dc4d7780173",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd64dad4b88dc4d7780173.webp",
         "isHorizontal": false
       }
     },
@@ -8387,7 +8387,7 @@
         "name": "Rampant Narcissism",
         "type": "Content",
         "cost": 1,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69dd6615d4b88dc4d7780197",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd6615d4b88dc4d7780197.webp",
         "isHorizontal": false
       }
     },
@@ -8421,7 +8421,7 @@
         "name": "Child Support",
         "type": "Content",
         "cost": 2,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69dd66a5d4b88dc4d778019d",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd66a5d4b88dc4d778019d.webp",
         "isHorizontal": false
       }
     },
@@ -8456,7 +8456,7 @@
         "name": "Trash Talk",
         "type": "Content",
         "cost": 3,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69dd6705d4b88dc4d77801a3",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd6705d4b88dc4d77801a3.webp",
         "isHorizontal": false
       }
     },
@@ -8489,7 +8489,7 @@
         "name": "Retro Games",
         "type": "Content",
         "cost": 4,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69dd6779d4b88dc4d77801a9",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd6779d4b88dc4d77801a9.webp",
         "isHorizontal": false
       }
     },
@@ -8522,7 +8522,7 @@
         "name": "Sigma Alpha Dominant",
         "type": "Content",
         "cost": 5,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69dd68a89dabace7158cef88",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd68a89dabace7158cef88.webp",
         "isHorizontal": false
       }
     },
@@ -8555,7 +8555,7 @@
         "name": "NPC Carry",
         "type": "Content",
         "cost": 7,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69dd68f79dabace7158cef8e",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd68f79dabace7158cef8e.webp",
         "isHorizontal": false
       }
     },
@@ -8588,7 +8588,7 @@
         "name": "Soulslike Notes",
         "type": "Action",
         "cost": 2,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69dd6992d4fd275b5ba5cdcd",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd6992d4fd275b5ba5cdcd.webp",
         "isHorizontal": false
       }
     },
@@ -8620,7 +8620,7 @@
         "name": "Ash Blasting",
         "type": "Action",
         "cost": 3,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69dd6a88d4fd275b5ba5cdd3",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd6a88d4fd275b5ba5cdd3.webp",
         "isHorizontal": false
       }
     },
@@ -8652,7 +8652,7 @@
         "name": "Blockheads",
         "type": "Cameo",
         "cost": 3,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69dd736c94a253049b1dff24",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd736c94a253049b1dff24.webp",
         "isHorizontal": false
       }
     },
@@ -8688,7 +8688,7 @@
         "name": "Love the Nub",
         "type": "Content",
         "cost": 3,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69dd73f494a253049b1dff2a",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd73f494a253049b1dff2a.webp",
         "isHorizontal": false
       }
     },
@@ -8723,7 +8723,7 @@
         "name": "CUSTODY BATTLE",
         "type": "Content",
         "cost": 3,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69dd74dd94a253049b1dff30",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd74dd94a253049b1dff30.webp",
         "isHorizontal": false
       }
     },
@@ -8758,7 +8758,7 @@
         "name": "How's Your Mom?",
         "type": "Content",
         "cost": 3,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69dd751894a253049b1dff36",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd751894a253049b1dff36.webp",
         "isHorizontal": false
       }
     },
@@ -8791,7 +8791,7 @@
         "name": "Bathing Suit Outfit",
         "type": "Content",
         "cost": 4,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69dd759094a253049b1dff3c",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd759094a253049b1dff3c.webp",
         "isHorizontal": false
       }
     },
@@ -8824,7 +8824,7 @@
         "name": "VTuber HR",
         "type": "Content",
         "cost": 6,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69dd75fe94a253049b1dff42",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd75fe94a253049b1dff42.webp",
         "isHorizontal": false
       }
     },
@@ -8857,7 +8857,7 @@
         "name": "Casual Misongyny",
         "type": "Content",
         "cost": 7,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69dd766b94a253049b1dff48",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd766b94a253049b1dff48.webp",
         "isHorizontal": false
       }
     },
@@ -8891,7 +8891,7 @@
         "name": "Sniffa",
         "type": "Action",
         "cost": 2,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69dd76cc94a253049b1dff4e",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd76cc94a253049b1dff4e.webp",
         "isHorizontal": false
       }
     },
@@ -8923,7 +8923,7 @@
         "name": "Add Reverb",
         "type": "Action",
         "cost": 4,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69dd775c94a253049b1dff54",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd775c94a253049b1dff54.webp",
         "isHorizontal": false
       }
     },
@@ -8955,7 +8955,7 @@
         "name": "Bellyr Adsala",
         "type": "Cameo",
         "cost": 3,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69dd77f494a253049b1dff5a",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd77f494a253049b1dff5a.webp",
         "isHorizontal": false
       }
     },
@@ -8991,7 +8991,7 @@
         "name": "Robot Vacuum",
         "type": "Content",
         "cost": 1,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69dd789b94a253049b1dff60",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd789b94a253049b1dff60.webp",
         "isHorizontal": false
       }
     },
@@ -9024,7 +9024,7 @@
         "name": "Tier List",
         "type": "Content",
         "cost": 2,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69dd9b51d40d60059f6bba8c",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd9b51d40d60059f6bba8c.webp",
         "isHorizontal": false
       }
     },
@@ -9059,7 +9059,7 @@
         "name": "Against TOS",
         "type": "Content",
         "cost": 2,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69dd9bf6d40d60059f6bba92",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd9bf6d40d60059f6bba92.webp",
         "isHorizontal": false
       }
     },
@@ -9095,7 +9095,7 @@
         "name": "Mods, Ban Them",
         "type": "Content",
         "cost": 4,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69dd9cbfd40d60059f6bba98",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd9cbfd40d60059f6bba98.webp",
         "isHorizontal": false
       }
     },
@@ -9128,7 +9128,7 @@
         "name": "Vine Boom",
         "type": "Content",
         "cost": 5,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69dd9d3bd40d60059f6bba9e",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd9d3bd40d60059f6bba9e.webp",
         "isHorizontal": false
       }
     },
@@ -9163,7 +9163,7 @@
         "name": "Mandatory Ball Crushing",
         "type": "Content",
         "cost": 8,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69dd9dd9d40d60059f6bbaa4",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd9dd9d40d60059f6bbaa4.webp",
         "isHorizontal": false
       }
     },
@@ -9198,7 +9198,7 @@
         "name": "Cage Chat",
         "type": "Action",
         "cost": 2,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69dd9e6fd40d60059f6bbaaa",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd9e6fd40d60059f6bbaaa.webp",
         "isHorizontal": false
       }
     },
@@ -9230,7 +9230,7 @@
         "name": "Accidental Flash",
         "type": "Action",
         "cost": 5,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69dd9eeed40d60059f6bbab0",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd9eeed40d60059f6bbab0.webp",
         "isHorizontal": false
       }
     },
@@ -9262,7 +9262,7 @@
         "name": "Minky(e)",
         "type": "Cameo",
         "cost": 5,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69dd9f9ad40d60059f6bbab6",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd9f9ad40d60059f6bbab6.webp",
         "isHorizontal": false
       }
     },
@@ -9298,7 +9298,7 @@
         "name": "Blockheads Big Adventure!",
         "type": "Content",
         "cost": 1,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69dda01fd40d60059f6bbabc",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dda01fd40d60059f6bbabc.webp",
         "isHorizontal": false
       }
     },
@@ -9331,7 +9331,7 @@
         "name": "Short Attention Span",
         "type": "Content",
         "cost": 2,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69dda093d40d60059f6bbac2",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dda093d40d60059f6bbac2.webp",
         "isHorizontal": false
       }
     },
@@ -9366,7 +9366,7 @@
         "name": "Wardrobe Malfunction",
         "type": "Content",
         "cost": 2,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69dda1561893397d686b4a5c",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dda1561893397d686b4a5c.webp",
         "isHorizontal": false
       }
     },
@@ -9401,7 +9401,7 @@
         "name": "Sock Puppet Stream",
         "type": "Content",
         "cost": 4,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69dda1ab1893397d686b4a62",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dda1ab1893397d686b4a62.webp",
         "isHorizontal": false
       }
     },
@@ -9434,7 +9434,7 @@
         "name": "MILC",
         "type": "Content",
         "cost": 3,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69dda20f85cdbd0a24242e93",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dda20f85cdbd0a24242e93.webp",
         "isHorizontal": false
       }
     },
@@ -9467,7 +9467,7 @@
         "name": "No Survival Instinct",
         "type": "Content",
         "cost": 6,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69dda25485cdbd0a24242e99",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dda25485cdbd0a24242e99.webp",
         "isHorizontal": false
       }
     },
@@ -9500,7 +9500,7 @@
         "name": "WHO ARE YOU?",
         "type": "Content",
         "cost": 9,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69dda2c585cdbd0a24242e9f",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dda2c585cdbd0a24242e9f.webp",
         "isHorizontal": false
       }
     },
@@ -9533,7 +9533,7 @@
         "name": "Permission to Swear",
         "type": "Action",
         "cost": 1,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69dda33f85cdbd0a24242ea5",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dda33f85cdbd0a24242ea5.webp",
         "isHorizontal": false
       }
     },
@@ -9567,7 +9567,7 @@
         "name": "Alter Ego",
         "type": "Cameo",
         "cost": 6,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69dda39085cdbd0a24242eab",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dda39085cdbd0a24242eab.webp",
         "isHorizontal": false
       }
     },
@@ -9603,7 +9603,7 @@
         "name": "Convenience Store",
         "type": "Content",
         "cost": 2,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/698c121998264c0aafd30462",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/698c121998264c0aafd30462.webp",
         "isHorizontal": false
       }
     },
@@ -9636,7 +9636,7 @@
         "name": "Spray Streamer",
         "type": "Content",
         "cost": 2,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69dda47485cdbd0a24242eb1",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dda47485cdbd0a24242eb1.webp",
         "isHorizontal": false
       }
     },
@@ -9671,7 +9671,7 @@
         "name": "Sudden Stream Scuff",
         "type": "Content",
         "cost": 2,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69dda626eb1b4d2b3f7f5a71",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dda626eb1b4d2b3f7f5a71.webp",
         "isHorizontal": false
       }
     },
@@ -9707,7 +9707,7 @@
         "name": "Caught in 4k",
         "type": "Content",
         "cost": 3,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/6a164dd03d4d5c6047c93e5c",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6a164dd03d4d5c6047c93e5c.webp",
         "isHorizontal": false
       }
     },
@@ -9740,7 +9740,7 @@
         "name": "One Chip Challenge",
         "type": "Content",
         "cost": 5,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/6a164e343d4d5c6047c93e62",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6a164e343d4d5c6047c93e62.webp",
         "isHorizontal": false
       }
     },
@@ -9773,7 +9773,7 @@
         "name": "Morning Voice Stream",
         "type": "Content",
         "cost": 6,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/6a164bf1fa10f15bca769abf",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6a164bf1fa10f15bca769abf.webp",
         "isHorizontal": false
       }
     },
@@ -9806,7 +9806,7 @@
         "name": "ARF ARF",
         "type": "Action",
         "cost": 3,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69dda6a7eb1b4d2b3f7f5a77",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dda6a7eb1b4d2b3f7f5a77.webp",
         "isHorizontal": false
       }
     },
@@ -9838,7 +9838,7 @@
         "name": "Identity Theft",
         "type": "Action",
         "cost": 5,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69dda762eb1b4d2b3f7f5a7d",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dda762eb1b4d2b3f7f5a7d.webp",
         "isHorizontal": false
       }
     },
@@ -9872,7 +9872,7 @@
         "name": "Grubbies",
         "type": "Cameo",
         "cost": 5,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69dda7f4eb1b4d2b3f7f5a83",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dda7f4eb1b4d2b3f7f5a83.webp",
         "isHorizontal": false
       }
     },
@@ -9908,7 +9908,7 @@
         "name": "Step on Building Blocks",
         "type": "Content",
         "cost": 3,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/6a164e8b3d4d5c6047c93e68",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6a164e8b3d4d5c6047c93e68.webp",
         "isHorizontal": false
       }
     },
@@ -9942,7 +9942,7 @@
         "name": "In Your Walls",
         "type": "Content",
         "cost": 4,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/6a164f183d4d5c6047c93e6e",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6a164f183d4d5c6047c93e6e.webp",
         "isHorizontal": false
       }
     },
@@ -9975,7 +9975,7 @@
         "name": "Brain Rot",
         "type": "Content",
         "cost": 5,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69ddab18abec9f531087a681",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69ddab18abec9f531087a681.webp",
         "isHorizontal": false
       }
     },
@@ -10008,7 +10008,7 @@
         "name": "Nail Painting",
         "type": "Content",
         "cost": 6,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69ddad7503ea0252c34d1ccf",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69ddad7503ea0252c34d1ccf.webp",
         "isHorizontal": false
       }
     },
@@ -10041,7 +10041,7 @@
         "name": "Touch Grass",
         "type": "Content",
         "cost": 7,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69ddadf403ea0252c34d1cd5",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69ddadf403ea0252c34d1cd5.webp",
         "isHorizontal": false
       }
     },
@@ -10074,7 +10074,7 @@
         "name": "Fan Art",
         "type": "Content",
         "cost": 8,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/6a164f6a3d4d5c6047c93e74",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6a164f6a3d4d5c6047c93e74.webp",
         "isHorizontal": false
       }
     },
@@ -10108,7 +10108,7 @@
         "name": "Aggressive Bite",
         "type": "Action",
         "cost": 1,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69ddae6c03ea0252c34d1cdb",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69ddae6c03ea0252c34d1cdb.webp",
         "isHorizontal": false
       }
     },
@@ -10140,7 +10140,7 @@
         "name": "No Prep, No Problem",
         "type": "Action",
         "cost": 2,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69ddaef503ea0252c34d1ce1",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69ddaef503ea0252c34d1ce1.webp",
         "isHorizontal": false
       }
     },
@@ -10172,7 +10172,7 @@
         "name": "D.A.I.S.Y.",
         "type": "Cameo",
         "cost": 7,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69ddaf6603ea0252c34d1ce7",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69ddaf6603ea0252c34d1ce7.webp",
         "isHorizontal": false
       }
     },
@@ -10208,7 +10208,7 @@
         "name": "Community Art",
         "type": "Content",
         "cost": 1,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69ddafdd03ea0252c34d1ced",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69ddafdd03ea0252c34d1ced.webp",
         "isHorizontal": false
       }
     },
@@ -10243,7 +10243,7 @@
         "name": "Marketable Plushie",
         "type": "Content",
         "cost": 2,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69ddb07503ea0252c34d1cf3",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69ddb07503ea0252c34d1cf3.webp",
         "isHorizontal": false
       }
     },
@@ -10279,7 +10279,7 @@
         "name": "Powerpoint Presentation",
         "type": "Content",
         "cost": 2,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69ddb11503ea0252c34d1cf9",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69ddb11503ea0252c34d1cf9.webp",
         "isHorizontal": false
       }
     },
@@ -10314,7 +10314,7 @@
         "name": "Exposure Therapy",
         "type": "Content",
         "cost": 3,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69ddb17a03ea0252c34d1cff",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69ddb17a03ea0252c34d1cff.webp",
         "isHorizontal": false
       }
     },
@@ -10347,7 +10347,7 @@
         "name": "Fashionista",
         "type": "Content",
         "cost": 7,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69ddb1e503ea0252c34d1d05",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69ddb1e503ea0252c34d1d05.webp",
         "isHorizontal": false
       }
     },
@@ -10381,7 +10381,7 @@
         "name": "Press Conference",
         "type": "Content",
         "cost": 9,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69ddb2be03ea0252c34d1d0b",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69ddb2be03ea0252c34d1d0b.webp",
         "isHorizontal": false
       }
     },
@@ -10414,7 +10414,7 @@
         "name": "Hydraulic Press",
         "type": "Action",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69ddb33303ea0252c34d1d11",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69ddb33303ea0252c34d1d11.webp",
         "isHorizontal": false
       }
     },
@@ -10448,7 +10448,7 @@
         "name": "Hard Pivot",
         "type": "Action",
         "cost": 2,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/698c10c198264c0aafd3045c",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/698c10c198264c0aafd3045c.webp",
         "isHorizontal": false
       }
     },
@@ -10480,7 +10480,7 @@
         "name": "VTuberSenpai",
         "type": "Cameo",
         "cost": 4,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69ddb3bf03ea0252c34d1d17",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69ddb3bf03ea0252c34d1d17.webp",
         "isHorizontal": false
       }
     },
@@ -10516,7 +10516,7 @@
         "name": "Queen Status",
         "type": "Content",
         "cost": 1,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69ddb44403ea0252c34d1d1d",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69ddb44403ea0252c34d1d1d.webp",
         "isHorizontal": false
       }
     },
@@ -10549,7 +10549,7 @@
         "name": "Show Feet",
         "type": "Content",
         "cost": 2,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69ddb54303ea0252c34d1d39",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69ddb54303ea0252c34d1d39.webp",
         "isHorizontal": false
       }
     },
@@ -10584,7 +10584,7 @@
         "name": "Bepis Tower",
         "type": "Content",
         "cost": 2,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/6a164fdd3d4d5c6047c93e7a",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6a164fdd3d4d5c6047c93e7a.webp",
         "isHorizontal": false
       }
     },
@@ -10619,7 +10619,7 @@
         "name": "Boy Failure",
         "type": "Content",
         "cost": 3,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69ddb5de03ea0252c34d1d3f",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69ddb5de03ea0252c34d1d3f.webp",
         "isHorizontal": false
       }
     },
@@ -10652,7 +10652,7 @@
         "name": "Good Boy",
         "type": "Content",
         "cost": 5,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69ddb63803ea0252c34d1d45",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69ddb63803ea0252c34d1d45.webp",
         "isHorizontal": false
       }
     },
@@ -10685,7 +10685,7 @@
         "name": "So Baby",
         "type": "Content",
         "cost": 5,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69ddb6cf03ea0252c34d1d4b",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69ddb6cf03ea0252c34d1d4b.webp",
         "isHorizontal": false
       }
     },
@@ -10718,7 +10718,7 @@
         "name": "Meow",
         "type": "Content",
         "cost": 7,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69ddb70803ea0252c34d1d51",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69ddb70803ea0252c34d1d51.webp",
         "isHorizontal": false
       }
     },
@@ -10751,7 +10751,7 @@
         "name": "Take a Shot",
         "type": "Action",
         "cost": 2,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69ddb7b403ea0252c34d1d57",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69ddb7b403ea0252c34d1d57.webp",
         "isHorizontal": false
       }
     },
@@ -10785,7 +10785,7 @@
         "name": "Intended Flash",
         "type": "Action",
         "cost": 2,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69ddb82603ea0252c34d1d5d",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69ddb82603ea0252c34d1d5d.webp",
         "isHorizontal": false
       }
     },
@@ -10817,7 +10817,7 @@
         "name": "Captain Chia",
         "type": "Cameo",
         "cost": 3,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69ddb8a103ea0252c34d1d63",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69ddb8a103ea0252c34d1d63.webp",
         "isHorizontal": false
       }
     },
@@ -10853,7 +10853,7 @@
         "name": "It Should've Been Me!",
         "type": "Content",
         "cost": 1,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69ddb91e03ea0252c34d1d69",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69ddb91e03ea0252c34d1d69.webp",
         "isHorizontal": false
       }
     },
@@ -10887,7 +10887,7 @@
         "name": "Single Life",
         "type": "Content",
         "cost": 2,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69ddb9ad03ea0252c34d1d6f",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69ddb9ad03ea0252c34d1d6f.webp",
         "isHorizontal": false
       }
     },
@@ -10922,7 +10922,7 @@
         "name": "FIRED",
         "type": "Content",
         "cost": 2,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69ddba6b03ea0252c34d1d75",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69ddba6b03ea0252c34d1d75.webp",
         "isHorizontal": false
       }
     },
@@ -10957,7 +10957,7 @@
         "name": "Wear Thigh Highs",
         "type": "Content",
         "cost": 3,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69ddbabc03ea0252c34d1d7b",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69ddbabc03ea0252c34d1d7b.webp",
         "isHorizontal": false
       }
     },
@@ -10990,7 +10990,7 @@
         "name": "Oversized Thighs",
         "type": "Content",
         "cost": 4,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69ddbb3303ea0252c34d1d81",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69ddbb3303ea0252c34d1d81.webp",
         "isHorizontal": false
       }
     },
@@ -11024,7 +11024,7 @@
         "name": "Bad Pick Up Lines",
         "type": "Content",
         "cost": 7,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69ddbbb803ea0252c34d1d87",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69ddbbb803ea0252c34d1d87.webp",
         "isHorizontal": false
       }
     },
@@ -11057,7 +11057,7 @@
         "name": "Be More Cultured",
         "type": "Action",
         "cost": 2,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/698c138798264c0aafd30480",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/698c138798264c0aafd30480.webp",
         "isHorizontal": false
       }
     },
@@ -11089,7 +11089,7 @@
         "name": "Boymode",
         "type": "Action",
         "cost": 3,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69ddbc1a03ea0252c34d1d8d",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69ddbc1a03ea0252c34d1d8d.webp",
         "isHorizontal": false
       }
     },
@@ -11121,7 +11121,7 @@
         "name": "Beko Genning",
         "type": "Cameo",
         "cost": 5,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69ddbcbc03ea0252c34d1d93",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69ddbcbc03ea0252c34d1d93.webp",
         "isHorizontal": false
       }
     },
@@ -11157,7 +11157,7 @@
         "name": "Date Night",
         "type": "Content",
         "cost": 2,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69ddbd1803ea0252c34d1d99",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69ddbd1803ea0252c34d1d99.webp",
         "isHorizontal": false
       }
     },
@@ -11191,7 +11191,7 @@
         "name": "How to be a Femboy",
         "type": "Content",
         "cost": 2,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69ddbdd903ea0252c34d1d9f",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69ddbdd903ea0252c34d1d9f.webp",
         "isHorizontal": false
       }
     },
@@ -11227,7 +11227,7 @@
         "name": "Bottom Energy",
         "type": "Content",
         "cost": 3,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69ddbe3003ea0252c34d1da5",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69ddbe3003ea0252c34d1da5.webp",
         "isHorizontal": false
       }
     },
@@ -11262,7 +11262,7 @@
         "name": "Tax Evasion",
         "type": "Content",
         "cost": 6,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69ddbec203ea0252c34d1dab",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69ddbec203ea0252c34d1dab.webp",
         "isHorizontal": false
       }
     },
@@ -11297,7 +11297,7 @@
         "name": "Horror Game Stream",
         "type": "Content",
         "cost": 8,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69ddbf2a03ea0252c34d1db1",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69ddbf2a03ea0252c34d1db1.webp",
         "isHorizontal": false
       }
     },
@@ -11330,7 +11330,7 @@
         "name": "Little Sister Energy",
         "type": "Content",
         "cost": 10,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69ddbfb103ea0252c34d1dca",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69ddbfb103ea0252c34d1dca.webp",
         "isHorizontal": false
       }
     },
@@ -11363,7 +11363,7 @@
         "name": "Lonely MILF Looking for Comfort",
         "type": "Action",
         "cost": 1,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69ddc03d03ea0252c34d1dd0",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69ddc03d03ea0252c34d1dd0.webp",
         "isHorizontal": false
       }
     },
@@ -11395,7 +11395,7 @@
         "name": "Waifu Wheel",
         "type": "Action",
         "cost": 2,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69ddc09e03ea0252c34d1dd6",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69ddc09e03ea0252c34d1dd6.webp",
         "isHorizontal": false
       }
     },
@@ -11427,7 +11427,7 @@
         "name": "Pengu",
         "type": "Cameo",
         "cost": 3,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/69ddc0e203ea0252c34d1ddc",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69ddc0e203ea0252c34d1ddc.webp",
         "isHorizontal": false
       }
     },
@@ -11463,7 +11463,7 @@
         "name": "Porcelain Maid",
         "type": "Upgrade",
         "cost": 7,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/6a164794fa10f15bca769a73",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6a164794fa10f15bca769a73.webp",
         "isHorizontal": false
       }
     },
@@ -11500,7 +11500,7 @@
         "name": "Wanna Hear a Joel-ke?",
         "type": "Content",
         "cost": 3,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/6a164834fa10f15bca769a79",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6a164834fa10f15bca769a79.webp",
         "isHorizontal": false
       }
     },
@@ -11533,7 +11533,7 @@
         "name": "Date Your Mom",
         "type": "Action",
         "cost": 2,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/6a164b7dfa10f15bca769ab9",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6a164b7dfa10f15bca769ab9.webp",
         "isHorizontal": false
       }
     },
@@ -11565,7 +11565,7 @@
         "name": "LineChu",
         "type": "Upgrade",
         "cost": 6,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/6a16497cfa10f15bca769a97",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6a16497cfa10f15bca769a97.webp",
         "isHorizontal": false
       }
     },
@@ -11601,7 +11601,7 @@
         "name": "Powered by Bepis",
         "type": "Action",
         "cost": 3,
-        "image": "https://oshi-push-database-server.vercel.app/cardimage/6a164a4ffa10f15bca769ab3",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6a164a4ffa10f15bca769ab3.webp",
         "isHorizontal": false
       }
     },
