@@ -44,12 +44,11 @@
     ],
     "formats": [
       {
-        "title": "Constructed 1v2",
+        "title": "Constructed 1v1",
         "gameplay": "Classic",
         "customCategories": [
           "Persona",
-          "Platforms",
-          "Main Deck"
+          "Platforms"
         ]
       }
     ]
@@ -85,162 +84,287 @@
       "hideFacedDownCards": false,
       "sections": {
         "customSections": [
-          "Platform 1",
+          "Platform_1",
+          "Platform_2",
+          "Platform_3",
+          "Persona_1",
+          "Persona_2",
+          "Persona_3",
+          "Content_1",
+          "Content_2",
+          "Content_3",
           "Studio",
-          "Persona 1",
-          "Platform Deck",
-          "Captured Platforms",
-          "Content 1",
-          "Platform 2",
-          "Platform 3",
-          "Persona 2",
-          "Persona 3",
-          "Content 2",
-          "Content 3"
+          "Platform_Deck",
+          "Captured_Platforms"
         ],
         "layout": {
-          "direction": "column",
-          "isSymetricalForOpponents": false,
+          "direction": "row",
+          "isSymetricalForOpponents": true,
           "content": [
             {
-              "direction": "row",
-              "style": false,
+              "direction": "column",
+              "style": {
+                "width": "22vh"
+              },
               "content": [
                 {
-                  "direction": "column",
-                  "style": false,
+                  "direction": "row",
+                  "isSymetricalForOpponents": false,
                   "content": [
                     {
-                      "section": "Platform 1",
-                      "style": false
-                    },
-                    {
-                      "section": "Persona 1",
-                      "style": false
-                    },
-                    {
-                      "section": "Content 1",
-                      "style": false
+                      "section": "Platform_Deck"
                     }
-                  ],
-                  "isSymetricalForOpponents": true
+                  ]
                 },
                 {
                   "direction": "column",
-                  "style": false,
                   "content": [
                     {
-                      "section": "Platform 2",
-                      "style": false
-                    },
-                    {
-                      "section": "Persona 2",
-                      "style": false
-                    },
-                    {
-                      "section": "Content 2",
-                      "style": false
+                      "section": "Captured_Platforms"
                     }
                   ],
-                  "isSymetricalForOpponents": true
+                  "isSymetricalForOpponents": false
+                }
+              ]
+            },
+            {
+              "direction": "column",
+              "style": {
+                "width": "93vh",
+                "marginRight": "auto",
+                "marginLeft": "auto"
+              },
+              "content": [
+                {
+                  "direction": "row",
+                  "content": [
+                    {
+                      "section": "Platform_1",
+                      "style": {
+                        "marginRight": "4vh"
+                      }
+                    },
+                    {
+                      "section": "Platform_2",
+                      "style": {
+                        "marginRight": "4vh"
+                      }
+                    },
+                    {
+                      "section": "Platform_3"
+                    }
+                  ]
                 },
                 {
-                  "direction": "column",
+                  "direction": "row",
+                  "content": [
+                    {
+                      "section": "Persona_1",
+                      "style": {
+                        "marginRight": "4vh"
+                      }
+                    },
+                    {
+                      "section": "Persona_2",
+                      "style": {
+                        "marginRight": "4vh"
+                      }
+                    },
+                    {
+                      "section": "Persona_3",
+                      "style": {
+                        "marginRight": "4vh"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "direction": "row",
                   "style": false,
                   "content": [
                     {
-                      "section": "Platform 3",
+                      "section": "Cotnent_1",
                       "style": false
                     },
                     {
-                      "section": "Persona 3",
+                      "section": "Cotnent_2",
                       "style": false
                     },
                     {
-                      "section": "Content 3",
+                      "section": "Cotnent_3",
                       "style": false
                     }
                   ],
-                  "isSymetricalForOpponents": true
+                  "isSymetricalForOpponents": false
+                }
+              ]
+            },
+            {
+              "direction": "row",
+              "style": {
+                "width": "12vh"
+              },
+              "content": [
+                {
+                  "section": "Studio"
                 }
               ],
-              "isSymetricalForOpponents": true
+              "isSymetricalForOpponents": false
             }
           ]
         },
         "categoriesAlreadyOnBoard": [
-          "Deck"
+          "Persona->Studio",
+          "Platforms->Platform_Deck"
         ],
         "autoPlayFromHand": {},
-        "autoPlayFromStack": {},
+        "autoPlayFromStack": {
+          "Action": "Discard"
+        },
         "sectionsDict": {
-          "Stack": {
-            "isDefaultSection": true,
-            "title": "Stack",
+          "Platform_1": {
+            "title": "Platform_1",
             "isHidden": "no",
-            "height": "HUGE",
-            "alignment": "NONE",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": "true",
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Platform",
+            "enterTapped": true,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": true,
+            "showHiddenCardInHistory": false,
+            "noQuickActions": false,
+            "enterSpun": false
+          },
+          "Platform_2": {
+            "title": "Platform_2",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": "true",
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Platform",
+            "enterTapped": true,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": true,
+            "showHiddenCardInHistory": false,
+            "noQuickActions": false,
+            "enterSpun": false
+          },
+          "Platform_3": {
+            "title": "Platform_3",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": "true",
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Platform",
+            "enterTapped": true,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": true,
+            "showHiddenCardInHistory": false,
+            "noQuickActions": false,
+            "enterSpun": false
+          },
+          "Persona_1": {
+            "title": "Persona_1",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": "true",
             "isHorizontalAllowed": false,
-            "isGroupForbidden": true,
-            "displayedTitle": "Pile",
+            "displayedTitle": "Persona",
+            "enterTapped": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false,
+            "noQuickActions": false,
+            "enterSpun": false
+          },
+          "Persona_2": {
+            "title": "Persona_2",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Persona",
+            "enterTapped": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false,
+            "noQuickActions": false,
+            "enterSpun": false
+          },
+          "Persona_3": {
+            "title": "Persona_3",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Persona",
+            "enterTapped": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false,
+            "noQuickActions": false,
+            "enterSpun": false
+          },
+          "Content_1": {
+            "title": "Content_1",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "Exile": {
-            "isDefaultSection": true,
-            "title": "Exile",
-            "isHidden": "yes",
-            "height": "DEFAULT",
-            "alignment": "NONE",
             "isHorizontalAllowed": false,
-            "isGroupForbidden": true,
-            "noAutoPayTo": true,
-            "displayedTitle": "Removed",
-            "opponentAlignment": false,
-            "noQuickActions": false,
+            "displayedTitle": "Content",
             "enterTapped": false,
-            "enterSpun": false,
+            "isGroupForbidden": false,
             "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "ExileHidden": {
-            "isDefaultSection": true,
-            "title": "ExileHidden",
-            "isHidden": "yes",
-            "height": "DEFAULT",
-            "alignment": "NONE",
-            "isHorizontalAllowed": false,
-            "isGroupForbidden": true,
-            "noAutoPayTo": true,
-            "displayedTitle": "Removed hidden",
-            "opponentAlignment": false,
+            "showHiddenCardInHistory": false,
             "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
+            "enterSpun": false
           },
-          "Sideboard": {
-            "isDefaultSection": true,
-            "title": "Sideboard",
+          "Content_2": {
+            "title": "Content_2",
             "isHidden": "no",
-            "height": "DEFAULT",
-            "alignment": "NONE",
-            "isHorizontalAllowed": false,
-            "isGroupForbidden": true,
+            "height": "SMALL",
+            "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
-            "displayedTitle": "",
-            "noQuickActions": false,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Content",
             "enterTapped": false,
-            "enterSpun": false,
+            "isGroupForbidden": false,
             "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
+            "showHiddenCardInHistory": false,
+            "noQuickActions": false,
+            "enterSpun": false
+          },
+          "Content_3": {
+            "title": "Content_3",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Content",
+            "enterTapped": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false,
+            "noQuickActions": false,
+            "enterSpun": false
           },
           "Studio": {
             "title": "Studio",
@@ -248,143 +372,47 @@
             "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "",
-            "noQuickActions": false,
+            "noAutoPayTo": "true",
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Studio",
             "enterTapped": false,
-            "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
+            "showHiddenCardInHistory": false,
+            "noQuickActions": false,
+            "enterSpun": false
           },
-          "Platform Deck": {
-            "title": "Platform Deck",
-            "isHidden": "no",
-            "height": "MEDIUM",
+          "Platform_Deck": {
+            "title": "Platform_Deck",
+            "isHidden": "yes",
+            "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
-            "noAutoPayTo": false,
+            "noAutoPayTo": "true",
             "isHorizontalAllowed": true,
-            "displayedTitle": "",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
+            "displayedTitle": "Platform Deck",
+            "enterTapped": true,
             "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
+            "keepTappedNewTurn": true,
+            "showHiddenCardInHistory": false,
+            "noQuickActions": true,
+            "enterSpun": false
           },
-          "Captured Platforms": {
-            "title": "Captured Platforms",
-            "isHidden": "no",
-            "height": "MEDIUM",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "Content 1": {
-            "title": "Content 1",
+          "Captured_Platforms": {
+            "title": "Captured_Platforms",
             "isHidden": "no",
             "height": "BIG",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
-            "displayedTitle": "",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
+            "displayedTitle": "Captured Platforms",
+            "enterTapped": true,
             "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "Platform 2": {
-            "title": "Platform 2",
-            "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "Platform 3": {
-            "title": "Platform 3",
-            "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "Persona 2": {
-            "title": "Persona 2",
-            "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "Persona 3": {
-            "title": "Persona 3",
-            "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "Content 3": {
-            "title": "Content 3",
-            "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
+            "keepTappedNewTurn": true,
+            "showHiddenCardInHistory": false,
+            "noQuickActions": true,
+            "enterSpun": false
           }
         }
       }
