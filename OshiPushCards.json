@@ -38,14 +38,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Pipkin Pippa",
+        "name": "Pipkin Pippa - Shipkin Shippa",
         "type": "Upgrade",
         "cost": 7,
         "image": "https://oshi-push-database-server.vercel.app/tcgarena/6993032a764db4750f435ce1.webp",
         "isHorizontal": false
       }
     },
-    "name": "Pipkin Pippa",
+    "name": "Pipkin Pippa - Shipkin Shippa",
     "type": "Upgrade",
     "set": "PHC",
     "rarity": "Kami!",
@@ -106,14 +106,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Utatane Nasa",
+        "name": "Utatane Nasa - Kawaii Nasajira",
         "type": "Upgrade",
         "cost": 6,
         "image": "https://oshi-push-database-server.vercel.app/tcgarena/6993068f10bc96b487896fff.webp",
         "isHorizontal": false
       }
     },
-    "name": "Utatane Nasa",
+    "name": "Utatane Nasa - Kawaii Nasajira",
     "type": "Upgrade",
     "set": "PHC",
     "rarity": "Kami!",
@@ -174,14 +174,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Hakushika Iori",
+        "name": "Hakushika Iori - Secret Agent",
         "type": "Upgrade",
         "cost": 6,
         "image": "https://oshi-push-database-server.vercel.app/tcgarena/699304f20b43fdb95e6327e2.webp",
         "isHorizontal": false
       }
     },
-    "name": "Hakushika Iori",
+    "name": "Hakushika Iori - Secret Agent",
     "type": "Upgrade",
     "set": "PHC",
     "rarity": "Kami!",
@@ -241,14 +241,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Shisui Michiru",
+        "name": "Shisui Michiru - Witch Half Cat",
         "type": "Upgrade",
         "cost": 8,
         "image": "https://oshi-push-database-server.vercel.app/tcgarena/699308f58da5a01e2090f035.webp",
         "isHorizontal": false
       }
     },
-    "name": "Shisui Michiru",
+    "name": "Shisui Michiru - Witch Half Cat",
     "type": "Upgrade",
     "set": "PHC",
     "rarity": "Kami!",
@@ -309,14 +309,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Fujikura Uruka",
+        "name": "Fujikura Uruka - Gomi Kuma",
         "type": "Upgrade",
         "cost": 7,
         "image": "https://oshi-push-database-server.vercel.app/tcgarena/69930a5b8adfe69cbc75e9a9.webp",
         "isHorizontal": false
       }
     },
-    "name": "Fujikura Uruka",
+    "name": "Fujikura Uruka - Gomi Kuma",
     "type": "Upgrade",
     "set": "PHC",
     "rarity": "Kami!",
@@ -377,14 +377,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Rinkou Ashelia",
+        "name": "Rinkou Ashelia - Cheerful Virus",
         "type": "Upgrade",
         "cost": 7,
         "image": "https://oshi-push-database-server.vercel.app/tcgarena/6993098e3248a2f107e76736.webp",
         "isHorizontal": false
       }
     },
-    "name": "Rinkou Ashelia",
+    "name": "Rinkou Ashelia - Cheerful Virus",
     "type": "Upgrade",
     "set": "PHC",
     "rarity": "Kami!",
@@ -446,14 +446,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Tenma Maemi",
+        "name": "Tenma Maemi - 30ma",
         "type": "Upgrade",
         "cost": 8,
         "image": "https://oshi-push-database-server.vercel.app/tcgarena/69930833f29918febab6ab76.webp",
         "isHorizontal": false
       }
     },
-    "name": "Tenma Maemi",
+    "name": "Tenma Maemi - 30ma",
     "type": "Upgrade",
     "set": "PHC",
     "rarity": "Kami!",
@@ -516,14 +516,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Pipkin Pippa",
+        "name": "Pipkin Pippa - Filippa Pipkin",
         "type": "Upgrade",
         "cost": 3,
         "image": "https://oshi-push-database-server.vercel.app/tcgarena/69127f93576a42015f1852b8.webp",
         "isHorizontal": false
       }
     },
-    "name": "Pipkin Pippa",
+    "name": "Pipkin Pippa - Filippa Pipkin",
     "type": "Upgrade",
     "set": "PHC",
     "rarity": "Supa!",
@@ -552,14 +552,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Pipkin Pippa",
+        "name": "Pipkin Pippa - Shipkin Shippa",
         "type": "Upgrade",
         "cost": 7,
         "image": "https://oshi-push-database-server.vercel.app/tcgarena/69128244de54e64332e23cee.webp",
         "isHorizontal": false
       }
     },
-    "name": "Pipkin Pippa",
+    "name": "Pipkin Pippa - Shipkin Shippa",
     "type": "Upgrade",
     "set": "PHC",
     "rarity": "Light Blue Supa!",
@@ -714,14 +714,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Utatane Nasa",
+        "name": "Utatane Nasa - Seiso Sleepy Dragon",
         "type": "Upgrade",
         "cost": 3,
         "image": "https://oshi-push-database-server.vercel.app/tcgarena/6956b8f777df839e1e13c89a.webp",
         "isHorizontal": false
       }
     },
-    "name": "Utatane Nasa",
+    "name": "Utatane Nasa - Seiso Sleepy Dragon",
     "type": "Upgrade",
     "set": "PHC",
     "rarity": "Kiiro Supa!",
@@ -750,14 +750,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Utatane Nasa",
+        "name": "Utatane Nasa - Kawaii Nasajira",
         "type": "Upgrade",
         "cost": 6,
         "image": "https://oshi-push-database-server.vercel.app/tcgarena/6956b9fafe68c3b9bd84be55.webp",
         "isHorizontal": false
       }
     },
-    "name": "Utatane Nasa",
+    "name": "Utatane Nasa - Kawaii Nasajira",
     "type": "Upgrade",
     "set": "PHC",
     "rarity": "Kiiro S Supa!",
@@ -915,14 +915,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Hakushika Iori",
+        "name": "Hakushika Iori - Perfect Disguise",
         "type": "Upgrade",
         "cost": 2,
         "image": "https://oshi-push-database-server.vercel.app/tcgarena/6956cb530afc4b8249c77067.webp",
         "isHorizontal": false
       }
     },
-    "name": "Hakushika Iori",
+    "name": "Hakushika Iori - Perfect Disguise",
     "type": "Upgrade",
     "set": "PHC",
     "rarity": "Kiiro S Supa!",
@@ -950,14 +950,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Hakushika Iori",
+        "name": "Hakushika Iori - Secret Agent",
         "type": "Upgrade",
         "cost": 6,
         "image": "https://oshi-push-database-server.vercel.app/tcgarena/6956c83f6a2fc4705f527a4a.webp",
         "isHorizontal": false
       }
     },
-    "name": "Hakushika Iori",
+    "name": "Hakushika Iori - Secret Agent",
     "type": "Upgrade",
     "set": "PHC",
     "rarity": "Kami!",
@@ -1111,14 +1111,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Shisui Michiru",
+        "name": "Shisui Michiru - Da Michi",
         "type": "Upgrade",
         "cost": 4,
         "image": "https://oshi-push-database-server.vercel.app/tcgarena/6912c7898d0be72861f5ff84.webp",
         "isHorizontal": false
       }
     },
-    "name": "Shisui Michiru",
+    "name": "Shisui Michiru - Da Michi",
     "type": "Upgrade",
     "set": "PHC",
     "rarity": "Supa!",
@@ -1146,14 +1146,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Shisui Michiru",
+        "name": "Shisui Michiru - Witch Half Cat",
         "type": "Upgrade",
         "cost": 8,
         "image": "https://oshi-push-database-server.vercel.app/tcgarena/6912ca3dce5713794d48c30a.webp",
         "isHorizontal": false
       }
     },
-    "name": "Shisui Michiru",
+    "name": "Shisui Michiru - Witch Half Cat",
     "type": "Upgrade",
     "set": "PHC",
     "rarity": "Light Blue Supa!",
@@ -1308,14 +1308,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Fujikura Uruka",
+        "name": "Fujikura Uruka - Urufu",
         "type": "Upgrade",
         "cost": 3,
         "image": "https://oshi-push-database-server.vercel.app/tcgarena/6956cc598f36c05d134f2c40.webp",
         "isHorizontal": false
       }
     },
-    "name": "Fujikura Uruka",
+    "name": "Fujikura Uruka - Urufu",
     "type": "Upgrade",
     "set": "PHC",
     "rarity": "Kiiro Supa!",
@@ -1343,14 +1343,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Fujikura Uruka",
+        "name": "Fujikura Uruka - Gomi Kuma",
         "type": "Upgrade",
         "cost": 7,
         "image": "https://oshi-push-database-server.vercel.app/tcgarena/6956cbb98f36c05d134f2c24.webp",
         "isHorizontal": false
       }
     },
-    "name": "Fujikura Uruka",
+    "name": "Fujikura Uruka - Gomi Kuma",
     "type": "Upgrade",
     "set": "PHC",
     "rarity": "Kiiro S Supa!",
@@ -1505,14 +1505,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Rinkou Ashelia",
+        "name": "Rinkou Ashelia - Lia",
         "type": "Upgrade",
         "cost": 3,
         "image": "https://oshi-push-database-server.vercel.app/tcgarena/691301b0864019525a6185ce.webp",
         "isHorizontal": false
       }
     },
-    "name": "Rinkou Ashelia",
+    "name": "Rinkou Ashelia - Lia",
     "type": "Upgrade",
     "set": "PHC",
     "rarity": "Supa!",
@@ -1540,14 +1540,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Rinkou Ashelia",
+        "name": "Rinkou Ashelia - Cheerful Virus",
         "type": "Upgrade",
         "cost": 7,
         "image": "https://oshi-push-database-server.vercel.app/tcgarena/6956be7978df33989c6e6309.webp",
         "isHorizontal": false
       }
     },
-    "name": "Rinkou Ashelia",
+    "name": "Rinkou Ashelia - Cheerful Virus",
     "type": "Upgrade",
     "set": "PHC",
     "rarity": "Kiiro S Supa!",
@@ -1706,14 +1706,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Tenma Maemi",
+        "name": "Tenma Maemi - Mii-chan",
         "type": "Upgrade",
         "cost": 3,
         "image": "https://oshi-push-database-server.vercel.app/tcgarena/69130fca1d17611a9d01c180.webp",
         "isHorizontal": false
       }
     },
-    "name": "Tenma Maemi",
+    "name": "Tenma Maemi - Mii-chan",
     "type": "Upgrade",
     "set": "PHC",
     "rarity": "Supa!",
@@ -1742,14 +1742,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Tenma Maemi",
+        "name": "Tenma Maemi - 30ma",
         "type": "Upgrade",
         "cost": 8,
         "image": "https://oshi-push-database-server.vercel.app/tcgarena/691310b61d17611a9d01c186.webp",
         "isHorizontal": false
       }
     },
-    "name": "Tenma Maemi",
+    "name": "Tenma Maemi - 30ma",
     "type": "Upgrade",
     "set": "PHC",
     "rarity": "Light Blue Supa!",
@@ -5752,14 +5752,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Pipkin Pippa",
+        "name": "Pipkin Pippa - Yabbit",
         "type": "Upgrade",
         "cost": 6,
         "image": "https://oshi-push-database-server.vercel.app/tcgarena/691394fe01489a191c7db32f.webp",
         "isHorizontal": false
       }
     },
-    "name": "Pipkin Pippa",
+    "name": "Pipkin Pippa - Yabbit",
     "type": "Upgrade",
     "set": "PHC",
     "rarity": "Starter",
@@ -5854,14 +5854,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Tenma Maemi",
+        "name": "Tenma Maemi - Mrs. Worldwide",
         "type": "Upgrade",
         "cost": 7,
         "image": "https://oshi-push-database-server.vercel.app/tcgarena/6913964f2ecfadf711ee66b5.webp",
         "isHorizontal": false
       }
     },
-    "name": "Tenma Maemi",
+    "name": "Tenma Maemi - Mrs. Worldwide",
     "type": "Upgrade",
     "set": "PHC",
     "rarity": "Starter",
@@ -5985,14 +5985,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Eden",
+        "name": "Eden - Edenia Euclase",
         "type": "Upgrade",
         "cost": 2,
         "image": "https://oshi-push-database-server.vercel.app/tcgarena/698c1b1098264c0aafd3053a.webp",
         "isHorizontal": false
       }
     },
-    "name": "Eden",
+    "name": "Eden - Edenia Euclase",
     "type": "Upgrade",
     "set": "HKS",
     "rarity": "Supa!",
@@ -6020,14 +6020,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Eden",
+        "name": "Eden - Fluffy Crystal Dragon",
         "type": "Upgrade",
         "cost": 6,
         "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dca5c101ffbd6734757f05.webp",
         "isHorizontal": false
       }
     },
-    "name": "Eden",
+    "name": "Eden - Fluffy Crystal Dragon",
     "type": "Upgrade",
     "set": "HKS",
     "rarity": "Light Blue Supa!",
@@ -6152,14 +6152,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Captain Camille",
+        "name": "Captain Camille - Not a Vampire",
         "type": "Upgrade",
         "cost": 3,
         "image": "https://oshi-push-database-server.vercel.app/tcgarena/698c26ffa8daf044c4d3146e.webp",
         "isHorizontal": false
       }
     },
-    "name": "Captain Camille",
+    "name": "Captain Camille - Not a Vampire",
     "type": "Upgrade",
     "set": "HKS",
     "rarity": "Supa!",
@@ -6188,14 +6188,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Captain Camille",
+        "name": "Captain Camille - Retired Captain",
         "type": "Upgrade",
         "cost": 7,
         "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dca78970e286ebae486c21.webp",
         "isHorizontal": false
       }
     },
-    "name": "Captain Camille",
+    "name": "Captain Camille - Retired Captain",
     "type": "Upgrade",
     "set": "HKS",
     "rarity": "Light Blue Supa!",
@@ -6325,14 +6325,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Porcelain Maid",
+        "name": "Porcelain Maid - Jowol the Caretaker",
         "type": "Upgrade",
         "cost": 4,
         "image": "https://oshi-push-database-server.vercel.app/tcgarena/698c156098264c0aafd304a3.webp",
         "isHorizontal": false
       }
     },
-    "name": "Porcelain Maid",
+    "name": "Porcelain Maid - Jowol the Caretaker",
     "type": "Upgrade",
     "set": "HKS",
     "rarity": "Supa!",
@@ -6361,14 +6361,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Porcelain Maid",
+        "name": "Porcelain Maid - Damiya The Maternal",
         "type": "Upgrade",
         "cost": 8,
         "image": "https://oshi-push-database-server.vercel.app/tcgarena/6a1646aaaa6a879dccfee851.webp",
         "isHorizontal": false
       }
     },
-    "name": "Porcelain Maid",
+    "name": "Porcelain Maid - Damiya The Maternal",
     "type": "Upgrade",
     "set": "HKS",
     "rarity": "Light Blue Supa!",
@@ -6493,14 +6493,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Raelice",
+        "name": "Raelice - Scuff Cat",
         "type": "Upgrade",
         "cost": 3,
         "image": "https://oshi-push-database-server.vercel.app/tcgarena/698c1d7e98264c0aafd30591.webp",
         "isHorizontal": false
       }
     },
-    "name": "Raelice",
+    "name": "Raelice - Scuff Cat",
     "type": "Upgrade",
     "set": "HKS",
     "rarity": "Supa!",
@@ -6529,14 +6529,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Raelice",
+        "name": "Raelice - Lore Cat",
         "type": "Upgrade",
         "cost": 7,
         "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd3fc780f548a4c6180725.webp",
         "isHorizontal": false
       }
     },
-    "name": "Raelice",
+    "name": "Raelice - Lore Cat",
     "type": "Upgrade",
     "set": "HKS",
     "rarity": "Light Blue Supa!",
@@ -6660,14 +6660,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "La Avispa Nectarina",
+        "name": "La Avispa Nectarina - Sweaty Tomboy",
         "type": "Upgrade",
         "cost": 3,
         "image": "https://oshi-push-database-server.vercel.app/tcgarena/698c2ae4714c2ea902ee2c6b.webp",
         "isHorizontal": false
       }
     },
-    "name": "La Avispa Nectarina",
+    "name": "La Avispa Nectarina - Sweaty Tomboy",
     "type": "Upgrade",
     "set": "HKS",
     "rarity": "Supa!",
@@ -6695,14 +6695,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "La Avispa Nectarina",
+        "name": "La Avispa Nectarina - Timeline B",
         "type": "Upgrade",
         "cost": 7,
         "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd408e5bfb6a136873d90a.webp",
         "isHorizontal": false
       }
     },
-    "name": "La Avispa Nectarina",
+    "name": "La Avispa Nectarina - Timeline B",
     "type": "Upgrade",
     "set": "HKS",
     "rarity": "Light Blue Supa!",
@@ -6825,14 +6825,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "LineChu",
+        "name": "LineChu - The Bottom Line",
         "type": "Upgrade",
         "cost": 3,
         "image": "https://oshi-push-database-server.vercel.app/tcgarena/698c188a98264c0aafd304fa.webp",
         "isHorizontal": false
       }
     },
-    "name": "LineChu",
+    "name": "LineChu - The Bottom Line",
     "type": "Upgrade",
     "set": "HKS",
     "rarity": "Supa!",
@@ -6861,14 +6861,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "LineChu",
+        "name": "LineChu - Femboy Princess",
         "type": "Upgrade",
         "cost": 7,
         "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd41655bfb6a136873d910.webp",
         "isHorizontal": false
       }
     },
-    "name": "LineChu",
+    "name": "LineChu - Femboy Princess",
     "type": "Upgrade",
     "set": "HKS",
     "rarity": "Light Blue Supa!",
@@ -11182,14 +11182,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Porcelain Maid",
+        "name": "Porcelain Maid - Dad That Stepped Up",
         "type": "Upgrade",
         "cost": 7,
         "image": "https://oshi-push-database-server.vercel.app/tcgarena/6a164794fa10f15bca769a73.webp",
         "isHorizontal": false
       }
     },
-    "name": "Porcelain Maid",
+    "name": "Porcelain Maid - Dad That Stepped Up",
     "type": "Upgrade",
     "set": "HKS",
     "rarity": "Starter",
@@ -11281,14 +11281,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "LineChu",
+        "name": "LineChu - Bepis Addict",
         "type": "Upgrade",
         "cost": 6,
         "image": "https://oshi-push-database-server.vercel.app/tcgarena/6a16497cfa10f15bca769a97.webp",
         "isHorizontal": false
       }
     },
-    "name": "LineChu",
+    "name": "LineChu - Bepis Addict",
     "type": "Upgrade",
     "set": "HKS",
     "rarity": "Starter",
