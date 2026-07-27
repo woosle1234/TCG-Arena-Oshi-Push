@@ -204,21 +204,21 @@
                   },
                   "content": [
                     {
-                      "section": "Cotnent_1",
+                      "section": "Content_1",
                       "style": {
                         "marginRight": "auto",
                         "marginLeft": "auto"
                       }
                     },
                     {
-                      "section": "Cotnent_2",
+                      "section": "Content_2",
                       "style": {
                         "marginRight": "auto",
                         "marginLeft": "auto"
                       }
                     },
                     {
-                      "section": "Cotnent_3",
+                      "section": "Content_3",
                       "style": {
                         "marginRight": "auto",
                         "marginLeft": "auto"
