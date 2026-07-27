@@ -130,9 +130,7 @@
             {
               "direction": "column",
               "style": {
-                "width": "93vh",
-                "marginRight": "auto",
-                "marginLeft": "auto"
+                "width": "93vh"
               },
               "content": [
                 {
@@ -141,19 +139,31 @@
                     {
                       "section": "Platform_1",
                       "style": {
-                        "marginRight": "4vh"
+                        "marginRight": "auto",
+                        "marginLeft": "auto",
+                        "width": "22vh"
                       }
                     },
                     {
                       "section": "Platform_2",
                       "style": {
-                        "marginRight": "4vh"
+                        "marginRight": "auto",
+                        "marginLeft": "auto",
+                        "width": "22vh"
                       }
                     },
                     {
-                      "section": "Platform_3"
+                      "section": "Platform_3",
+                      "style": {
+                        "marginRight": "auto",
+                        "marginLeft": "auto",
+                        "width": "22vh"
+                      }
                     }
-                  ]
+                  ],
+                  "style": {
+                    "width": "93vh"
+                  }
                 },
                 {
                   "direction": "row",
@@ -161,38 +171,58 @@
                     {
                       "section": "Persona_1",
                       "style": {
-                        "marginRight": "4vh"
+                        "marginRight": "auto",
+                        "marginLeft": "auto",
+                        "width": "12vh"
                       }
                     },
                     {
                       "section": "Persona_2",
                       "style": {
-                        "marginRight": "4vh"
+                        "marginRight": "auto",
+                        "marginLeft": "auto",
+                        "width": "12vh"
                       }
                     },
                     {
                       "section": "Persona_3",
                       "style": {
-                        "marginRight": "4vh"
+                        "marginRight": "auto",
+                        "marginLeft": "auto",
+                        "width": "12vh"
                       }
                     }
-                  ]
+                  ],
+                  "style": {
+                    "width": "93vh"
+                  }
                 },
                 {
                   "direction": "row",
-                  "style": false,
+                  "style": {
+                    "width": "93vh"
+                  },
                   "content": [
                     {
                       "section": "Cotnent_1",
-                      "style": false
+                      "style": {
+                        "marginRight": "auto",
+                        "marginLeft": "auto"
+                      }
                     },
                     {
                       "section": "Cotnent_2",
-                      "style": false
+                      "style": {
+                        "marginRight": "auto",
+                        "marginLeft": "auto"
+                      }
                     },
                     {
                       "section": "Cotnent_3",
-                      "style": false
+                      "style": {
+                        "marginRight": "auto",
+                        "marginLeft": "auto"
+                      }
                     }
                   ],
                   "isSymetricalForOpponents": false
@@ -321,7 +351,7 @@
           "Content_1": {
             "title": "Content_1",
             "isHidden": "no",
-            "height": "SMALL",
+            "height": "MEDIUM",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
@@ -337,7 +367,7 @@
           "Content_2": {
             "title": "Content_2",
             "isHidden": "no",
-            "height": "SMALL",
+            "height": "MEDIUM",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
@@ -353,7 +383,7 @@
           "Content_3": {
             "title": "Content_3",
             "isHidden": "no",
-            "height": "SMALL",
+            "height": "MEDIUM",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
