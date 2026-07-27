@@ -48,7 +48,7 @@
         "gameplay": "Classic",
         "customCategories": [
           "Persona",
-          "Platforms"
+          "Platform"
         ]
       }
     ]
@@ -215,7 +215,7 @@
         },
         "categoriesAlreadyOnBoard": [
           "Persona->Studio",
-          "Platforms->Platform_Deck"
+          "Platform->Platform_Deck"
         ],
         "autoPlayFromHand": {},
         "autoPlayFromStack": {
