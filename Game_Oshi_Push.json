@@ -56,7 +56,7 @@
   "gameplay": {
     "Classic": {
       "mulligan": {
-        "info": "an optional, one-time action. After drawing your initial hand of 5 cards, if you are unsatisfied with them, you can shuffle that hand back into your draw deck and draw 5 new cards. You can only do this once.",
+        "info": "After drawing your initial hand of 5 cards, if you are unsatisfied with them, you can shuffle that hand back into your draw deck and draw 5 new cards. You can only do this once.",
         "startingHandSize": 5,
         "drawNewHand": true,
         "putSelectionAtBottom": false,
@@ -131,7 +131,7 @@
               "direction": "column",
               "style": {
                 "width": "93vh",
-                "marginBottom": "5vh",
+                "marginBottom": "7vh",
                 "marginTop": "0"
               },
               "content": [
@@ -164,7 +164,8 @@
                     }
                   ],
                   "style": {
-                    "width": "93vh"
+                    "width": "93vh",
+                    "marginTop": "0"
                   }
                 },
                 {
@@ -232,13 +233,18 @@
               ]
             },
             {
-              "direction": "row",
+              "direction": "column",
               "style": {
-                "width": "12vh"
+                "width": "22vh"
               },
               "content": [
                 {
-                  "section": "Studio"
+                  "section": "Studio",
+                  "style": {
+                    "marginRight": "auto",
+                    "marginLeft": "auto",
+                    "width": "12vh"
+                  }
                 }
               ],
               "isSymetricalForOpponents": false
@@ -283,7 +289,7 @@
             "isGroupForbidden": true,
             "noAutoPayTo": true,
             "opponentAlignment": false,
-            "displayedTitle": "",
+            "displayedTitle": "Trash",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
@@ -539,13 +545,13 @@
             "title": "Platform_Deck",
             "isHidden": "yes",
             "height": "SMALL",
-            "alignment": "CENTER",
+            "alignment": "START",
             "opponentAlignment": false,
             "noAutoPayTo": "true",
             "isHorizontalAllowed": true,
             "displayedTitle": "Platform Deck",
             "enterTapped": true,
-            "isGroupForbidden": false,
+            "isGroupForbidden": true,
             "keepTappedNewTurn": true,
             "showHiddenCardInHistory": true,
             "noQuickActions": true,
