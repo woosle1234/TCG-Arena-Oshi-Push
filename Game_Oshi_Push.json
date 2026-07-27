@@ -44,8 +44,13 @@
     ],
     "formats": [
       {
-        "title": "Constructed 1v1",
-        "gameplay": "Classic"
+        "title": "Constructed 1v2",
+        "gameplay": "Classic",
+        "customCategories": [
+          "Persona",
+          "Platforms",
+          "Main Deck"
+        ]
       }
     ]
   },
@@ -163,7 +168,9 @@
             }
           ]
         },
-        "categoriesAlreadyOnBoard": [],
+        "categoriesAlreadyOnBoard": [
+          "Deck"
+        ],
         "autoPlayFromHand": {},
         "autoPlayFromStack": {},
         "sectionsDict": {
