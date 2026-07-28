@@ -38,14 +38,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Pipkin Pippa - Shipkin Shippa",
+        "name": "Pipkin Pippa",
         "type": "Upgrade",
         "cost": 7,
         "image": "https://oshi-push-database-server.vercel.app/tcgarena/6993032a764db4750f435ce1.webp",
         "isHorizontal": false
       }
     },
-    "name": "Pipkin Pippa - Shipkin Shippa",
+    "name": "Pipkin Pippa",
     "type": "Upgrade",
     "set": "PHC",
     "rarity": "Kami!",
@@ -106,14 +106,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Utatane Nasa - Kawaii Nasajira",
+        "name": "Utatane Nasa",
         "type": "Upgrade",
         "cost": 6,
         "image": "https://oshi-push-database-server.vercel.app/tcgarena/6993068f10bc96b487896fff.webp",
         "isHorizontal": false
       }
     },
-    "name": "Utatane Nasa - Kawaii Nasajira",
+    "name": "Utatane Nasa",
     "type": "Upgrade",
     "set": "PHC",
     "rarity": "Kami!",
@@ -174,14 +174,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Hakushika Iori - Secret Agent",
+        "name": "Hakushika Iori",
         "type": "Upgrade",
         "cost": 6,
         "image": "https://oshi-push-database-server.vercel.app/tcgarena/699304f20b43fdb95e6327e2.webp",
         "isHorizontal": false
       }
     },
-    "name": "Hakushika Iori - Secret Agent",
+    "name": "Hakushika Iori",
     "type": "Upgrade",
     "set": "PHC",
     "rarity": "Kami!",
@@ -241,14 +241,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Shisui Michiru - Witch Half Cat",
+        "name": "Shisui Michiru",
         "type": "Upgrade",
         "cost": 8,
         "image": "https://oshi-push-database-server.vercel.app/tcgarena/699308f58da5a01e2090f035.webp",
         "isHorizontal": false
       }
     },
-    "name": "Shisui Michiru - Witch Half Cat",
+    "name": "Shisui Michiru",
     "type": "Upgrade",
     "set": "PHC",
     "rarity": "Kami!",
@@ -309,14 +309,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Fujikura Uruka - Gomi Kuma",
+        "name": "Fujikura Uruka",
         "type": "Upgrade",
         "cost": 7,
         "image": "https://oshi-push-database-server.vercel.app/tcgarena/69930a5b8adfe69cbc75e9a9.webp",
         "isHorizontal": false
       }
     },
-    "name": "Fujikura Uruka - Gomi Kuma",
+    "name": "Fujikura Uruka",
     "type": "Upgrade",
     "set": "PHC",
     "rarity": "Kami!",
@@ -377,14 +377,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Rinkou Ashelia - Cheerful Virus",
+        "name": "Rinkou Ashelia",
         "type": "Upgrade",
         "cost": 7,
         "image": "https://oshi-push-database-server.vercel.app/tcgarena/6993098e3248a2f107e76736.webp",
         "isHorizontal": false
       }
     },
-    "name": "Rinkou Ashelia - Cheerful Virus",
+    "name": "Rinkou Ashelia",
     "type": "Upgrade",
     "set": "PHC",
     "rarity": "Kami!",
@@ -446,14 +446,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Tenma Maemi - 30ma",
+        "name": "Tenma Maemi",
         "type": "Upgrade",
         "cost": 8,
         "image": "https://oshi-push-database-server.vercel.app/tcgarena/69930833f29918febab6ab76.webp",
         "isHorizontal": false
       }
     },
-    "name": "Tenma Maemi - 30ma",
+    "name": "Tenma Maemi",
     "type": "Upgrade",
     "set": "PHC",
     "rarity": "Kami!",
@@ -516,14 +516,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Pipkin Pippa - Filippa Pipkin",
+        "name": "Pipkin Pippa",
         "type": "Upgrade",
         "cost": 3,
         "image": "https://oshi-push-database-server.vercel.app/tcgarena/69127f93576a42015f1852b8.webp",
         "isHorizontal": false
       }
     },
-    "name": "Pipkin Pippa - Filippa Pipkin",
+    "name": "Pipkin Pippa",
     "type": "Upgrade",
     "set": "PHC",
     "rarity": "Supa!",
@@ -552,14 +552,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Pipkin Pippa - Shipkin Shippa",
+        "name": "Pipkin Pippa",
         "type": "Upgrade",
         "cost": 7,
         "image": "https://oshi-push-database-server.vercel.app/tcgarena/69128244de54e64332e23cee.webp",
         "isHorizontal": false
       }
     },
-    "name": "Pipkin Pippa - Shipkin Shippa",
+    "name": "Pipkin Pippa",
     "type": "Upgrade",
     "set": "PHC",
     "rarity": "Light Blue Supa!",
@@ -714,14 +714,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Utatane Nasa - Seiso Sleepy Dragon",
+        "name": "Utatane Nasa",
         "type": "Upgrade",
         "cost": 3,
         "image": "https://oshi-push-database-server.vercel.app/tcgarena/6956b8f777df839e1e13c89a.webp",
         "isHorizontal": false
       }
     },
-    "name": "Utatane Nasa - Seiso Sleepy Dragon",
+    "name": "Utatane Nasa",
     "type": "Upgrade",
     "set": "PHC",
     "rarity": "Kiiro Supa!",
@@ -750,14 +750,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Utatane Nasa - Kawaii Nasajira",
+        "name": "Utatane Nasa",
         "type": "Upgrade",
         "cost": 6,
         "image": "https://oshi-push-database-server.vercel.app/tcgarena/6956b9fafe68c3b9bd84be55.webp",
         "isHorizontal": false
       }
     },
-    "name": "Utatane Nasa - Kawaii Nasajira",
+    "name": "Utatane Nasa",
     "type": "Upgrade",
     "set": "PHC",
     "rarity": "Kiiro S Supa!",
@@ -915,14 +915,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Hakushika Iori - Perfect Disguise",
+        "name": "Hakushika Iori",
         "type": "Upgrade",
         "cost": 2,
         "image": "https://oshi-push-database-server.vercel.app/tcgarena/6956cb530afc4b8249c77067.webp",
         "isHorizontal": false
       }
     },
-    "name": "Hakushika Iori - Perfect Disguise",
+    "name": "Hakushika Iori",
     "type": "Upgrade",
     "set": "PHC",
     "rarity": "Kiiro S Supa!",
@@ -950,14 +950,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Hakushika Iori - Secret Agent",
+        "name": "Hakushika Iori",
         "type": "Upgrade",
         "cost": 6,
         "image": "https://oshi-push-database-server.vercel.app/tcgarena/6956c83f6a2fc4705f527a4a.webp",
         "isHorizontal": false
       }
     },
-    "name": "Hakushika Iori - Secret Agent",
+    "name": "Hakushika Iori",
     "type": "Upgrade",
     "set": "PHC",
     "rarity": "Kami!",
@@ -1111,14 +1111,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Shisui Michiru - Da Michi",
+        "name": "Shisui Michiru",
         "type": "Upgrade",
         "cost": 4,
         "image": "https://oshi-push-database-server.vercel.app/tcgarena/6912c7898d0be72861f5ff84.webp",
         "isHorizontal": false
       }
     },
-    "name": "Shisui Michiru - Da Michi",
+    "name": "Shisui Michiru",
     "type": "Upgrade",
     "set": "PHC",
     "rarity": "Supa!",
@@ -1146,14 +1146,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Shisui Michiru - Witch Half Cat",
+        "name": "Shisui Michiru",
         "type": "Upgrade",
         "cost": 8,
         "image": "https://oshi-push-database-server.vercel.app/tcgarena/6912ca3dce5713794d48c30a.webp",
         "isHorizontal": false
       }
     },
-    "name": "Shisui Michiru - Witch Half Cat",
+    "name": "Shisui Michiru",
     "type": "Upgrade",
     "set": "PHC",
     "rarity": "Light Blue Supa!",
@@ -1308,14 +1308,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Fujikura Uruka - Urufu",
+        "name": "Fujikura Uruka",
         "type": "Upgrade",
         "cost": 3,
         "image": "https://oshi-push-database-server.vercel.app/tcgarena/6956cc598f36c05d134f2c40.webp",
         "isHorizontal": false
       }
     },
-    "name": "Fujikura Uruka - Urufu",
+    "name": "Fujikura Uruka",
     "type": "Upgrade",
     "set": "PHC",
     "rarity": "Kiiro Supa!",
@@ -1343,14 +1343,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Fujikura Uruka - Gomi Kuma",
+        "name": "Fujikura Uruka",
         "type": "Upgrade",
         "cost": 7,
         "image": "https://oshi-push-database-server.vercel.app/tcgarena/6956cbb98f36c05d134f2c24.webp",
         "isHorizontal": false
       }
     },
-    "name": "Fujikura Uruka - Gomi Kuma",
+    "name": "Fujikura Uruka",
     "type": "Upgrade",
     "set": "PHC",
     "rarity": "Kiiro S Supa!",
@@ -1505,14 +1505,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Rinkou Ashelia - Lia",
+        "name": "Rinkou Ashelia",
         "type": "Upgrade",
         "cost": 3,
         "image": "https://oshi-push-database-server.vercel.app/tcgarena/691301b0864019525a6185ce.webp",
         "isHorizontal": false
       }
     },
-    "name": "Rinkou Ashelia - Lia",
+    "name": "Rinkou Ashelia",
     "type": "Upgrade",
     "set": "PHC",
     "rarity": "Supa!",
@@ -1540,17 +1540,17 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Rinkou Ashelia - Cheerful Virus",
+        "name": "Rinkou Ashelia",
         "type": "Upgrade",
         "cost": 7,
-        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6956be7978df33989c6e6309.webp",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69130594ded5f4c89c386832.webp",
         "isHorizontal": false
       }
     },
-    "name": "Rinkou Ashelia - Cheerful Virus",
+    "name": "Rinkou Ashelia",
     "type": "Upgrade",
     "set": "PHC",
-    "rarity": "Kiiro S Supa!",
+    "rarity": "Light Blue Supa!",
     "keywords": [
       "Discard"
     ],
@@ -1675,14 +1675,14 @@
         "name": "Tenma Maemi",
         "type": "Persona",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69130dd673dbfa1a3df2324c.webp",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69130e0973dbfa1a3df23252.webp",
         "isHorizontal": false
       }
     },
     "name": "Tenma Maemi",
     "type": "Persona",
     "set": "PHC",
-    "rarity": "Pon",
+    "rarity": "Supa!",
     "keywords": [
       "Clash Reward"
     ],
@@ -1690,7 +1690,7 @@
       "Tenma Maemi"
     ],
     "artist": [
-      "capri134"
+      "Phase Connect"
     ],
     "color": [
       "Green"
@@ -1706,17 +1706,17 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Tenma Maemi - Mii-chan",
+        "name": "Tenma Maemi",
         "type": "Upgrade",
         "cost": 3,
-        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69130fca1d17611a9d01c180.webp",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6956bb9978df33989c6e62ae.webp",
         "isHorizontal": false
       }
     },
-    "name": "Tenma Maemi - Mii-chan",
+    "name": "Tenma Maemi",
     "type": "Upgrade",
     "set": "PHC",
-    "rarity": "Supa!",
+    "rarity": "Kiiro Supa!",
     "keywords": [
       "Clash Reward",
       "Discard"
@@ -1742,17 +1742,17 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Tenma Maemi - 30ma",
+        "name": "Tenma Maemi",
         "type": "Upgrade",
         "cost": 8,
-        "image": "https://oshi-push-database-server.vercel.app/tcgarena/691310b61d17611a9d01c186.webp",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6956bc2478df33989c6e62ca.webp",
         "isHorizontal": false
       }
     },
-    "name": "Tenma Maemi - 30ma",
+    "name": "Tenma Maemi",
     "type": "Upgrade",
     "set": "PHC",
-    "rarity": "Light Blue Supa!",
+    "rarity": "Kiiro S Supa!",
     "keywords": [
       "Clash Reward",
       "Discard"
@@ -1876,7 +1876,14 @@
         "name": "Click Clock",
         "type": "Platform",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69139cfe2ecfadf711ee66d3.webp",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69139cfe2ecfadf711ee66d3.webp?rotate=true",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Click Clock",
+        "type": "Platform",
+        "cost": 0,
+        "image": "https://github.com/woosle1234/TCG-Arena-Oshi-Push/blob/main/images/platformback.webp?raw=true",
         "isHorizontal": true
       }
     },
@@ -1904,7 +1911,14 @@
         "name": "SwiftChat",
         "type": "Platform",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6913a14a2ecfadf711ee6745.webp",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6913a14a2ecfadf711ee6745.webp?rotate=true",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "SwiftChat",
+        "type": "Platform",
+        "cost": 0,
+        "image": "https://github.com/woosle1234/TCG-Arena-Oshi-Push/blob/main/images/platformback.webp?raw=true",
         "isHorizontal": true
       }
     },
@@ -1933,7 +1947,14 @@
         "name": "Chirpper",
         "type": "Platform",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6913a2582ecfadf711ee674b.webp",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6913a2582ecfadf711ee674b.webp?rotate=true",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Chirpper",
+        "type": "Platform",
+        "cost": 0,
+        "image": "https://github.com/woosle1234/TCG-Arena-Oshi-Push/blob/main/images/platformback.webp?raw=true",
         "isHorizontal": true
       }
     },
@@ -1962,7 +1983,14 @@
         "name": "Sudden Clips",
         "type": "Platform",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6913a3092ecfadf711ee6751.webp",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6913a3092ecfadf711ee6751.webp?rotate=true",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Sudden Clips",
+        "type": "Platform",
+        "cost": 0,
+        "image": "https://github.com/woosle1234/TCG-Arena-Oshi-Push/blob/main/images/platformback.webp?raw=true",
         "isHorizontal": true
       }
     },
@@ -1991,7 +2019,14 @@
         "name": "Sketch Book",
         "type": "Platform",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6913a90cfa51b9e5be4a05da.webp",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6913a90cfa51b9e5be4a05da.webp?rotate=true",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Sketch Book",
+        "type": "Platform",
+        "cost": 0,
+        "image": "https://github.com/woosle1234/TCG-Arena-Oshi-Push/blob/main/images/platformback.webp?raw=true",
         "isHorizontal": true
       }
     },
@@ -2020,7 +2055,14 @@
         "name": "Yappers",
         "type": "Platform",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6913a9b6fa51b9e5be4a05e0.webp",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6913a9b6fa51b9e5be4a05e0.webp?rotate=true",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Yappers",
+        "type": "Platform",
+        "cost": 0,
+        "image": "https://github.com/woosle1234/TCG-Arena-Oshi-Push/blob/main/images/platformback.webp?raw=true",
         "isHorizontal": true
       }
     },
@@ -2049,7 +2091,14 @@
         "name": "Convulsive Movement",
         "type": "Platform",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6913aadafa51b9e5be4a05e6.webp",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6913aadafa51b9e5be4a05e6.webp?rotate=true",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Convulsive Movement",
+        "type": "Platform",
+        "cost": 0,
+        "image": "https://github.com/woosle1234/TCG-Arena-Oshi-Push/blob/main/images/platformback.webp?raw=true",
         "isHorizontal": true
       }
     },
@@ -2078,7 +2127,14 @@
         "name": "Gamble Punch",
         "type": "Platform",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6913ab64fa51b9e5be4a0606.webp",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6913ab64fa51b9e5be4a0606.webp?rotate=true",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Gamble Punch",
+        "type": "Platform",
+        "cost": 0,
+        "image": "https://github.com/woosle1234/TCG-Arena-Oshi-Push/blob/main/images/platformback.webp?raw=true",
         "isHorizontal": true
       }
     },
@@ -2106,7 +2162,14 @@
         "name": "Bobby Bobby",
         "type": "Platform",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6913ac62fa51b9e5be4a060b.webp",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6913ac62fa51b9e5be4a060b.webp?rotate=true",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Bobby Bobby",
+        "type": "Platform",
+        "cost": 0,
+        "image": "https://github.com/woosle1234/TCG-Arena-Oshi-Push/blob/main/images/platformback.webp?raw=true",
         "isHorizontal": true
       }
     },
@@ -2135,7 +2198,14 @@
         "name": "Historical Lion",
         "type": "Platform",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6913ff280e124d21cae72855.webp",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6913ff280e124d21cae72855.webp?rotate=true",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Historical Lion",
+        "type": "Platform",
+        "cost": 0,
+        "image": "https://github.com/woosle1234/TCG-Arena-Oshi-Push/blob/main/images/platformback.webp?raw=true",
         "isHorizontal": true
       }
     },
@@ -2164,7 +2234,14 @@
         "name": "Phase Weekly",
         "type": "Platform",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6913ff9b0e124d21cae7285b.webp",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6913ff9b0e124d21cae7285b.webp?rotate=true",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Phase Weekly",
+        "type": "Platform",
+        "cost": 0,
+        "image": "https://github.com/woosle1234/TCG-Arena-Oshi-Push/blob/main/images/platformback.webp?raw=true",
         "isHorizontal": true
       }
     },
@@ -2192,7 +2269,14 @@
         "name": "RapidTele",
         "type": "Platform",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69140027bfda80224f032a3b.webp",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69140027bfda80224f032a3b.webp?rotate=true",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "RapidTele",
+        "type": "Platform",
+        "cost": 0,
+        "image": "https://github.com/woosle1234/TCG-Arena-Oshi-Push/blob/main/images/platformback.webp?raw=true",
         "isHorizontal": true
       }
     },
@@ -2220,7 +2304,14 @@
         "name": "Heartbreaker Hotline",
         "type": "Platform",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/tcgarena/691400a1bfda80224f032a40.webp",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/691400a1bfda80224f032a40.webp?rotate=true",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Heartbreaker Hotline",
+        "type": "Platform",
+        "cost": 0,
+        "image": "https://github.com/woosle1234/TCG-Arena-Oshi-Push/blob/main/images/platformback.webp?raw=true",
         "isHorizontal": true
       }
     },
@@ -2248,7 +2339,14 @@
         "name": "Soul Exciting!",
         "type": "Platform",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6914041148501ac5eee441ba.webp",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6914041148501ac5eee441ba.webp?rotate=true",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Soul Exciting!",
+        "type": "Platform",
+        "cost": 0,
+        "image": "https://github.com/woosle1234/TCG-Arena-Oshi-Push/blob/main/images/platformback.webp?raw=true",
         "isHorizontal": true
       }
     },
@@ -2277,7 +2375,14 @@
         "name": "Sad Girl Company",
         "type": "Platform",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6914048048501ac5eee441c0.webp",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6914048048501ac5eee441c0.webp?rotate=true",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Sad Girl Company",
+        "type": "Platform",
+        "cost": 0,
+        "image": "https://github.com/woosle1234/TCG-Arena-Oshi-Push/blob/main/images/platformback.webp?raw=true",
         "isHorizontal": true
       }
     },
@@ -2305,7 +2410,14 @@
         "name": "Pippa's Quarters",
         "type": "Platform",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6914061a4f837aa6b64c43a7.webp",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6914061a4f837aa6b64c43a7.webp?rotate=true",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Pippa's Quarters",
+        "type": "Platform",
+        "cost": 0,
+        "image": "https://github.com/woosle1234/TCG-Arena-Oshi-Push/blob/main/images/platformback.webp?raw=true",
         "isHorizontal": true
       }
     },
@@ -2332,7 +2444,14 @@
         "name": "Nasa's Dream",
         "type": "Platform",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6914094f5e89c7461e3f6625.webp",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6914094f5e89c7461e3f6625.webp?rotate=true",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Nasa's Dream",
+        "type": "Platform",
+        "cost": 0,
+        "image": "https://github.com/woosle1234/TCG-Arena-Oshi-Push/blob/main/images/platformback.webp?raw=true",
         "isHorizontal": true
       }
     },
@@ -2359,7 +2478,14 @@
         "name": "Iori's Den",
         "type": "Platform",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69140a495e89c7461e3f663e.webp",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69140a495e89c7461e3f663e.webp?rotate=true",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Iori's Den",
+        "type": "Platform",
+        "cost": 0,
+        "image": "https://github.com/woosle1234/TCG-Arena-Oshi-Push/blob/main/images/platformback.webp?raw=true",
         "isHorizontal": true
       }
     },
@@ -2386,7 +2512,14 @@
         "name": "Michiru's Cabin",
         "type": "Platform",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69140b734f837aa6b64c4425.webp",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69140b734f837aa6b64c4425.webp?rotate=true",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Michiru's Cabin",
+        "type": "Platform",
+        "cost": 0,
+        "image": "https://github.com/woosle1234/TCG-Arena-Oshi-Push/blob/main/images/platformback.webp?raw=true",
         "isHorizontal": true
       }
     },
@@ -2413,7 +2546,14 @@
         "name": "Uruka's Lounge",
         "type": "Platform",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69140ca65e89c7461e3f6660.webp",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69140ca65e89c7461e3f6660.webp?rotate=true",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Uruka's Lounge",
+        "type": "Platform",
+        "cost": 0,
+        "image": "https://github.com/woosle1234/TCG-Arena-Oshi-Push/blob/main/images/platformback.webp?raw=true",
         "isHorizontal": true
       }
     },
@@ -2440,7 +2580,14 @@
         "name": "Lia's Network",
         "type": "Platform",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69140dcb4f837aa6b64c443e.webp",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69140dcb4f837aa6b64c443e.webp?rotate=true",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Lia's Network",
+        "type": "Platform",
+        "cost": 0,
+        "image": "https://github.com/woosle1234/TCG-Arena-Oshi-Push/blob/main/images/platformback.webp?raw=true",
         "isHorizontal": true
       }
     },
@@ -2467,7 +2614,14 @@
         "name": "Tenma's Basement",
         "type": "Platform",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69140ee25e89c7461e3f66aa.webp",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69140ee25e89c7461e3f66aa.webp?rotate=true",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Tenma's Basement",
+        "type": "Platform",
+        "cost": 0,
+        "image": "https://github.com/woosle1234/TCG-Arena-Oshi-Push/blob/main/images/platformback.webp?raw=true",
         "isHorizontal": true
       }
     },
@@ -5695,7 +5849,14 @@
         "name": "Phase Warehouse",
         "type": "Platform",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69199055e31ef0e47e2ee392.webp",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69199055e31ef0e47e2ee392.webp?rotate=true",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Phase Warehouse",
+        "type": "Platform",
+        "cost": 0,
+        "image": "https://github.com/woosle1234/TCG-Arena-Oshi-Push/blob/main/images/platformback.webp?raw=true",
         "isHorizontal": true
       }
     },
@@ -5747,19 +5908,55 @@
     ],
     "cost": 6
   },
+  "OPPR/CON-003": {
+    "id": "OPPR/CON-003",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Offkai Expo Gen 5",
+        "type": "Platform",
+        "cost": 0,
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6a68d8a70acd8cb4b6f447fc.webp?rotate=true",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Offkai Expo Gen 5",
+        "type": "Platform",
+        "cost": 0,
+        "image": "https://github.com/woosle1234/TCG-Arena-Oshi-Push/blob/main/images/platformback.webp?raw=true",
+        "isHorizontal": true
+      }
+    },
+    "name": "Offkai Expo Gen 5",
+    "type": "Platform",
+    "set": "CON",
+    "rarity": "PROMO",
+    "keywords": [
+      "Clash Reward"
+    ],
+    "Vtuber": [],
+    "artist": [
+      "rialynkv"
+    ],
+    "Subscriber Count": 400000,
+    "Popularity Threshold": 3,
+    "tags": [
+      "Networking"
+    ]
+  },
   "OPKS/PHC-043": {
     "id": "OPKS/PHC-043",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Pipkin Pippa - Yabbit",
+        "name": "Pipkin Pippa",
         "type": "Upgrade",
         "cost": 6,
         "image": "https://oshi-push-database-server.vercel.app/tcgarena/691394fe01489a191c7db32f.webp",
         "isHorizontal": false
       }
     },
-    "name": "Pipkin Pippa - Yabbit",
+    "name": "Pipkin Pippa",
     "type": "Upgrade",
     "set": "PHC",
     "rarity": "Starter",
@@ -5854,14 +6051,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Tenma Maemi - Mrs. Worldwide",
+        "name": "Tenma Maemi",
         "type": "Upgrade",
         "cost": 7,
         "image": "https://oshi-push-database-server.vercel.app/tcgarena/6913964f2ecfadf711ee66b5.webp",
         "isHorizontal": false
       }
     },
-    "name": "Tenma Maemi - Mrs. Worldwide",
+    "name": "Tenma Maemi",
     "type": "Upgrade",
     "set": "PHC",
     "rarity": "Starter",
@@ -5985,14 +6182,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Eden - Edenia Euclase",
+        "name": "Eden",
         "type": "Upgrade",
         "cost": 2,
         "image": "https://oshi-push-database-server.vercel.app/tcgarena/698c1b1098264c0aafd3053a.webp",
         "isHorizontal": false
       }
     },
-    "name": "Eden - Edenia Euclase",
+    "name": "Eden",
     "type": "Upgrade",
     "set": "HKS",
     "rarity": "Supa!",
@@ -6020,14 +6217,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Eden - Fluffy Crystal Dragon",
+        "name": "Eden",
         "type": "Upgrade",
         "cost": 6,
         "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dca5c101ffbd6734757f05.webp",
         "isHorizontal": false
       }
     },
-    "name": "Eden - Fluffy Crystal Dragon",
+    "name": "Eden",
     "type": "Upgrade",
     "set": "HKS",
     "rarity": "Light Blue Supa!",
@@ -6152,14 +6349,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Captain Camille - Not a Vampire",
+        "name": "Captain Camille",
         "type": "Upgrade",
         "cost": 3,
         "image": "https://oshi-push-database-server.vercel.app/tcgarena/698c26ffa8daf044c4d3146e.webp",
         "isHorizontal": false
       }
     },
-    "name": "Captain Camille - Not a Vampire",
+    "name": "Captain Camille",
     "type": "Upgrade",
     "set": "HKS",
     "rarity": "Supa!",
@@ -6188,14 +6385,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Captain Camille - Retired Captain",
+        "name": "Captain Camille",
         "type": "Upgrade",
         "cost": 7,
         "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dca78970e286ebae486c21.webp",
         "isHorizontal": false
       }
     },
-    "name": "Captain Camille - Retired Captain",
+    "name": "Captain Camille",
     "type": "Upgrade",
     "set": "HKS",
     "rarity": "Light Blue Supa!",
@@ -6325,14 +6522,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Porcelain Maid - Jowol the Caretaker",
+        "name": "Porcelain Maid",
         "type": "Upgrade",
         "cost": 4,
         "image": "https://oshi-push-database-server.vercel.app/tcgarena/698c156098264c0aafd304a3.webp",
         "isHorizontal": false
       }
     },
-    "name": "Porcelain Maid - Jowol the Caretaker",
+    "name": "Porcelain Maid",
     "type": "Upgrade",
     "set": "HKS",
     "rarity": "Supa!",
@@ -6361,14 +6558,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Porcelain Maid - Damiya The Maternal",
+        "name": "Porcelain Maid",
         "type": "Upgrade",
         "cost": 8,
         "image": "https://oshi-push-database-server.vercel.app/tcgarena/6a1646aaaa6a879dccfee851.webp",
         "isHorizontal": false
       }
     },
-    "name": "Porcelain Maid - Damiya The Maternal",
+    "name": "Porcelain Maid",
     "type": "Upgrade",
     "set": "HKS",
     "rarity": "Light Blue Supa!",
@@ -6493,14 +6690,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Raelice - Scuff Cat",
+        "name": "Raelice",
         "type": "Upgrade",
         "cost": 3,
         "image": "https://oshi-push-database-server.vercel.app/tcgarena/698c1d7e98264c0aafd30591.webp",
         "isHorizontal": false
       }
     },
-    "name": "Raelice - Scuff Cat",
+    "name": "Raelice",
     "type": "Upgrade",
     "set": "HKS",
     "rarity": "Supa!",
@@ -6529,14 +6726,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Raelice - Lore Cat",
+        "name": "Raelice",
         "type": "Upgrade",
         "cost": 7,
         "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd3fc780f548a4c6180725.webp",
         "isHorizontal": false
       }
     },
-    "name": "Raelice - Lore Cat",
+    "name": "Raelice",
     "type": "Upgrade",
     "set": "HKS",
     "rarity": "Light Blue Supa!",
@@ -6660,14 +6857,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "La Avispa Nectarina - Sweaty Tomboy",
+        "name": "La Avispa Nectarina",
         "type": "Upgrade",
         "cost": 3,
         "image": "https://oshi-push-database-server.vercel.app/tcgarena/698c2ae4714c2ea902ee2c6b.webp",
         "isHorizontal": false
       }
     },
-    "name": "La Avispa Nectarina - Sweaty Tomboy",
+    "name": "La Avispa Nectarina",
     "type": "Upgrade",
     "set": "HKS",
     "rarity": "Supa!",
@@ -6695,14 +6892,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "La Avispa Nectarina - Timeline B",
+        "name": "La Avispa Nectarina",
         "type": "Upgrade",
         "cost": 7,
         "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd408e5bfb6a136873d90a.webp",
         "isHorizontal": false
       }
     },
-    "name": "La Avispa Nectarina - Timeline B",
+    "name": "La Avispa Nectarina",
     "type": "Upgrade",
     "set": "HKS",
     "rarity": "Light Blue Supa!",
@@ -6825,14 +7022,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "LineChu - The Bottom Line",
+        "name": "LineChu",
         "type": "Upgrade",
         "cost": 3,
         "image": "https://oshi-push-database-server.vercel.app/tcgarena/698c188a98264c0aafd304fa.webp",
         "isHorizontal": false
       }
     },
-    "name": "LineChu - The Bottom Line",
+    "name": "LineChu",
     "type": "Upgrade",
     "set": "HKS",
     "rarity": "Supa!",
@@ -6861,14 +7058,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "LineChu - Femboy Princess",
+        "name": "LineChu",
         "type": "Upgrade",
         "cost": 7,
         "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd41655bfb6a136873d910.webp",
         "isHorizontal": false
       }
     },
-    "name": "LineChu - Femboy Princess",
+    "name": "LineChu",
     "type": "Upgrade",
     "set": "HKS",
     "rarity": "Light Blue Supa!",
@@ -6968,7 +7165,14 @@
         "name": "Convention Circuit",
         "type": "Platform",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd43cbaa059d08766f4140.webp",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd43cbaa059d08766f4140.webp?rotate=true",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Convention Circuit",
+        "type": "Platform",
+        "cost": 0,
+        "image": "https://github.com/woosle1234/TCG-Arena-Oshi-Push/blob/main/images/platformback.webp?raw=true",
         "isHorizontal": true
       }
     },
@@ -6998,7 +7202,14 @@
         "name": "CollabCast",
         "type": "Platform",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd4418aa059d08766f4146.webp",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd4418aa059d08766f4146.webp?rotate=true",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "CollabCast",
+        "type": "Platform",
+        "cost": 0,
+        "image": "https://github.com/woosle1234/TCG-Arena-Oshi-Push/blob/main/images/platformback.webp?raw=true",
         "isHorizontal": true
       }
     },
@@ -7028,7 +7239,14 @@
         "name": "Quickipedia",
         "type": "Platform",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd447daa059d08766f414c.webp",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd447daa059d08766f414c.webp?rotate=true",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Quickipedia",
+        "type": "Platform",
+        "cost": 0,
+        "image": "https://github.com/woosle1234/TCG-Arena-Oshi-Push/blob/main/images/platformback.webp?raw=true",
         "isHorizontal": true
       }
     },
@@ -7059,7 +7277,14 @@
         "name": "Webflip",
         "type": "Platform",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd44dbaa059d08766f4152.webp",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd44dbaa059d08766f4152.webp?rotate=true",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Webflip",
+        "type": "Platform",
+        "cost": 0,
+        "image": "https://github.com/woosle1234/TCG-Arena-Oshi-Push/blob/main/images/platformback.webp?raw=true",
         "isHorizontal": true
       }
     },
@@ -7090,7 +7315,14 @@
         "name": "Goblet",
         "type": "Platform",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd4526aa059d08766f4158.webp",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd4526aa059d08766f4158.webp?rotate=true",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Goblet",
+        "type": "Platform",
+        "cost": 0,
+        "image": "https://github.com/woosle1234/TCG-Arena-Oshi-Push/blob/main/images/platformback.webp?raw=true",
         "isHorizontal": true
       }
     },
@@ -7119,7 +7351,14 @@
         "name": "String",
         "type": "Platform",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd4558aa059d08766f415e.webp",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd4558aa059d08766f415e.webp?rotate=true",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "String",
+        "type": "Platform",
+        "cost": 0,
+        "image": "https://github.com/woosle1234/TCG-Arena-Oshi-Push/blob/main/images/platformback.webp?raw=true",
         "isHorizontal": true
       }
     },
@@ -7149,7 +7388,14 @@
         "name": "Festive",
         "type": "Platform",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd4585aa059d08766f4164.webp",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd4585aa059d08766f4164.webp?rotate=true",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Festive",
+        "type": "Platform",
+        "cost": 0,
+        "image": "https://github.com/woosle1234/TCG-Arena-Oshi-Push/blob/main/images/platformback.webp?raw=true",
         "isHorizontal": true
       }
     },
@@ -7179,7 +7425,14 @@
         "name": "Scuff Pod",
         "type": "Platform",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd45d1aa059d08766f416a.webp",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd45d1aa059d08766f416a.webp?rotate=true",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Scuff Pod",
+        "type": "Platform",
+        "cost": 0,
+        "image": "https://github.com/woosle1234/TCG-Arena-Oshi-Push/blob/main/images/platformback.webp?raw=true",
         "isHorizontal": true
       }
     },
@@ -7210,7 +7463,14 @@
         "name": "Supreme Planet Lungs",
         "type": "Platform",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd465eaa059d08766f417c.webp",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd465eaa059d08766f417c.webp?rotate=true",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Supreme Planet Lungs",
+        "type": "Platform",
+        "cost": 0,
+        "image": "https://github.com/woosle1234/TCG-Arena-Oshi-Push/blob/main/images/platformback.webp?raw=true",
         "isHorizontal": true
       }
     },
@@ -7239,7 +7499,14 @@
         "name": "Blue Butterfly",
         "type": "Platform",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd46b6aa059d08766f4181.webp",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd46b6aa059d08766f4181.webp?rotate=true",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Blue Butterfly",
+        "type": "Platform",
+        "cost": 0,
+        "image": "https://github.com/woosle1234/TCG-Arena-Oshi-Push/blob/main/images/platformback.webp?raw=true",
         "isHorizontal": true
       }
     },
@@ -7268,7 +7535,14 @@
         "name": "Y",
         "type": "Platform",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd472caa059d08766f4186.webp",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd472caa059d08766f4186.webp?rotate=true",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Y",
+        "type": "Platform",
+        "cost": 0,
+        "image": "https://github.com/woosle1234/TCG-Arena-Oshi-Push/blob/main/images/platformback.webp?raw=true",
         "isHorizontal": true
       }
     },
@@ -7297,7 +7571,14 @@
         "name": "U-TOOB",
         "type": "Platform",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd4765aa059d08766f418b.webp",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd4765aa059d08766f418b.webp?rotate=true",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "U-TOOB",
+        "type": "Platform",
+        "cost": 0,
+        "image": "https://github.com/woosle1234/TCG-Arena-Oshi-Push/blob/main/images/platformback.webp?raw=true",
         "isHorizontal": true
       }
     },
@@ -7327,7 +7608,14 @@
         "name": "MediaFlame",
         "type": "Platform",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd47ceaa059d08766f4190.webp",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd47ceaa059d08766f4190.webp?rotate=true",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "MediaFlame",
+        "type": "Platform",
+        "cost": 0,
+        "image": "https://github.com/woosle1234/TCG-Arena-Oshi-Push/blob/main/images/platformback.webp?raw=true",
         "isHorizontal": true
       }
     },
@@ -7358,7 +7646,14 @@
         "name": "Blotify",
         "type": "Platform",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd4833aa059d08766f4195.webp",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd4833aa059d08766f4195.webp?rotate=true",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Blotify",
+        "type": "Platform",
+        "cost": 0,
+        "image": "https://github.com/woosle1234/TCG-Arena-Oshi-Push/blob/main/images/platformback.webp?raw=true",
         "isHorizontal": true
       }
     },
@@ -7387,7 +7682,14 @@
         "name": "U-JORTS",
         "type": "Platform",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd486caa059d08766f419a.webp",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd486caa059d08766f419a.webp?rotate=true",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "U-JORTS",
+        "type": "Platform",
+        "cost": 0,
+        "image": "https://github.com/woosle1234/TCG-Arena-Oshi-Push/blob/main/images/platformback.webp?raw=true",
         "isHorizontal": true
       }
     },
@@ -7415,7 +7717,14 @@
         "name": "CopyStrike",
         "type": "Platform",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd48bdaa059d08766f419f.webp",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd48bdaa059d08766f419f.webp?rotate=true",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "CopyStrike",
+        "type": "Platform",
+        "cost": 0,
+        "image": "https://github.com/woosle1234/TCG-Arena-Oshi-Push/blob/main/images/platformback.webp?raw=true",
         "isHorizontal": true
       }
     },
@@ -7444,7 +7753,14 @@
         "name": "Garden of Euclase Castle",
         "type": "Platform",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd4969aa059d08766f41a4.webp",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd4969aa059d08766f41a4.webp?rotate=true",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Garden of Euclase Castle",
+        "type": "Platform",
+        "cost": 0,
+        "image": "https://github.com/woosle1234/TCG-Arena-Oshi-Push/blob/main/images/platformback.webp?raw=true",
         "isHorizontal": true
       }
     },
@@ -7472,7 +7788,14 @@
         "name": "B.B. Nightingale",
         "type": "Platform",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd4dc8c06ef13bd1c210be.webp",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd4dc8c06ef13bd1c210be.webp?rotate=true",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "B.B. Nightingale",
+        "type": "Platform",
+        "cost": 0,
+        "image": "https://github.com/woosle1234/TCG-Arena-Oshi-Push/blob/main/images/platformback.webp?raw=true",
         "isHorizontal": true
       }
     },
@@ -7498,7 +7821,14 @@
         "name": "Porcelain Parlor",
         "type": "Platform",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd4ebac06ef13bd1c210c4.webp",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd4ebac06ef13bd1c210c4.webp?rotate=true",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Porcelain Parlor",
+        "type": "Platform",
+        "cost": 0,
+        "image": "https://github.com/woosle1234/TCG-Arena-Oshi-Push/blob/main/images/platformback.webp?raw=true",
         "isHorizontal": true
       }
     },
@@ -7525,7 +7855,14 @@
         "name": "Infinite Library",
         "type": "Platform",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd53803fbeab0f6f4ecabc.webp",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd53803fbeab0f6f4ecabc.webp?rotate=true",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Infinite Library",
+        "type": "Platform",
+        "cost": 0,
+        "image": "https://github.com/woosle1234/TCG-Arena-Oshi-Push/blob/main/images/platformback.webp?raw=true",
         "isHorizontal": true
       }
     },
@@ -7552,7 +7889,14 @@
         "name": "The Wasp Bunker",
         "type": "Platform",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd54d13fbeab0f6f4ecac2.webp",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd54d13fbeab0f6f4ecac2.webp?rotate=true",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "The Wasp Bunker",
+        "type": "Platform",
+        "cost": 0,
+        "image": "https://github.com/woosle1234/TCG-Arena-Oshi-Push/blob/main/images/platformback.webp?raw=true",
         "isHorizontal": true
       }
     },
@@ -7579,7 +7923,14 @@
         "name": "Bepis Pad",
         "type": "Platform",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd58ab47d5fbd24b028baf.webp",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69dd58ab47d5fbd24b028baf.webp?rotate=true",
+        "isHorizontal": true
+      },
+      "back": {
+        "name": "Bepis Pad",
+        "type": "Platform",
+        "cost": 0,
+        "image": "https://github.com/woosle1234/TCG-Arena-Oshi-Push/blob/main/images/platformback.webp?raw=true",
         "isHorizontal": true
       }
     },
@@ -11182,14 +11533,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Porcelain Maid - Dad That Stepped Up",
+        "name": "Porcelain Maid",
         "type": "Upgrade",
         "cost": 7,
         "image": "https://oshi-push-database-server.vercel.app/tcgarena/6a164794fa10f15bca769a73.webp",
         "isHorizontal": false
       }
     },
-    "name": "Porcelain Maid - Dad That Stepped Up",
+    "name": "Porcelain Maid",
     "type": "Upgrade",
     "set": "HKS",
     "rarity": "Starter",
@@ -11281,14 +11632,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "LineChu - Bepis Addict",
+        "name": "LineChu",
         "type": "Upgrade",
         "cost": 6,
         "image": "https://oshi-push-database-server.vercel.app/tcgarena/6a16497cfa10f15bca769a97.webp",
         "isHorizontal": false
       }
     },
-    "name": "LineChu - Bepis Addict",
+    "name": "LineChu",
     "type": "Upgrade",
     "set": "HKS",
     "rarity": "Starter",
