@@ -131,7 +131,6 @@
                 {
                   "section": "Platform_Deck",
                   "style": {
-                    "height": "10vh",
                     "marginBottom": "1vh"
                   }
                 },
@@ -159,7 +158,7 @@
                       "style": {
                         "marginRight": "auto",
                         "marginLeft": "auto",
-                        "width": "22vh",
+                        "width": "24vh",
                         "marginBottom": "0",
                         "marginTop": "0"
                       }
@@ -169,7 +168,7 @@
                       "style": {
                         "marginRight": "auto",
                         "marginLeft": "auto",
-                        "width": "22vh",
+                        "width": "24vh",
                         "marginBottom": "0",
                         "marginTop": "0"
                       }
@@ -179,7 +178,7 @@
                       "style": {
                         "marginRight": "auto",
                         "marginLeft": "auto",
-                        "width": "22vh",
+                        "width": "24vh",
                         "marginBottom": "0",
                         "marginTop": "0"
                       }
@@ -597,7 +596,7 @@
           "Captured_Platforms": {
             "title": "Captured_Platforms",
             "isHidden": "no",
-            "height": "BIG",
+            "height": "MEDIUM",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
