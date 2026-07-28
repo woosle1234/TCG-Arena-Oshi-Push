@@ -78,7 +78,6 @@
         }
       ],
       "countersStartingValues": [
-        0,
         0
       ],
       "hideFacedDownCards": false,
@@ -209,7 +208,8 @@
                     }
                   ],
                   "style": {
-                    "width": "93vh"
+                    "width": "93vh",
+                    "marginTop": "1vh"
                   }
                 },
                 {
@@ -252,22 +252,6 @@
               "content": [
                 {
                   "section": "Studio",
-                  "style": {
-                    "marginRight": "auto",
-                    "marginLeft": "auto",
-                    "width": "12vh"
-                  }
-                },
-                {
-                  "section": "Deck",
-                  "style": {
-                    "marginRight": "auto",
-                    "marginLeft": "auto",
-                    "width": "12vh"
-                  }
-                },
-                {
-                  "section": "Discard",
                   "style": {
                     "marginRight": "auto",
                     "marginLeft": "auto",
@@ -573,7 +557,7 @@
             "title": "Platform_Deck",
             "isHidden": "yes",
             "height": "SMALL",
-            "alignment": "START",
+            "alignment": "DECK",
             "opponentAlignment": false,
             "noAutoPayTo": "true",
             "isHorizontalAllowed": true,
