@@ -112,9 +112,15 @@
                   "isSymetricalForOpponents": false,
                   "content": [
                     {
-                      "section": "Platform_Deck"
+                      "section": "Platform_Deck",
+                      "style": {
+                        "height": "12vh"
+                      }
                     }
-                  ]
+                  ],
+                  "style": {
+                    "marginBottom": "0"
+                  }
                 },
                 {
                   "direction": "column",
@@ -123,7 +129,10 @@
                       "section": "Captured_Platforms"
                     }
                   ],
-                  "isSymetricalForOpponents": false
+                  "isSymetricalForOpponents": false,
+                  "style": {
+                    "marginTop": "0"
+                  }
                 }
               ]
             },
@@ -131,7 +140,7 @@
               "direction": "column",
               "style": {
                 "width": "93vh",
-                "marginBottom": "7vh",
+                "marginBottom": "8vh",
                 "marginTop": "0"
               },
               "content": [
@@ -143,7 +152,8 @@
                       "style": {
                         "marginRight": "auto",
                         "marginLeft": "auto",
-                        "width": "22vh"
+                        "width": "22vh",
+                        "height": "12vh"
                       }
                     },
                     {
@@ -151,7 +161,8 @@
                       "style": {
                         "marginRight": "auto",
                         "marginLeft": "auto",
-                        "width": "22vh"
+                        "width": "22vh",
+                        "height": "12vh"
                       }
                     },
                     {
@@ -159,13 +170,14 @@
                       "style": {
                         "marginRight": "auto",
                         "marginLeft": "auto",
-                        "width": "22vh"
+                        "width": "22vh",
+                        "height": "12vh"
                       }
                     }
                   ],
                   "style": {
                     "width": "93vh",
-                    "marginTop": "0"
+                    "marginTop": "-2vh"
                   }
                 },
                 {
@@ -553,7 +565,7 @@
             "enterTapped": true,
             "isGroupForbidden": true,
             "keepTappedNewTurn": true,
-            "showHiddenCardInHistory": true,
+            "showHiddenCardInHistory": false,
             "noQuickActions": true,
             "enterSpun": false
           },
