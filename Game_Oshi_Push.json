@@ -103,19 +103,22 @@
             {
               "direction": "column",
               "style": {
-                "width": "22vh"
+                "width": "22vh",
+                "marginBottom": "10vh",
+                "alignContent": "start"
               },
               "content": [
                 {
                   "section": "Platform_Deck",
                   "style": {
-                    "height": "12vh"
+                    "height": "12vh",
+                    "marginBottom": "2vh"
                   }
                 },
                 {
                   "section": "Captured_Platforms",
                   "style": {
-                    "marginTop": "-5vh"
+                    "width": "22vh"
                   }
                 }
               ]
