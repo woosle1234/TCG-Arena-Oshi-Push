@@ -22,11 +22,15 @@
     ],
     "decksUrl": "https://raw.githubusercontent.com/woosle1234/TCG-Arena-Oshi-Push/refs/heads/main/OshiPushDecks.json"
   },
-  "customHelp": "CustomHelp Text",
+  "customHelp": "Oshi Push is a vibrant, high-stakes trading card game (TCG) celebrating the sensational world of VTubers—virtual content creators who use digital avatars to entertain audiences worldwide. Players compete to grow their VTuber channels, battling for subscribers and influence!",
   "cardRotation": "90",
   "cards": {
     "dataUrl": "https://raw.githubusercontent.com/woosle1234/TCG-Arena-Oshi-Push/refs/heads/main/OshiPushCards.json",
-    "cardBack": "https://raw.githubusercontent.com/woosle1234/TCG-Arena-Oshi-Push/refs/heads/main/images/Card%20Back.png"
+    "cardBack": "https://raw.githubusercontent.com/woosle1234/TCG-Arena-Oshi-Push/refs/heads/main/images/Card%20Back.png",
+    "cardBackColor": "#ffffff",
+    "extraCardBacks": {
+      "Platform": "https://github.com/woosle1234/TCG-Arena-Oshi-Push/blob/main/images/platformback.webp?raw=true"
+    }
   },
   "deckBuilding": {
     "mainFilters": [
@@ -58,6 +62,10 @@
       "mulligan": {
         "info": "After drawing your initial hand of 5 cards, if you are unsatisfied with them, you can shuffle that hand back into your draw deck and draw 5 new cards. You can only do this once.",
         "startingHandSize": 5,
+        "mulliganCount": {
+          "min": 0,
+          "max": 1
+        },
         "drawNewHand": true,
         "putSelectionAtBottom": false,
         "drawNewSelectedCards": false
@@ -111,7 +119,7 @@
                 {
                   "section": "Platform_Deck",
                   "style": {
-                    "height": "12vh",
+                    "height": "10vh",
                     "marginBottom": "1vh"
                   }
                 },
@@ -140,8 +148,8 @@
                         "marginRight": "auto",
                         "marginLeft": "auto",
                         "width": "22vh",
-                        "height": "12vh",
-                        "marginBottom": "1vh"
+                        "marginBottom": "0",
+                        "marginTop": "0"
                       }
                     },
                     {
@@ -150,8 +158,8 @@
                         "marginRight": "auto",
                         "marginLeft": "auto",
                         "width": "22vh",
-                        "height": "12vh",
-                        "marginBottom": "1vh"
+                        "marginBottom": "0",
+                        "marginTop": "0"
                       }
                     },
                     {
@@ -160,14 +168,15 @@
                         "marginRight": "auto",
                         "marginLeft": "auto",
                         "width": "22vh",
-                        "height": "12vh",
-                        "marginBottom": "1vh"
+                        "marginBottom": "0",
+                        "marginTop": "0"
                       }
                     }
                   ],
                   "style": {
                     "width": "93vh",
-                    "marginTop": "-2vh"
+                    "marginTop": "-2vh",
+                    "marginBottom": "1vh"
                   }
                 },
                 {
@@ -178,8 +187,9 @@
                       "style": {
                         "marginRight": "auto",
                         "marginLeft": "auto",
-                        "width": "12vh",
-                        "marginBottom": "1vh"
+                        "width": "10vh",
+                        "marginBottom": "0",
+                        "marginTop": "0"
                       }
                     },
                     {
@@ -187,8 +197,9 @@
                       "style": {
                         "marginRight": "auto",
                         "marginLeft": "auto",
-                        "width": "12vh",
-                        "marginBottom": "1vh"
+                        "width": "10vh",
+                        "marginBottom": "0",
+                        "marginTop": "0"
                       }
                     },
                     {
@@ -196,14 +207,16 @@
                       "style": {
                         "marginRight": "auto",
                         "marginLeft": "auto",
-                        "width": "12vh",
-                        "marginBottom": "1vh"
+                        "width": "10vh",
+                        "marginBottom": "0",
+                        "marginTop": "0"
                       }
                     }
                   ],
                   "style": {
                     "width": "93vh",
-                    "marginTop": "1vh"
+                    "marginTop": "0",
+                    "marginBottom": "1vh"
                   }
                 },
                 {
@@ -216,21 +229,27 @@
                       "section": "Content_1",
                       "style": {
                         "marginRight": "auto",
-                        "marginLeft": "auto"
+                        "marginLeft": "auto",
+                        "marginBottom": "0",
+                        "marginTop": "0"
                       }
                     },
                     {
                       "section": "Content_2",
                       "style": {
                         "marginRight": "auto",
-                        "marginLeft": "auto"
+                        "marginLeft": "auto",
+                        "marginBottom": "0",
+                        "marginTop": "0"
                       }
                     },
                     {
                       "section": "Content_3",
                       "style": {
                         "marginRight": "auto",
-                        "marginLeft": "auto"
+                        "marginLeft": "auto",
+                        "marginBottom": "0",
+                        "marginTop": "0"
                       }
                     }
                   ],
@@ -249,7 +268,7 @@
                   "style": {
                     "marginRight": "auto",
                     "marginLeft": "auto",
-                    "width": "12vh"
+                    "width": "10vh"
                   }
                 }
               ],
