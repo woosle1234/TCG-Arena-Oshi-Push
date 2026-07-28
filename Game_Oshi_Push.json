@@ -60,7 +60,19 @@
   "gameplay": {
     "Classic": {
       "mulligan": {
-        "info": "After drawing your initial hand of 5 cards, if you are unsatisfied with them, you can shuffle that hand back into your draw deck and draw 5 new cards. You can only do this once.",
+        "triggeredByButton": false,
+        "mulliganCycle": {
+          "info": "After drawing your initial hand of 5 cards, if you are unsatisfied with them, you can shuffle that hand back into your draw deck and draw 5 new cards. You can only do this once.",
+          "steps": [
+            "toTop",
+            "shuffle",
+            "draw"
+          ],
+          "selectionRange": {
+            "min": 5,
+            "max": 6
+          }
+        },
         "startingHandSize": 5,
         "mulliganCount": {
           "min": 0,
