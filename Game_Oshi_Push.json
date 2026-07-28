@@ -145,7 +145,7 @@
             {
               "direction": "column",
               "style": {
-                "width": "93vh",
+                "width": "90vh",
                 "marginBottom": "8vh",
                 "marginTop": "0"
               },
@@ -158,7 +158,7 @@
                       "style": {
                         "marginRight": "auto",
                         "marginLeft": "auto",
-                        "width": "24vh",
+                        "width": "22vh",
                         "marginBottom": "0",
                         "marginTop": "0"
                       }
@@ -168,7 +168,7 @@
                       "style": {
                         "marginRight": "auto",
                         "marginLeft": "auto",
-                        "width": "24vh",
+                        "width": "22vh",
                         "marginBottom": "0",
                         "marginTop": "0"
                       }
@@ -178,14 +178,14 @@
                       "style": {
                         "marginRight": "auto",
                         "marginLeft": "auto",
-                        "width": "24vh",
+                        "width": "22vh",
                         "marginBottom": "0",
                         "marginTop": "0"
                       }
                     }
                   ],
                   "style": {
-                    "width": "93vh",
+                    "width": "90vh",
                     "marginTop": "-2vh",
                     "marginBottom": "1vh"
                   }
@@ -225,7 +225,7 @@
                     }
                   ],
                   "style": {
-                    "width": "93vh",
+                    "width": "90vh",
                     "marginTop": "0",
                     "marginBottom": "1vh"
                   }
@@ -233,7 +233,7 @@
                 {
                   "direction": "row",
                   "style": {
-                    "width": "93vh"
+                    "width": "90vh"
                   },
                   "content": [
                     {
@@ -596,8 +596,8 @@
           "Captured_Platforms": {
             "title": "Captured_Platforms",
             "isHidden": "no",
-            "height": "MEDIUM",
-            "alignment": "CENTER",
+            "height": "SMALL",
+            "alignment": "START",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": true,
