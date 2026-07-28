@@ -104,7 +104,7 @@
               "direction": "column",
               "style": {
                 "width": "22vh",
-                "marginBottom": "10vh",
+                "marginBottom": "11vh",
                 "alignContent": "start"
               },
               "content": [
@@ -112,7 +112,7 @@
                   "section": "Platform_Deck",
                   "style": {
                     "height": "12vh",
-                    "marginBottom": "2vh"
+                    "marginBottom": "1vh"
                   }
                 },
                 {
@@ -140,7 +140,8 @@
                         "marginRight": "auto",
                         "marginLeft": "auto",
                         "width": "22vh",
-                        "height": "12vh"
+                        "height": "12vh",
+                        "marginBottom": "1vh"
                       }
                     },
                     {
@@ -149,7 +150,8 @@
                         "marginRight": "auto",
                         "marginLeft": "auto",
                         "width": "22vh",
-                        "height": "12vh"
+                        "height": "12vh",
+                        "marginBottom": "1vh"
                       }
                     },
                     {
@@ -158,7 +160,8 @@
                         "marginRight": "auto",
                         "marginLeft": "auto",
                         "width": "22vh",
-                        "height": "12vh"
+                        "height": "12vh",
+                        "marginBottom": "1vh"
                       }
                     }
                   ],
@@ -175,7 +178,8 @@
                       "style": {
                         "marginRight": "auto",
                         "marginLeft": "auto",
-                        "width": "12vh"
+                        "width": "12vh",
+                        "marginBottom": "1vh"
                       }
                     },
                     {
@@ -183,7 +187,8 @@
                       "style": {
                         "marginRight": "auto",
                         "marginLeft": "auto",
-                        "width": "12vh"
+                        "width": "12vh",
+                        "marginBottom": "1vh"
                       }
                     },
                     {
@@ -191,7 +196,8 @@
                       "style": {
                         "marginRight": "auto",
                         "marginLeft": "auto",
-                        "width": "12vh"
+                        "width": "12vh",
+                        "marginBottom": "1vh"
                       }
                     }
                   ],
