@@ -107,28 +107,13 @@
               },
               "content": [
                 {
-                  "direction": "row",
-                  "isSymetricalForOpponents": false,
-                  "content": [
-                    {
-                      "section": "Platform_Deck",
-                      "style": {
-                        "height": "12vh"
-                      }
-                    }
-                  ],
+                  "section": "Platform_Deck",
                   "style": {
-                    "marginBottom": "0"
+                    "height": "12vh"
                   }
                 },
                 {
-                  "direction": "column",
-                  "content": [
-                    {
-                      "section": "Captured_Platforms"
-                    }
-                  ],
-                  "isSymetricalForOpponents": false,
+                  "section": "Captured_Platforms",
                   "style": {
                     "marginTop": "-5vh"
                   }
