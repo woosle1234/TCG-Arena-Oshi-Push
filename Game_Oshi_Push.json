@@ -257,6 +257,22 @@
                     "marginLeft": "auto",
                     "width": "12vh"
                   }
+                },
+                {
+                  "section": "Deck",
+                  "style": {
+                    "marginRight": "auto",
+                    "marginLeft": "auto",
+                    "width": "12vh"
+                  }
+                },
+                {
+                  "section": "Discard",
+                  "style": {
+                    "marginRight": "auto",
+                    "marginLeft": "auto",
+                    "width": "12vh"
+                  }
                 }
               ],
               "isSymetricalForOpponents": false
@@ -402,9 +418,9 @@
             "noAutoPayTo": "true",
             "isHorizontalAllowed": true,
             "displayedTitle": "Platform",
-            "enterTapped": true,
+            "enterTapped": false,
             "isGroupForbidden": false,
-            "keepTappedNewTurn": true,
+            "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false,
             "noQuickActions": false,
             "enterSpun": false
@@ -418,9 +434,9 @@
             "noAutoPayTo": "true",
             "isHorizontalAllowed": true,
             "displayedTitle": "Platform",
-            "enterTapped": true,
+            "enterTapped": false,
             "isGroupForbidden": false,
-            "keepTappedNewTurn": true,
+            "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false,
             "noQuickActions": false,
             "enterSpun": false
@@ -434,9 +450,9 @@
             "noAutoPayTo": "true",
             "isHorizontalAllowed": true,
             "displayedTitle": "Platform",
-            "enterTapped": true,
+            "enterTapped": false,
             "isGroupForbidden": false,
-            "keepTappedNewTurn": true,
+            "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false,
             "noQuickActions": false,
             "enterSpun": false
@@ -562,9 +578,9 @@
             "noAutoPayTo": "true",
             "isHorizontalAllowed": true,
             "displayedTitle": "Platform Deck",
-            "enterTapped": true,
+            "enterTapped": false,
             "isGroupForbidden": true,
-            "keepTappedNewTurn": true,
+            "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false,
             "noQuickActions": true,
             "enterSpun": false
@@ -578,9 +594,9 @@
             "noAutoPayTo": true,
             "isHorizontalAllowed": true,
             "displayedTitle": "Captured Platforms",
-            "enterTapped": true,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": true,
+            "enterTapped": false,
+            "isGroupForbidden": true,
+            "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false,
             "noQuickActions": true,
             "enterSpun": false
