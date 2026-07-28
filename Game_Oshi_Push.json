@@ -131,13 +131,16 @@
                 {
                   "section": "Platform_Deck",
                   "style": {
+                    "width": "22vh",
                     "marginBottom": "1vh"
                   }
                 },
                 {
                   "section": "Captured_Platforms",
                   "style": {
-                    "width": "22vh"
+                    "width": "22vh",
+                    "display": "flex",
+                    "flexDirection": "column"
                   }
                 }
               ]
@@ -145,7 +148,7 @@
             {
               "direction": "column",
               "style": {
-                "width": "90vh",
+                "width": "100vh",
                 "marginBottom": "8vh",
                 "marginTop": "0"
               },
@@ -185,7 +188,7 @@
                     }
                   ],
                   "style": {
-                    "width": "90vh",
+                    "width": "100vh",
                     "marginTop": "-2vh",
                     "marginBottom": "1vh"
                   }
@@ -225,7 +228,7 @@
                     }
                   ],
                   "style": {
-                    "width": "90vh",
+                    "width": "100vh",
                     "marginTop": "0",
                     "marginBottom": "1vh"
                   }
@@ -233,7 +236,7 @@
                 {
                   "direction": "row",
                   "style": {
-                    "width": "90vh"
+                    "width": "100vh"
                   },
                   "content": [
                     {
