@@ -12,7 +12,7 @@
         "deckList": {
             "categoriesOrder": [
                 "Persona",
-                "Platforms",
+                "Platform",
                 "Main Deck"
             ],
             "Persona": [
@@ -21,7 +21,7 @@
                     "id": "OP01/PHC-037"
                 }
             ],
-            "Platforms": [
+            "Platform": [
                 {
                     "count": 1,
                     "id": "OP01/PHC-056"
@@ -148,7 +148,7 @@
     "deckList": {
         "categoriesOrder": [
             "Persona",
-            "Platforms",
+            "Platform",
             "Main Deck"
         ],
         "Persona": [
@@ -157,7 +157,7 @@
                 "id": "OP01/PHC-001"
             }
         ],
-        "Platforms": [
+        "Platform": [
             {
                 "count": 1,
                 "id": "OP01/PHC-049"
