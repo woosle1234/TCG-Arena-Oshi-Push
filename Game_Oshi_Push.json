@@ -102,12 +102,53 @@
       ],
       "hideFacedDownCards": false,
       "sections": {
-        "sharedZone": [
+        "sharedZone": {
+          "height": 6,
+          "layout": {
+            "direction": "row",
+            "content": [
+              {
+                "section": "Platform_1",
+                "style": {
+                  "marginRight": "auto",
+                  "marginLeft": "auto",
+                  "width": "22vh",
+                  "marginBottom": "0",
+                  "marginTop": "0"
+                }
+              },
+              {
+                "section": "Platform_2",
+                "style": {
+                  "marginRight": "auto",
+                  "marginLeft": "auto",
+                  "width": "22vh",
+                  "marginBottom": "0",
+                  "marginTop": "0"
+                }
+              },
+              {
+                "section": "Platform_3",
+                "style": {
+                  "marginRight": "auto",
+                  "marginLeft": "auto",
+                  "width": "22vh",
+                  "marginBottom": "0",
+                  "marginTop": "0"
+                }
+              }
+            ],
+            "style": {
+              "width": "100vh",
+              "marginTop": "-2vh",
+              "marginBottom": "1vh"
+            }
+          }
+        },
+        "customSections": [
           "Platform_1",
           "Platform_2",
-          "Platform_3"
-        ],
-        "customSections": [
+          "Platform_3",
           "Persona_1",
           "Persona_2",
           "Persona_3",
@@ -155,46 +196,6 @@
                 "marginTop": "0"
               },
               "content": [
-                {
-                  "direction": "row",
-                  "content": [
-                    {
-                      "section": "Platform_1",
-                      "style": {
-                        "marginRight": "auto",
-                        "marginLeft": "auto",
-                        "width": "22vh",
-                        "marginBottom": "0",
-                        "marginTop": "0"
-                      }
-                    },
-                    {
-                      "section": "Platform_2",
-                      "style": {
-                        "marginRight": "auto",
-                        "marginLeft": "auto",
-                        "width": "22vh",
-                        "marginBottom": "0",
-                        "marginTop": "0"
-                      }
-                    },
-                    {
-                      "section": "Platform_3",
-                      "style": {
-                        "marginRight": "auto",
-                        "marginLeft": "auto",
-                        "width": "22vh",
-                        "marginBottom": "0",
-                        "marginTop": "0"
-                      }
-                    }
-                  ],
-                  "style": {
-                    "width": "100vh",
-                    "marginTop": "-2vh",
-                    "marginBottom": "1vh"
-                  }
-                },
                 {
                   "direction": "row",
                   "content": [
@@ -425,7 +426,7 @@
           "Platform_1": {
             "title": "Platform_1",
             "isHidden": "no",
-            "height": 6,
+            "height": 12,
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": "true",
@@ -441,7 +442,7 @@
           "Platform_2": {
             "title": "Platform_2",
             "isHidden": "no",
-            "height": 6,
+            "height": 12,
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": "true",
@@ -457,7 +458,7 @@
           "Platform_3": {
             "title": "Platform_3",
             "isHidden": "no",
-            "height": 6,
+            "height": 12,
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": "true",
