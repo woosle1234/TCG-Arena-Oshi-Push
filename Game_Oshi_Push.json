@@ -158,6 +158,7 @@
                   "content": [
                     {
                       "section": "Platform_1",
+                      "reverseForOppositeSide": true,
                       "style": {
                         "marginRight": "auto",
                         "marginLeft": "auto",
@@ -168,6 +169,7 @@
                     },
                     {
                       "section": "Platform_2",
+                      "reverseForOppositeSide": true,
                       "style": {
                         "marginRight": "auto",
                         "marginLeft": "auto",
@@ -178,6 +180,7 @@
                     },
                     {
                       "section": "Platform_3",
+                      "reverseForOppositeSide": true,
                       "style": {
                         "marginRight": "auto",
                         "marginLeft": "auto",
@@ -423,7 +426,7 @@
           "Platform_1": {
             "title": "Platform_1",
             "isHidden": "no",
-            "height": "SMALL",
+            "height": 6,
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": "true",
@@ -439,7 +442,7 @@
           "Platform_2": {
             "title": "Platform_2",
             "isHidden": "no",
-            "height": "SMALL",
+            "height": 6,
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": "true",
@@ -455,7 +458,7 @@
           "Platform_3": {
             "title": "Platform_3",
             "isHidden": "no",
-            "height": "SMALL",
+            "height": 6,
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": "true",
