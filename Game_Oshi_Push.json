@@ -102,10 +102,12 @@
       ],
       "hideFacedDownCards": false,
       "sections": {
-        "customSections": [
+        "sharedZone": [
           "Platform_1",
           "Platform_2",
-          "Platform_3",
+          "Platform_3"
+        ],
+        "customSections": [
           "Persona_1",
           "Persona_2",
           "Persona_3",
@@ -118,7 +120,7 @@
         ],
         "layout": {
           "direction": "row",
-          "isSymetricalForOpponents": true,
+          "isSymetricalForOpponents": false,
           "content": [
             {
               "direction": "column",
@@ -187,7 +189,6 @@
                       }
                     }
                   ],
-                  "reverseForOppositeSide": true,
                   "style": {
                     "width": "100vh",
                     "marginTop": "-2vh",
