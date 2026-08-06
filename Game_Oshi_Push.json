@@ -155,10 +155,10 @@
               "content": [
                 {
                   "direction": "row",
+                  "reverseForOppositeSide": true,
                   "content": [
                     {
                       "section": "Platform_1",
-                      "reverseForOppositeSide": true,
                       "style": {
                         "marginRight": "auto",
                         "marginLeft": "auto",
@@ -169,7 +169,6 @@
                     },
                     {
                       "section": "Platform_2",
-                      "reverseForOppositeSide": true,
                       "style": {
                         "marginRight": "auto",
                         "marginLeft": "auto",
@@ -180,7 +179,6 @@
                     },
                     {
                       "section": "Platform_3",
-                      "reverseForOppositeSide": true,
                       "style": {
                         "marginRight": "auto",
                         "marginLeft": "auto",
