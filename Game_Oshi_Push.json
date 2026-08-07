@@ -423,8 +423,7 @@
           "Platform_1": {
             "title": "Platform_1",
             "isHidden": "no",
-            "heightReference": "horizontal",
-            "height": "X",
+            "height": 12,
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": "true",
@@ -440,8 +439,7 @@
           "Platform_2": {
             "title": "Platform_2",
             "isHidden": "no",
-            "heightReference": "horizontal",
-            "height": "X",
+            "height": 12,
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": "true",
@@ -457,8 +455,7 @@
           "Platform_3": {
             "title": "Platform_3",
             "isHidden": "no",
-            "heightReference": "horizontal",
-            "height": "X",
+            "height": 12,
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": "true",
@@ -586,8 +583,7 @@
           "Platform_Deck": {
             "title": "Platform_Deck",
             "isHidden": "yes",
-            "heightReference": "horizontal",
-            "height": "X",
+            "height": "SMALL",
             "alignment": "DECK",
             "opponentAlignment": false,
             "noAutoPayTo": "true",
