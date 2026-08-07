@@ -146,6 +146,9 @@
           }
         },
         "customSections": [
+          "Platform_1",
+          "Platform_2",
+          "Platform_3",
           "Persona_1",
           "Persona_2",
           "Persona_3",
