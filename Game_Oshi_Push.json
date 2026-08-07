@@ -103,7 +103,7 @@
       "hideFacedDownCards": false,
       "sections": {
         "sharedZone": {
-          "height": 6,
+          "height": 12,
           "layout": {
             "direction": "row",
             "content": [
@@ -423,7 +423,8 @@
           "Platform_1": {
             "title": "Platform_1",
             "isHidden": "no",
-            "height": 12,
+            "heightReference": "horizontal",
+            "height": X,
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": "true",
@@ -439,7 +440,8 @@
           "Platform_2": {
             "title": "Platform_2",
             "isHidden": "no",
-            "height": 12,
+            "heightReference": "horizontal",
+            "height": X,
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": "true",
@@ -455,7 +457,8 @@
           "Platform_3": {
             "title": "Platform_3",
             "isHidden": "no",
-            "height": 12,
+            "heightReference": "horizontal",
+            "height": X,
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": "true",
@@ -583,7 +586,8 @@
           "Platform_Deck": {
             "title": "Platform_Deck",
             "isHidden": "yes",
-            "height": "SMALL",
+            "heightReference": "horizontal",
+            "height": X,
             "alignment": "DECK",
             "opponentAlignment": false,
             "noAutoPayTo": "true",
