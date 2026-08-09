@@ -24,6 +24,9 @@
     "artist": [
       "ValeforZero"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Red"
     ],
@@ -59,6 +62,9 @@
     "artist": [
       "みそじ"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Red"
     ],
@@ -92,6 +98,9 @@
     "artist": [
       "minsgraph"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Purple"
     ],
@@ -127,6 +136,9 @@
     "artist": [
       "稲咲"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Purple"
     ],
@@ -160,6 +172,9 @@
     "artist": [
       "ValeforZero"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Green"
     ],
@@ -194,6 +209,9 @@
     "artist": [
       "丸井ころ"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Green"
     ],
@@ -227,6 +245,9 @@
     "artist": [
       "minsgraph"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Purple"
     ],
@@ -262,6 +283,9 @@
     "artist": [
       "みろまる"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Purple"
     ],
@@ -295,6 +319,9 @@
     "artist": [
       "ValeforZero"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Red"
     ],
@@ -330,6 +357,9 @@
     "artist": [
       "yakiNAShU"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Red"
     ],
@@ -363,6 +393,9 @@
     "artist": [
       "Phase Connect"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Purple"
     ],
@@ -397,6 +430,9 @@
     "artist": [
       "傘魚"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Purple"
     ],
@@ -432,6 +468,9 @@
     "artist": [
       "ValeforZero"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Green"
     ],
@@ -467,6 +506,9 @@
     "artist": [
       "秋原 买"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Green"
     ],
@@ -502,6 +544,7 @@
     "artist": [
       "lu_cid_sky"
     ],
+    "_legal": {},
     "color": [
       "Red"
     ],
@@ -537,6 +580,7 @@
     "artist": [
       "ValeforZero"
     ],
+    "_legal": {},
     "color": [
       "Red"
     ],
@@ -573,6 +617,7 @@
     "artist": [
       "Phase Connect"
     ],
+    "_legal": {},
     "color": [
       "Red"
     ],
@@ -606,6 +651,7 @@
     "artist": [
       "Minkye"
     ],
+    "_legal": {},
     "color": [
       "Purple"
     ],
@@ -638,6 +684,7 @@
     "artist": [
       "片吟ペン太"
     ],
+    "_legal": {},
     "color": [
       "Purple"
     ],
@@ -669,6 +716,7 @@
     "artist": [
       "れんこ"
     ],
+    "_legal": {},
     "color": [
       "Red"
     ],
@@ -700,6 +748,9 @@
     "artist": [
       "minsgraph"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Purple"
     ],
@@ -735,6 +786,9 @@
     "artist": [
       "Uu3cm"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Purple"
     ],
@@ -771,6 +825,9 @@
     "artist": [
       "tettaakira"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Purple"
     ],
@@ -804,6 +861,7 @@
     "artist": [
       "西洋カルタ軒"
     ],
+    "_legal": {},
     "color": [
       "Red"
     ],
@@ -838,6 +896,7 @@
     "artist": [
       "del"
     ],
+    "_legal": {},
     "color": [
       "Red"
     ],
@@ -869,6 +928,7 @@
     "artist": [
       "Lim Si Yim"
     ],
+    "_legal": {},
     "color": [
       "Purple"
     ],
@@ -901,6 +961,9 @@
     "artist": [
       "fuumiisc"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Green"
     ],
@@ -935,6 +998,9 @@
     "artist": [
       "Phase Connect"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Green"
     ],
@@ -970,6 +1036,9 @@
     "artist": [
       "fuumiisc"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Green"
     ],
@@ -1003,6 +1072,7 @@
     "artist": [
       "del"
     ],
+    "_legal": {},
     "color": [
       "Purple"
     ],
@@ -1035,6 +1105,7 @@
     "artist": [
       "Pricey"
     ],
+    "_legal": {},
     "color": [
       "Green"
     ],
@@ -1066,6 +1137,7 @@
     "artist": [
       "Emily Chai"
     ],
+    "_legal": {},
     "color": [
       "Green"
     ],
@@ -1097,6 +1169,7 @@
     "artist": [
       "lu_cid_sky"
     ],
+    "_legal": {},
     "color": [
       "Purple"
     ],
@@ -1131,6 +1204,7 @@
     "artist": [
       "Phase Connect"
     ],
+    "_legal": {},
     "color": [
       "Purple"
     ],
@@ -1167,6 +1241,7 @@
     "artist": [
       "nmn0307"
     ],
+    "_legal": {},
     "color": [
       "Purple"
     ],
@@ -1200,6 +1275,7 @@
     "artist": [
       "del"
     ],
+    "_legal": {},
     "color": [
       "Red"
     ],
@@ -1232,6 +1308,7 @@
     "artist": [
       "西洋カルタ軒"
     ],
+    "_legal": {},
     "color": [
       "Purple"
     ],
@@ -1263,6 +1340,7 @@
     "artist": [
       "佐渡芽せつこ"
     ],
+    "_legal": {},
     "color": [
       "Green"
     ],
@@ -1294,6 +1372,9 @@
     "artist": [
       "_Luzzi"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Red"
     ],
@@ -1328,6 +1409,9 @@
     "artist": [
       "_Luzzi"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Red"
     ],
@@ -1364,6 +1448,9 @@
     "artist": [
       "_Luzzi"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Red"
     ],
@@ -1397,6 +1484,7 @@
     "artist": [
       "ryirakii"
     ],
+    "_legal": {},
     "color": [
       "Purple"
     ],
@@ -1429,6 +1517,7 @@
     "artist": [
       "静谷"
     ],
+    "_legal": {},
     "color": [
       "Purple"
     ],
@@ -1460,6 +1549,7 @@
     "artist": [
       "Minkye"
     ],
+    "_legal": {},
     "color": [
       "Green"
     ],
@@ -1491,6 +1581,7 @@
     "artist": [
       "minsgraph"
     ],
+    "_legal": {},
     "color": [
       "Purple"
     ],
@@ -1525,6 +1616,7 @@
     "artist": [
       "nekoyama_iori_"
     ],
+    "_legal": {},
     "color": [
       "Purple"
     ],
@@ -1560,6 +1652,7 @@
     "artist": [
       "tokkiria"
     ],
+    "_legal": {},
     "color": [
       "Purple"
     ],
@@ -1595,6 +1688,7 @@
     "artist": [
       "えだつい"
     ],
+    "_legal": {},
     "color": [
       "Green"
     ],
@@ -1627,6 +1721,7 @@
     "artist": [
       "うぶき"
     ],
+    "_legal": {},
     "color": [
       "Red"
     ],
@@ -1659,6 +1754,7 @@
       "Emily Chai",
       "WaHa"
     ],
+    "_legal": {},
     "color": [
       "Red"
     ],
@@ -1692,6 +1788,7 @@
     "artist": [
       "Phase Connect"
     ],
+    "_legal": {},
     "color": [
       "Green"
     ],
@@ -1727,6 +1824,9 @@
     "artist": [
       "capri134"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Green"
     ],
@@ -1763,6 +1863,9 @@
     "artist": [
       "皿田"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Green"
     ],
@@ -1796,6 +1899,7 @@
     "artist": [
       "静谷"
     ],
+    "_legal": {},
     "color": [
       "Red"
     ],
@@ -1829,6 +1933,7 @@
     "artist": [
       "マノ居"
     ],
+    "_legal": {},
     "color": [
       "Purple"
     ],
@@ -1860,6 +1965,7 @@
     "artist": [
       "aytsmith"
     ],
+    "_legal": {},
     "color": [
       "Green"
     ],
@@ -1889,6 +1995,7 @@
     "artist": [
       "Magpie_Feather"
     ],
+    "_legal": {},
     "tags": [
       "Independent",
       "Networking"
@@ -1919,6 +2026,7 @@
     "artist": [
       "Magpie_Feather"
     ],
+    "_legal": {},
     "tags": [
       "Networking"
     ],
@@ -1948,6 +2056,7 @@
     "artist": [
       "Magpie_Feather"
     ],
+    "_legal": {},
     "tags": [
       "Networking"
     ],
@@ -1977,6 +2086,7 @@
     "artist": [
       "Magpie_Feather"
     ],
+    "_legal": {},
     "tags": [
       "Image Sharing"
     ],
@@ -2006,6 +2116,7 @@
     "artist": [
       "Magpie_Feather"
     ],
+    "_legal": {},
     "tags": [
       "Image Sharing"
     ],
@@ -2035,6 +2146,7 @@
     "artist": [
       "Magpie_Feather"
     ],
+    "_legal": {},
     "tags": [
       "Podcasting"
     ],
@@ -2064,6 +2176,7 @@
     "artist": [
       "Magpie_Feather"
     ],
+    "_legal": {},
     "tags": [
       "Streaming"
     ],
@@ -2091,6 +2204,7 @@
     "artist": [
       "Magpie_Feather"
     ],
+    "_legal": {},
     "tags": [
       "Independent",
       "Streaming"
@@ -2121,6 +2235,7 @@
     "artist": [
       "Magpie_Feather"
     ],
+    "_legal": {},
     "tags": [
       "Streaming"
     ],
@@ -2150,6 +2265,7 @@
     "artist": [
       "Magpie_Feather"
     ],
+    "_legal": {},
     "tags": [
       "Streaming"
     ],
@@ -2177,6 +2293,7 @@
     "artist": [
       "Magpie_Feather"
     ],
+    "_legal": {},
     "tags": [
       "Independent",
       "Podcasting"
@@ -2205,6 +2322,7 @@
     "artist": [
       "Magpie_Feather"
     ],
+    "_legal": {},
     "tags": [
       "Image Sharing",
       "Independent"
@@ -2233,6 +2351,7 @@
     "artist": [
       "Magpie_Feather"
     ],
+    "_legal": {},
     "tags": [
       "Independent",
       "Video"
@@ -2263,6 +2382,7 @@
     "artist": [
       "Magpie_Feather"
     ],
+    "_legal": {},
     "tags": [
       "Video"
     ],
@@ -2290,6 +2410,7 @@
     "artist": [
       "Magpie_Feather"
     ],
+    "_legal": {},
     "tags": [
       "Independent",
       "Video"
@@ -2318,6 +2439,7 @@
     "artist": [
       "Magpie_Feather"
     ],
+    "_legal": {},
     "tags": [
       "Phase Connect"
     ],
@@ -2345,6 +2467,7 @@
     "artist": [
       "Magpie_Feather"
     ],
+    "_legal": {},
     "tags": [
       "Phase Connect"
     ],
@@ -2372,6 +2495,7 @@
     "artist": [
       "Magpie_Feather"
     ],
+    "_legal": {},
     "tags": [
       "Phase Connect"
     ],
@@ -2399,6 +2523,7 @@
     "artist": [
       "Magpie_Feather"
     ],
+    "_legal": {},
     "tags": [
       "Phase Connect"
     ],
@@ -2426,6 +2551,7 @@
     "artist": [
       "Magpie_Feather"
     ],
+    "_legal": {},
     "tags": [
       "Phase Connect"
     ],
@@ -2453,6 +2579,7 @@
     "artist": [
       "Magpie_Feather"
     ],
+    "_legal": {},
     "tags": [
       "Phase Connect"
     ],
@@ -2480,6 +2607,7 @@
     "artist": [
       "Magpie_Feather"
     ],
+    "_legal": {},
     "tags": [
       "Phase Connect"
     ],
@@ -2511,6 +2639,7 @@
     "artist": [
       "Lim Si Yim"
     ],
+    "_legal": {},
     "color": [
       "Red"
     ],
@@ -2544,6 +2673,7 @@
     "artist": [
       "Minkye"
     ],
+    "_legal": {},
     "color": [
       "Red"
     ],
@@ -2578,6 +2708,7 @@
     "artist": [
       "Minkye"
     ],
+    "_legal": {},
     "color": [
       "Red"
     ],
@@ -2610,6 +2741,7 @@
     "artist": [
       "Emily Chai"
     ],
+    "_legal": {},
     "color": [
       "Red"
     ],
@@ -2645,6 +2777,7 @@
     "artist": [
       "Lim Si Yim"
     ],
+    "_legal": {},
     "color": [
       "Red"
     ],
@@ -2677,6 +2810,7 @@
     "artist": [
       "hina"
     ],
+    "_legal": {},
     "color": [
       "Red"
     ],
@@ -2711,6 +2845,7 @@
     "artist": [
       "Minkye"
     ],
+    "_legal": {},
     "color": [
       "Red"
     ],
@@ -2742,6 +2877,7 @@
     "artist": [
       "ふじ"
     ],
+    "_legal": {},
     "color": [
       "Red"
     ],
@@ -2773,6 +2909,7 @@
     "artist": [
       "WaHa"
     ],
+    "_legal": {},
     "color": [
       "Purple"
     ],
@@ -2807,6 +2944,7 @@
     "artist": [
       "Emily Chai"
     ],
+    "_legal": {},
     "color": [
       "Purple"
     ],
@@ -2841,6 +2979,7 @@
     "artist": [
       "_Luzzi"
     ],
+    "_legal": {},
     "color": [
       "Purple"
     ],
@@ -2873,6 +3012,7 @@
     "artist": [
       "マノ居"
     ],
+    "_legal": {},
     "color": [
       "Purple"
     ],
@@ -2905,6 +3045,7 @@
     "artist": [
       "らぬき"
     ],
+    "_legal": {},
     "color": [
       "Purple"
     ],
@@ -2940,6 +3081,7 @@
     "artist": [
       "ふじ"
     ],
+    "_legal": {},
     "color": [
       "Purple"
     ],
@@ -2972,6 +3114,7 @@
     "artist": [
       "マノ居"
     ],
+    "_legal": {},
     "color": [
       "Purple"
     ],
@@ -3003,6 +3146,7 @@
     "artist": [
       "マノ居"
     ],
+    "_legal": {},
     "color": [
       "Purple"
     ],
@@ -3036,6 +3180,7 @@
     "artist": [
       "碳水化物"
     ],
+    "_legal": {},
     "color": [
       "Green"
     ],
@@ -3070,6 +3215,7 @@
     "artist": [
       "碳水化物"
     ],
+    "_legal": {},
     "color": [
       "Green"
     ],
@@ -3102,6 +3248,7 @@
     "artist": [
       "碳水化物"
     ],
+    "_legal": {},
     "color": [
       "Green"
     ],
@@ -3134,6 +3281,7 @@
     "artist": [
       "静谷"
     ],
+    "_legal": {},
     "color": [
       "Green"
     ],
@@ -3166,6 +3314,7 @@
     "artist": [
       "kawa"
     ],
+    "_legal": {},
     "color": [
       "Green"
     ],
@@ -3198,6 +3347,7 @@
     "artist": [
       "らぬき"
     ],
+    "_legal": {},
     "color": [
       "Green"
     ],
@@ -3230,6 +3380,7 @@
     "artist": [
       "ryirakii"
     ],
+    "_legal": {},
     "color": [
       "Green"
     ],
@@ -3261,6 +3412,7 @@
     "artist": [
       "棘ナツ"
     ],
+    "_legal": {},
     "color": [
       "Green"
     ],
@@ -3292,6 +3444,7 @@
     "artist": [
       "碳水化物"
     ],
+    "_legal": {},
     "color": [
       "Red"
     ],
@@ -3324,6 +3477,7 @@
     "artist": [
       "Phase Connect"
     ],
+    "_legal": {},
     "color": [
       "Red"
     ],
@@ -3356,6 +3510,7 @@
     "artist": [
       "WaHa"
     ],
+    "_legal": {},
     "color": [
       "Red"
     ],
@@ -3390,6 +3545,7 @@
     "artist": [
       "Minkye"
     ],
+    "_legal": {},
     "color": [
       "Red"
     ],
@@ -3424,6 +3580,7 @@
     "artist": [
       "Minkye"
     ],
+    "_legal": {},
     "color": [
       "Red"
     ],
@@ -3457,6 +3614,7 @@
     "artist": [
       "碳水化物"
     ],
+    "_legal": {},
     "color": [
       "Red"
     ],
@@ -3489,6 +3647,7 @@
     "artist": [
       "Minkye"
     ],
+    "_legal": {},
     "color": [
       "Red"
     ],
@@ -3520,6 +3679,7 @@
     "artist": [
       "WaHa"
     ],
+    "_legal": {},
     "color": [
       "Red"
     ],
@@ -3553,6 +3713,7 @@
     "artist": [
       "オリヤ"
     ],
+    "_legal": {},
     "color": [
       "Purple"
     ],
@@ -3585,6 +3746,7 @@
     "artist": [
       "Emily Chai"
     ],
+    "_legal": {},
     "color": [
       "Purple"
     ],
@@ -3619,6 +3781,7 @@
     "artist": [
       "Pricey"
     ],
+    "_legal": {},
     "color": [
       "Purple"
     ],
@@ -3651,6 +3814,7 @@
     "artist": [
       "EldaSolarStudio"
     ],
+    "_legal": {},
     "color": [
       "Purple"
     ],
@@ -3683,6 +3847,7 @@
     "artist": [
       "銅貨"
     ],
+    "_legal": {},
     "color": [
       "Purple"
     ],
@@ -3715,6 +3880,7 @@
     "artist": [
       "皿田"
     ],
+    "_legal": {},
     "color": [
       "Purple"
     ],
@@ -3747,6 +3913,7 @@
     "artist": [
       "G Song"
     ],
+    "_legal": {},
     "color": [
       "Purple"
     ],
@@ -3778,6 +3945,7 @@
     "artist": [
       "キイル"
     ],
+    "_legal": {},
     "color": [
       "Purple"
     ],
@@ -3811,6 +3979,7 @@
     "artist": [
       "よすけ"
     ],
+    "_legal": {},
     "color": [
       "Green"
     ],
@@ -3843,6 +4012,7 @@
     "artist": [
       "皿田"
     ],
+    "_legal": {},
     "color": [
       "Green"
     ],
@@ -3877,6 +4047,7 @@
     "artist": [
       "よすけ"
     ],
+    "_legal": {},
     "color": [
       "Green"
     ],
@@ -3909,6 +4080,7 @@
     "artist": [
       "Emily Chai"
     ],
+    "_legal": {},
     "color": [
       "Green"
     ],
@@ -3943,6 +4115,7 @@
     "artist": [
       "よすけ"
     ],
+    "_legal": {},
     "color": [
       "Green"
     ],
@@ -3975,6 +4148,7 @@
     "artist": [
       "いもーす"
     ],
+    "_legal": {},
     "color": [
       "Green"
     ],
@@ -4007,6 +4181,7 @@
     "artist": [
       "akaba"
     ],
+    "_legal": {},
     "color": [
       "Green"
     ],
@@ -4039,6 +4214,7 @@
     "artist": [
       "うぶき"
     ],
+    "_legal": {},
     "color": [
       "Green"
     ],
@@ -4070,6 +4246,7 @@
     "artist": [
       "chiri_ap"
     ],
+    "_legal": {},
     "color": [
       "Red"
     ],
@@ -4104,6 +4281,7 @@
     "artist": [
       "G Song"
     ],
+    "_legal": {},
     "color": [
       "Red"
     ],
@@ -4147,6 +4325,7 @@
     "artist": [
       "Yunaree"
     ],
+    "_legal": {},
     "color": [
       "Red"
     ],
@@ -4180,6 +4359,7 @@
     "artist": [
       "Phase Connect"
     ],
+    "_legal": {},
     "color": [
       "Red"
     ],
@@ -4218,6 +4398,7 @@
     "artist": [
       "ValeforZero"
     ],
+    "_legal": {},
     "color": [
       "Red"
     ],
@@ -4252,6 +4433,7 @@
     "artist": [
       "静谷"
     ],
+    "_legal": {},
     "color": [
       "Red"
     ],
@@ -4284,6 +4466,7 @@
     "artist": [
       "akaba"
     ],
+    "_legal": {},
     "color": [
       "Red"
     ],
@@ -4315,6 +4498,7 @@
     "artist": [
       "ValeforZero"
     ],
+    "_legal": {},
     "color": [
       "Red"
     ],
@@ -4348,6 +4532,7 @@
     "artist": [
       "碳水化物"
     ],
+    "_legal": {},
     "color": [
       "Purple"
     ],
@@ -4382,6 +4567,7 @@
     "artist": [
       "G Song"
     ],
+    "_legal": {},
     "color": [
       "Purple"
     ],
@@ -4414,6 +4600,7 @@
     "artist": [
       "Minkye"
     ],
+    "_legal": {},
     "color": [
       "Purple"
     ],
@@ -4448,6 +4635,7 @@
     "artist": [
       "Emily Chai"
     ],
+    "_legal": {},
     "color": [
       "Purple"
     ],
@@ -4480,6 +4668,7 @@
     "artist": [
       "G Song"
     ],
+    "_legal": {},
     "color": [
       "Purple"
     ],
@@ -4512,6 +4701,7 @@
     "artist": [
       "Lim Si Yim"
     ],
+    "_legal": {},
     "color": [
       "Purple"
     ],
@@ -4545,6 +4735,7 @@
       "Emily Chai",
       "WaHa"
     ],
+    "_legal": {},
     "color": [
       "Purple"
     ],
@@ -4576,6 +4767,7 @@
     "artist": [
       "Lim Si Yim"
     ],
+    "_legal": {},
     "color": [
       "Purple"
     ],
@@ -4610,6 +4802,7 @@
     "artist": [
       "momoninni"
     ],
+    "_legal": {},
     "color": [
       "Green"
     ],
@@ -4642,6 +4835,7 @@
     "artist": [
       "銅貨"
     ],
+    "_legal": {},
     "color": [
       "Green"
     ],
@@ -4676,6 +4870,7 @@
     "artist": [
       "akaba"
     ],
+    "_legal": {},
     "color": [
       "Green"
     ],
@@ -4714,6 +4909,7 @@
     "artist": [
       "いもーす"
     ],
+    "_legal": {},
     "color": [
       "Green"
     ],
@@ -4748,6 +4944,7 @@
     "artist": [
       "watasi_ch3"
     ],
+    "_legal": {},
     "color": [
       "Green"
     ],
@@ -4789,6 +4986,7 @@
     "artist": [
       "マノ居"
     ],
+    "_legal": {},
     "color": [
       "Green"
     ],
@@ -4823,6 +5021,7 @@
     "artist": [
       "Phase Connect"
     ],
+    "_legal": {},
     "color": [
       "Green"
     ],
@@ -4856,6 +5055,7 @@
     "artist": [
       "いもーす"
     ],
+    "_legal": {},
     "color": [
       "Green"
     ],
@@ -4890,6 +5090,7 @@
       "Emily Chai",
       "WaHa"
     ],
+    "_legal": {},
     "color": [
       "Red"
     ],
@@ -4922,6 +5123,7 @@
     "artist": [
       "chiri_ap"
     ],
+    "_legal": {},
     "color": [
       "Red"
     ],
@@ -4957,6 +5159,7 @@
     "artist": [
       "Minkye"
     ],
+    "_legal": {},
     "color": [
       "Red"
     ],
@@ -4989,6 +5192,7 @@
     "artist": [
       "chiri_ap"
     ],
+    "_legal": {},
     "color": [
       "Red"
     ],
@@ -5023,6 +5227,7 @@
     "artist": [
       "いもーす"
     ],
+    "_legal": {},
     "color": [
       "Red"
     ],
@@ -5057,6 +5262,7 @@
     "artist": [
       "aytsmith"
     ],
+    "_legal": {},
     "color": [
       "Red"
     ],
@@ -5089,6 +5295,7 @@
     "artist": [
       "すずま"
     ],
+    "_legal": {},
     "color": [
       "Red"
     ],
@@ -5120,6 +5327,7 @@
     "artist": [
       "Emily Chai"
     ],
+    "_legal": {},
     "color": [
       "Red"
     ],
@@ -5153,6 +5361,7 @@
     "artist": [
       "WaHa"
     ],
+    "_legal": {},
     "color": [
       "Purple"
     ],
@@ -5187,6 +5396,7 @@
     "artist": [
       "_Luzzi"
     ],
+    "_legal": {},
     "color": [
       "Purple"
     ],
@@ -5219,6 +5429,7 @@
     "artist": [
       "Emily Chai"
     ],
+    "_legal": {},
     "color": [
       "Purple"
     ],
@@ -5251,6 +5462,7 @@
     "artist": [
       "すずま"
     ],
+    "_legal": {},
     "color": [
       "Purple"
     ],
@@ -5283,6 +5495,7 @@
     "artist": [
       "えだつい"
     ],
+    "_legal": {},
     "color": [
       "Purple"
     ],
@@ -5315,6 +5528,7 @@
     "artist": [
       "えだつい"
     ],
+    "_legal": {},
     "color": [
       "Purple"
     ],
@@ -5348,6 +5562,7 @@
     "artist": [
       "Minkye"
     ],
+    "_legal": {},
     "color": [
       "Purple"
     ],
@@ -5380,6 +5595,7 @@
     "artist": [
       "うぶき"
     ],
+    "_legal": {},
     "color": [
       "Purple"
     ],
@@ -5413,6 +5629,7 @@
     "artist": [
       "西洋カルタ軒"
     ],
+    "_legal": {},
     "color": [
       "Green"
     ],
@@ -5445,6 +5662,7 @@
     "artist": [
       "G Song"
     ],
+    "_legal": {},
     "color": [
       "Green"
     ],
@@ -5479,6 +5697,7 @@
     "artist": [
       "いもーす"
     ],
+    "_legal": {},
     "color": [
       "Green"
     ],
@@ -5511,6 +5730,7 @@
     "artist": [
       "ValeforZero"
     ],
+    "_legal": {},
     "color": [
       "Green"
     ],
@@ -5551,6 +5771,7 @@
     "artist": [
       "いもーす"
     ],
+    "_legal": {},
     "color": [
       "Green"
     ],
@@ -5583,6 +5804,7 @@
     "artist": [
       "オリヤ"
     ],
+    "_legal": {},
     "color": [
       "Green"
     ],
@@ -5614,6 +5836,7 @@
     "artist": [
       "G Song"
     ],
+    "_legal": {},
     "color": [
       "Green"
     ],
@@ -5645,6 +5868,7 @@
     "artist": [
       "Lim Si Yim"
     ],
+    "_legal": {},
     "color": [
       "Green"
     ],
@@ -5678,6 +5902,7 @@
     "artist": [
       "minsgraph"
     ],
+    "_legal": {},
     "color": [
       "Green"
     ],
@@ -5708,6 +5933,7 @@
     "artist": [
       "Magpie_Feather"
     ],
+    "_legal": {},
     "Subscriber Count": 500000,
     "Popularity Threshold": 3,
     "tags": [
@@ -5739,6 +5965,7 @@
     "artist": [
       "WaHa"
     ],
+    "_legal": {},
     "color": [
       "Green"
     ],
@@ -5770,6 +5997,9 @@
     "artist": [
       "rialynkv"
     ],
+    "_legal": {
+      "Classic": 1
+    },
     "Subscriber Count": 400000,
     "Popularity Threshold": 3,
     "tags": [
@@ -5802,6 +6032,7 @@
     "artist": [
       "Phase Connect"
     ],
+    "_legal": {},
     "color": [
       "Red"
     ],
@@ -5838,6 +6069,7 @@
     "artist": [
       "オリヤ"
     ],
+    "_legal": {},
     "color": [
       "Red"
     ],
@@ -5870,6 +6102,7 @@
     "artist": [
       "Minkye"
     ],
+    "_legal": {},
     "color": [
       "Purple"
     ],
@@ -5904,6 +6137,7 @@
     "artist": [
       "ardenlolo"
     ],
+    "_legal": {},
     "color": [
       "Green"
     ],
@@ -5937,6 +6171,7 @@
     "artist": [
       "Minkye"
     ],
+    "_legal": {},
     "color": [
       "Purple"
     ],
@@ -5969,6 +6204,7 @@
     "artist": [
       "Mi Tenma Maemi"
     ],
+    "_legal": {},
     "color": [
       "Green"
     ],
@@ -6000,6 +6236,9 @@
     "artist": [
       "Tanukii_don"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Red"
     ],
@@ -6034,6 +6273,9 @@
     "artist": [
       "sakizxc"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Red"
     ],
@@ -6069,6 +6311,9 @@
     "artist": [
       "enepuni"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Red"
     ],
@@ -6102,6 +6347,9 @@
     "artist": [
       "XrayDreads"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Red"
     ],
@@ -6134,6 +6382,9 @@
     "artist": [
       "XrayDreads"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Red"
     ],
@@ -6167,6 +6418,9 @@
     "artist": [
       "Nondo39"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Purple"
     ],
@@ -6202,6 +6456,9 @@
     "artist": [
       "patellacoop"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Purple"
     ],
@@ -6238,6 +6495,9 @@
     "artist": [
       "nana_illust"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Purple"
     ],
@@ -6273,6 +6533,9 @@
     "artist": [
       "yanpans"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Purple"
     ],
@@ -6307,6 +6570,9 @@
     "artist": [
       "Karasoba"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Green"
     ],
@@ -6340,6 +6606,9 @@
     "artist": [
       "Reibub"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Green"
     ],
@@ -6375,6 +6644,9 @@
     "artist": [
       "Reibub"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Green"
     ],
@@ -6411,6 +6683,9 @@
     "artist": [
       "Reibub"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Green"
     ],
@@ -6444,6 +6719,9 @@
     "artist": [
       "Amyathepuff"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Red"
     ],
@@ -6475,6 +6753,9 @@
     "artist": [
       "レインアルト"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Green"
     ],
@@ -6508,6 +6789,9 @@
     "artist": [
       "Suotti"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Green"
     ],
@@ -6543,6 +6827,9 @@
     "artist": [
       "cinamoonmoon"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Green"
     ],
@@ -6579,6 +6866,9 @@
     "artist": [
       "cinamoonmoon"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Green"
     ],
@@ -6612,6 +6902,9 @@
     "artist": [
       "Amphrey"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Green"
     ],
@@ -6644,6 +6937,9 @@
     "artist": [
       "Amphrey"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Green"
     ],
@@ -6675,6 +6971,9 @@
     "artist": [
       "rakizuuu"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Red"
     ],
@@ -6709,6 +7008,9 @@
     "artist": [
       "EggyTamagoki"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Red"
     ],
@@ -6742,6 +7044,9 @@
     "artist": [
       "anomarasu"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Red"
     ],
@@ -6775,6 +7080,9 @@
     "artist": [
       "マノ居"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Red"
     ],
@@ -6806,6 +7114,9 @@
     "artist": [
       "みそじ"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Red"
     ],
@@ -6840,6 +7151,9 @@
       "Natalie Ong",
       "WaHa"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Purple"
     ],
@@ -6875,6 +7189,9 @@
     "artist": [
       "ClozyOzy"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Purple"
     ],
@@ -6911,6 +7228,9 @@
     "artist": [
       "ClozyOzy"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Purple"
     ],
@@ -6946,6 +7266,9 @@
     "artist": [
       "えだつい"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Purple"
     ],
@@ -6981,6 +7304,9 @@
       "Natalie Ong",
       "WaHa"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Green"
     ],
@@ -7012,6 +7338,9 @@
     "artist": [
       "Magpie_Feather"
     ],
+    "_legal": {
+      "Classic": 1
+    },
     "tags": [
       "Independent",
       "Networking"
@@ -7042,6 +7371,9 @@
     "artist": [
       "Magpie_Feather"
     ],
+    "_legal": {
+      "Classic": 1
+    },
     "tags": [
       "Independent",
       "Podcasting"
@@ -7074,6 +7406,9 @@
     "artist": [
       "Magpie_Feather"
     ],
+    "_legal": {
+      "Classic": 1
+    },
     "tags": [
       "Networking"
     ],
@@ -7105,6 +7440,9 @@
     "artist": [
       "Magpie_Feather"
     ],
+    "_legal": {
+      "Classic": 1
+    },
     "tags": [
       "Video"
     ],
@@ -7134,6 +7472,9 @@
     "artist": [
       "Magpie_Feather"
     ],
+    "_legal": {
+      "Classic": 1
+    },
     "Subscriber Count": 300000,
     "Popularity Threshold": 2,
     "tags": [
@@ -7163,6 +7504,9 @@
     "artist": [
       "Magpie_Feather"
     ],
+    "_legal": {
+      "Classic": 1
+    },
     "tags": [
       "Image Sharing",
       "Independent"
@@ -7193,6 +7537,9 @@
     "artist": [
       "Magpie_Feather"
     ],
+    "_legal": {
+      "Classic": 1
+    },
     "tags": [
       "Independent",
       "Video"
@@ -7225,6 +7572,9 @@
     "artist": [
       "Magpie_Feather"
     ],
+    "_legal": {
+      "Classic": 1
+    },
     "tags": [
       "Podcasting"
     ],
@@ -7254,6 +7604,9 @@
     "artist": [
       "Magpie_Feather"
     ],
+    "_legal": {
+      "Classic": 1
+    },
     "Subscriber Count": 400000,
     "Popularity Threshold": 3,
     "tags": [
@@ -7283,6 +7636,9 @@
     "artist": [
       "Magpie_Feather"
     ],
+    "_legal": {
+      "Classic": 1
+    },
     "Subscriber Count": 400000,
     "Popularity Threshold": 3,
     "tags": [
@@ -7312,6 +7668,9 @@
     "artist": [
       "Magpie_Feather"
     ],
+    "_legal": {
+      "Classic": 1
+    },
     "Subscriber Count": 400000,
     "Popularity Threshold": 3,
     "tags": [
@@ -7341,6 +7700,9 @@
     "artist": [
       "Magpie_Feather"
     ],
+    "_legal": {
+      "Classic": 1
+    },
     "tags": [
       "Independent",
       "Video"
@@ -7373,6 +7735,9 @@
     "artist": [
       "Magpie_Feather"
     ],
+    "_legal": {
+      "Classic": 1
+    },
     "tags": [
       "Image Sharing"
     ],
@@ -7402,6 +7767,9 @@
     "artist": [
       "Magpie_Feather"
     ],
+    "_legal": {
+      "Classic": 1
+    },
     "Subscriber Count": 500000,
     "Popularity Threshold": 3,
     "tags": [
@@ -7429,6 +7797,9 @@
     "artist": [
       "Magpie_Feather"
     ],
+    "_legal": {
+      "Classic": 1
+    },
     "tags": [
       "Independent",
       "Streaming"
@@ -7459,6 +7830,9 @@
     "artist": [
       "Magpie_Feather"
     ],
+    "_legal": {
+      "Classic": 1
+    },
     "Subscriber Count": 600000,
     "Popularity Threshold": 4,
     "tags": [
@@ -7490,6 +7864,9 @@
     "artist": [
       "XrayDreads"
     ],
+    "_legal": {
+      "Classic": 1
+    },
     "Subscriber Count": 400000,
     "Popularity Threshold": 3
   },
@@ -7516,6 +7893,9 @@
     "artist": [
       "Magpie_Feather"
     ],
+    "_legal": {
+      "Classic": 1
+    },
     "Subscriber Count": 400000,
     "Popularity Threshold": 3
   },
@@ -7542,6 +7922,9 @@
     "artist": [
       "Magpie_Feather"
     ],
+    "_legal": {
+      "Classic": 1
+    },
     "Subscriber Count": 400000,
     "Popularity Threshold": 3,
     "tags": []
@@ -7569,6 +7952,9 @@
     "artist": [
       "UwUMedia"
     ],
+    "_legal": {
+      "Classic": 1
+    },
     "Subscriber Count": 400000,
     "Popularity Threshold": 3,
     "tags": []
@@ -7596,6 +7982,9 @@
     "artist": [
       "Magpie_Feather"
     ],
+    "_legal": {
+      "Classic": 1
+    },
     "Subscriber Count": 400000,
     "Popularity Threshold": 3,
     "tags": []
@@ -7625,6 +8014,9 @@
     "artist": [
       "Kream_VT"
     ],
+    "_legal": {
+      "Classic": 1
+    },
     "Subscriber Count": 400000,
     "Popularity Threshold": 3
   },
@@ -7653,6 +8045,9 @@
     "artist": [
       "hemmmlock"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Red"
     ],
@@ -7687,6 +8082,9 @@
     "artist": [
       "Unco_i26"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Red"
     ],
@@ -7721,6 +8119,9 @@
     "artist": [
       "G Song"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Red"
     ],
@@ -7753,6 +8154,9 @@
     "artist": [
       "Naiichie"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Red"
     ],
@@ -7785,6 +8189,9 @@
     "artist": [
       "あも井"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Red"
     ],
@@ -7820,6 +8227,9 @@
     "artist": [
       "Unco_i26"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Red"
     ],
@@ -7852,6 +8262,9 @@
     "artist": [
       "碳水化物"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Red"
     ],
@@ -7885,6 +8298,9 @@
     "artist": [
       "碳水化物"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Red"
     ],
@@ -7918,6 +8334,9 @@
     "artist": [
       "MelonbreadFBP"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Red"
     ],
@@ -7954,6 +8373,9 @@
     "artist": [
       "OdoMame"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Purple"
     ],
@@ -7986,6 +8408,9 @@
     "artist": [
       "WaHa"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Purple"
     ],
@@ -8018,6 +8443,9 @@
     "artist": [
       "yanpans"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Purple"
     ],
@@ -8050,6 +8478,9 @@
     "artist": [
       "えだつい"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Purple"
     ],
@@ -8082,6 +8513,9 @@
     "artist": [
       "えだつい"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Purple"
     ],
@@ -8114,6 +8548,9 @@
     "artist": [
       "yanpans"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Purple"
     ],
@@ -8146,6 +8583,9 @@
     "artist": [
       "yanpans"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Purple"
     ],
@@ -8177,6 +8617,9 @@
     "artist": [
       "WaHa"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Purple"
     ],
@@ -8211,6 +8654,9 @@
     "artist": [
       "ElazuArt"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Purple"
     ],
@@ -8245,6 +8691,9 @@
       "BumblebeePudding",
       "Mayhemorii"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Green"
     ],
@@ -8279,6 +8728,9 @@
     "artist": [
       "G Song"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Green"
     ],
@@ -8311,6 +8763,9 @@
     "artist": [
       "らぬき"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Green"
     ],
@@ -8343,6 +8798,9 @@
     "artist": [
       "芋園缶"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Green"
     ],
@@ -8375,6 +8833,9 @@
     "artist": [
       "G Song"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Green"
     ],
@@ -8407,6 +8868,9 @@
     "artist": [
       "Mr_Carl_Karlson"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Green"
     ],
@@ -8439,6 +8903,9 @@
     "artist": [
       "いもーす"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Green"
     ],
@@ -8470,6 +8937,9 @@
     "artist": [
       "Karasoba"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Green"
     ],
@@ -8503,6 +8973,9 @@
     "artist": [
       "WHosBQ"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Green"
     ],
@@ -8538,6 +9011,9 @@
     "artist": [
       "Minkye"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Red"
     ],
@@ -8572,6 +9048,9 @@
     "artist": [
       "G Song"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Red"
     ],
@@ -8604,6 +9083,9 @@
     "artist": [
       "すずま"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Red"
     ],
@@ -8636,6 +9118,9 @@
     "artist": [
       "G Song"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Red"
     ],
@@ -8668,6 +9153,9 @@
     "artist": [
       "ゆひゃん"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Red"
     ],
@@ -8701,6 +9189,9 @@
       "BumblebeePudding",
       "Mayhemorii"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Red"
     ],
@@ -8733,6 +9224,9 @@
     "artist": [
       "G Song"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Red"
     ],
@@ -8764,6 +9258,9 @@
     "artist": [
       "G Song"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Red"
     ],
@@ -8797,6 +9294,9 @@
     "artist": [
       "WaHa"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Red"
     ],
@@ -8830,6 +9330,9 @@
     "artist": [
       "稲咲"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Purple"
     ],
@@ -8864,6 +9367,9 @@
     "artist": [
       "WaHa"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Purple"
     ],
@@ -8899,6 +9405,9 @@
       "Natalie Ong",
       "WaHa"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Purple"
     ],
@@ -8931,6 +9440,9 @@
     "artist": [
       "ゆひゃん"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Purple"
     ],
@@ -8965,6 +9477,9 @@
     "artist": [
       "西田実鳥"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Purple"
     ],
@@ -8999,6 +9514,9 @@
     "artist": [
       "Pumpkinnnyy"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Purple"
     ],
@@ -9031,6 +9549,9 @@
     "artist": [
       "G Song"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Purple"
     ],
@@ -9062,6 +9583,9 @@
     "artist": [
       "西田実鳥"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Purple"
     ],
@@ -9095,6 +9619,9 @@
     "artist": [
       "Minkye"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Purple"
     ],
@@ -9128,6 +9655,9 @@
     "artist": [
       "Annalise Austenne"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Green"
     ],
@@ -9162,6 +9692,9 @@
     "artist": [
       "G Song"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Green"
     ],
@@ -9196,6 +9729,9 @@
     "artist": [
       "Agony_Ina"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Green"
     ],
@@ -9228,6 +9764,9 @@
     "artist": [
       "Minkye"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Green"
     ],
@@ -9260,6 +9799,9 @@
     "artist": [
       "AnarchyAtlas"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Green"
     ],
@@ -9292,6 +9834,9 @@
     "artist": [
       "NikkiArtz"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Green"
     ],
@@ -9324,6 +9869,9 @@
     "artist": [
       "G Song"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Green"
     ],
@@ -9358,6 +9906,9 @@
     "artist": [
       "G Song"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Green"
     ],
@@ -9391,6 +9942,9 @@
     "artist": [
       "マノ居"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Green"
     ],
@@ -9424,6 +9978,9 @@
     "artist": [
       "碳水化物"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Red"
     ],
@@ -9458,6 +10015,9 @@
     "artist": [
       "G Song"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Red"
     ],
@@ -9493,6 +10053,9 @@
     "artist": [
       "Unknown Artist"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Red"
     ],
@@ -9525,6 +10088,9 @@
     "artist": [
       "あも井"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Red"
     ],
@@ -9557,6 +10123,9 @@
     "artist": [
       "マノ居"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Red"
     ],
@@ -9589,6 +10158,9 @@
     "artist": [
       "Amphrey"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Red"
     ],
@@ -9621,6 +10193,9 @@
     "artist": [
       "G Song"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Red"
     ],
@@ -9654,6 +10229,9 @@
     "artist": [
       "みそじ"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Red"
     ],
@@ -9687,6 +10265,9 @@
     "artist": [
       "IaineiKaros"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Red"
     ],
@@ -9721,6 +10302,9 @@
       "Natalie Ong",
       "WaHa"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Purple"
     ],
@@ -9753,6 +10337,9 @@
     "artist": [
       "WaHa"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Purple"
     ],
@@ -9785,6 +10372,9 @@
     "artist": [
       "WaHa"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Purple"
     ],
@@ -9817,6 +10407,9 @@
     "artist": [
       "銅貨"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Purple"
     ],
@@ -9849,6 +10442,9 @@
     "artist": [
       "MellowMabel"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Purple"
     ],
@@ -9882,6 +10478,9 @@
       "Natalie Ong",
       "WaHa"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Purple"
     ],
@@ -9914,6 +10513,9 @@
     "artist": [
       "WaHa"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Purple"
     ],
@@ -9945,6 +10547,9 @@
     "artist": [
       "Suotti"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Purple"
     ],
@@ -9978,6 +10583,9 @@
     "artist": [
       "nana_illust"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Purple"
     ],
@@ -10013,6 +10621,9 @@
     "artist": [
       "Mugguuuu"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Green"
     ],
@@ -10048,6 +10659,9 @@
       "BumblebeePudding",
       "Mayhemorii"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Green"
     ],
@@ -10082,6 +10696,9 @@
     "artist": [
       "Amphrey"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Green"
     ],
@@ -10114,6 +10731,9 @@
     "artist": [
       "モリアオモリ"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Green"
     ],
@@ -10147,6 +10767,9 @@
       "BumblebeePudding",
       "Mayhemorii"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Green"
     ],
@@ -10179,6 +10802,9 @@
     "artist": [
       "Amphrey"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Green"
     ],
@@ -10213,6 +10839,9 @@
     "artist": [
       "G Song"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Green"
     ],
@@ -10244,6 +10873,9 @@
     "artist": [
       "いもーす"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Green"
     ],
@@ -10277,6 +10909,9 @@
     "artist": [
       "StarlightAkari"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Green"
     ],
@@ -10310,6 +10945,9 @@
     "artist": [
       "すずま"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Red"
     ],
@@ -10344,6 +10982,9 @@
     "artist": [
       "木庭"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Red"
     ],
@@ -10378,6 +11019,9 @@
     "artist": [
       "WaHa"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Red"
     ],
@@ -10410,6 +11054,9 @@
     "artist": [
       "木庭"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Red"
     ],
@@ -10442,6 +11089,9 @@
     "artist": [
       "madoka"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Red"
     ],
@@ -10474,6 +11124,9 @@
     "artist": [
       "G Song"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Red"
     ],
@@ -10506,6 +11159,9 @@
     "artist": [
       "銅貨"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Red"
     ],
@@ -10540,6 +11196,9 @@
     "artist": [
       "WaHa"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Red"
     ],
@@ -10571,6 +11230,9 @@
     "artist": [
       "madoka"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Red"
     ],
@@ -10604,6 +11266,9 @@
     "artist": [
       "Captain Chia"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Red"
     ],
@@ -10638,6 +11303,9 @@
       "Natalie Ong",
       "WaHa"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Purple"
     ],
@@ -10672,6 +11340,9 @@
     "artist": [
       "稲咲"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Purple"
     ],
@@ -10706,6 +11377,9 @@
     "artist": [
       "yanpans"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Purple"
     ],
@@ -10738,6 +11412,9 @@
     "artist": [
       "モリアオモリ"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Purple"
     ],
@@ -10771,6 +11448,9 @@
       "Natalie Ong",
       "WaHa"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Purple"
     ],
@@ -10803,6 +11483,9 @@
     "artist": [
       "すずま"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Purple"
     ],
@@ -10835,6 +11518,9 @@
     "artist": [
       "あも井"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Purple"
     ],
@@ -10866,6 +11552,9 @@
     "artist": [
       "西田実鳥"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Purple"
     ],
@@ -10899,6 +11588,9 @@
     "artist": [
       "pushucchi24"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Purple"
     ],
@@ -10933,6 +11625,9 @@
     "artist": [
       "Minkye"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Green"
     ],
@@ -10968,6 +11663,9 @@
       "Natalie Ong",
       "WaHa"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Green"
     ],
@@ -11002,6 +11700,9 @@
     "artist": [
       "ゆひゃん"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Green"
     ],
@@ -11036,6 +11737,9 @@
     "artist": [
       "WaHa"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Green"
     ],
@@ -11068,6 +11772,9 @@
     "artist": [
       "Amphrey"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Green"
     ],
@@ -11100,6 +11807,9 @@
     "artist": [
       "マノ居"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Green"
     ],
@@ -11132,6 +11842,9 @@
     "artist": [
       "G Song"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Green"
     ],
@@ -11163,6 +11876,9 @@
     "artist": [
       "Paufufufun"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Green"
     ],
@@ -11196,6 +11912,9 @@
     "artist": [
       "teexpoon"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Green"
     ],
@@ -11232,6 +11951,9 @@
     "artist": [
       "ParasiticBun"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Green"
     ],
@@ -11265,6 +11987,9 @@
     "artist": [
       "G Song"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Red"
     ],
@@ -11297,6 +12022,9 @@
     "artist": [
       "レインアルト"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Red"
     ],
@@ -11330,6 +12058,9 @@
     "artist": [
       "稲咲"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Purple"
     ],
@@ -11364,6 +12095,9 @@
       "Natalie Ong",
       "WaHa"
     ],
+    "_legal": {
+      "Classic": 3
+    },
     "color": [
       "Red"
     ],
