@@ -1,622 +1,550 @@
-{
-  "name": "Oshi Push",
-  "menuBackgroundImage": "https://raw.githubusercontent.com/woosle1234/TCG-Arena-Oshi-Push/refs/heads/main/images/oshipush.jpg",
-  "defaultRessources": {
-    "backgrounds": [
-      "https://github.com/woosle1234/TCG-Arena-Oshi-Push/blob/main/images/Captain%20Camille%20Playmat.jpg?raw=true",
-      "https://github.com/woosle1234/TCG-Arena-Oshi-Push/blob/main/images/Chisaka%20Playmat.webp?raw=true",
-      "https://github.com/woosle1234/TCG-Arena-Oshi-Push/blob/main/images/Eden%20Playmat.webp?raw=true",
-      "https://github.com/woosle1234/TCG-Arena-Oshi-Push/blob/main/images/Iori%20Playmat.webp?raw=true",
-      "https://github.com/woosle1234/TCG-Arena-Oshi-Push/blob/main/images/Komoachi%20Panko%20Playmat.webp?raw=true",
-      "https://github.com/woosle1234/TCG-Arena-Oshi-Push/blob/main/images/La%20Avispa%20Nectarina%20Playmat.jpg?raw=true",
-      "https://github.com/woosle1234/TCG-Arena-Oshi-Push/blob/main/images/Lia%20Playmat.webp?raw=true",
-      "https://github.com/woosle1234/TCG-Arena-Oshi-Push/blob/main/images/Linechu%20Playmat.webp?raw=true",
-      "https://github.com/woosle1234/TCG-Arena-Oshi-Push/blob/main/images/Michiru%20Playmat.jpg?raw=true",
-      "https://github.com/woosle1234/TCG-Arena-Oshi-Push/blob/main/images/Nasa%20Playmat.webp?raw=true",
-      "https://github.com/woosle1234/TCG-Arena-Oshi-Push/blob/main/images/Pippa%20Playmat.webp?raw=true",
-      "https://github.com/woosle1234/TCG-Arena-Oshi-Push/blob/main/images/Porcelain%20Maid%20Playmat.webp?raw=true",
-      "https://github.com/woosle1234/TCG-Arena-Oshi-Push/blob/main/images/Remilla%20Playmat.webp?raw=true",
-      "https://github.com/woosle1234/TCG-Arena-Oshi-Push/blob/main/images/Shiina%20Playmat.webp?raw=true",
-      "https://github.com/woosle1234/TCG-Arena-Oshi-Push/blob/main/images/Tenma%20Playmat.webp?raw=true",
-      "https://github.com/woosle1234/TCG-Arena-Oshi-Push/blob/main/images/Uruka%20Playmat.webp?raw=true"
-    ],
-    "decksUrl": "https://raw.githubusercontent.com/woosle1234/TCG-Arena-Oshi-Push/refs/heads/main/OshiPushDecks.json"
-  },
-  "customHelp": "Oshi Push is a vibrant, high-stakes trading card game (TCG) celebrating the sensational world of VTubers—virtual content creators who use digital avatars to entertain audiences worldwide. Players compete to grow their VTuber channels, battling for subscribers and influence!",
-  "cardRotation": "90",
-  "cards": {
-    "dataUrl": "https://raw.githubusercontent.com/woosle1234/TCG-Arena-Oshi-Push/refs/heads/main/OshiPushCards.json",
-    "cardBack": "https://raw.githubusercontent.com/woosle1234/TCG-Arena-Oshi-Push/refs/heads/main/images/Card%20Back.png",
-    "cardBackColor": "#ffffff",
-    "extraCardBacks": {
-      "Platform": "https://github.com/woosle1234/TCG-Arena-Oshi-Push/blob/main/images/platformback.webp?raw=true"
-    }
-  },
-  "deckBuilding": {
-    "mainFilters": [
-      "type",
-      "color",
-      "cost",
-      "bits",
-      "influence",
-      "subscriberCount",
-      "popularityThreshold"
-    ],
-    "costCurveIgnoredTypes": [
-      "Persona",
-      "Platform"
-    ],
-    "formats": [
-      {
-        "title": "Constructed 1v1",
-        "gameplay": "Classic",
-        "customCategories": [
-          "Persona",
-          "Platform"
-        ]
-      }
-    ]
-  },
-  "gameplay": {
-    "Classic": {
-      "mulligan": {
-        "triggeredByButton": false,
-        "mulliganCycle": {
-          "info": "After drawing your initial hand of 5 cards, if you are unsatisfied with them, you can shuffle that hand back into your draw deck and draw 5 new cards. You can only do this once.",
-          "steps": [
-            "toTop",
-            "shuffle",
-            "draw"
-          ],
-          "selectionRange": {
-            "min": 5,
-            "max": 6
-          }
-        },
-        "startingHandSize": 5,
-        "mulliganCount": {
-          "min": 0,
-          "max": 1
-        },
-        "drawNewHand": true,
-        "putSelectionAtBottom": false,
-        "drawNewSelectedCards": false
-      },
-      "newTurn": {
-        "drawOnStart": false,
-        "sharedTurn": true,
-        "firstPlayerTokenName": "First Player Token",
-        "drawPerTurn": 1
-      },
-      "defaultNotes": "Player1: 0\nPlayer2: 0",
-      "tokens": [
-        {
-          "name": "First Player Token",
-          "image": "https://github.com/woosle1234/TCG-Arena-Oshi-Push/blob/main/images/First%20Player%20Token.png?raw=true",
-          "isUnique": true,
-          "leavesAtEndOfTurn": false
-        }
-      ],
-      "countersStartingValues": [
-        0
-      ],
-      "hideFacedDownCards": false,
-      "sections": {
-        "sharedZone": {
-          "height": 6,
-          "layout": {
-            "direction": "row",
-            "content": [
-              {
-                "section": "Platform_1",
-                "style": {
-                  "marginRight": "auto",
-                  "marginLeft": "auto",
-                  "width": "22vh",
-                  "marginBottom": "0",
-                  "marginTop": "0"
-                }
-              },
-              {
-                "section": "Platform_2",
-                "style": {
-                  "marginRight": "auto",
-                  "marginLeft": "auto",
-                  "width": "22vh",
-                  "marginBottom": "0",
-                  "marginTop": "0"
-                }
-              },
-              {
-                "section": "Platform_3",
-                "style": {
-                  "marginRight": "auto",
-                  "marginLeft": "auto",
-                  "width": "22vh",
-                  "marginBottom": "0",
-                  "marginTop": "0"
-                }
-              }
+[
+    {
+        "title": "Gen One Tenma Maemi Starter Deck",
+        "id": "Gen One Tenma Maemi Starter Deck",
+        "cardCount": 46,
+        "createdAt": "2026-03-28T05:23:05.085Z",
+        "lastModifiedAt": "2026-07-19T01:57:29.431Z",
+        "game": "Oshi Push",
+        "format": [
+            "Constructed 1v1"
+        ],
+        "deckList": {
+            "categoriesOrder": [
+                "Persona",
+                "Platform",
+                "Main Deck"
             ],
-            "style": {
-              "width": "100vh",
-              "marginTop": "-2vh",
-              "marginBottom": "1vh"
-            }
-          }
-        },
-        "customSections": [
-          "Platform_1",
-          "Platform_2",
-          "Platform_3",
-          "Persona_1",
-          "Persona_2",
-          "Persona_3",
-          "Content_1",
-          "Content_2",
-          "Content_3",
-          "Studio",
-          "Platform_Deck",
-          "Captured_Platforms"
-        ],
-        "layout": {
-          "direction": "row",
-          "isSymetricalForOpponents": false,
-          "content": [
-            {
-              "direction": "column",
-              "style": {
-                "width": "22vh",
-                "marginBottom": "11vh",
-                "alignContent": "start"
-              },
-              "content": [
+            "Persona": [
                 {
-                  "section": "Platform_Deck",
-                  "style": {
-                    "width": "22vh",
-                    "marginBottom": "1vh"
-                  }
+                    "count": 1,
+                    "id": "OP01/PHC-037"
+                }
+            ],
+            "Platform": [
+                {
+                    "count": 1,
+                    "id": "OP01/PHC-056"
                 },
                 {
-                  "section": "Captured_Platforms",
-                  "style": {
-                    "width": "22vh",
-                    "display": "flex",
-                    "flexDirection": "column"
-                  }
-                }
-              ]
-            },
-            {
-              "direction": "column",
-              "style": {
-                "width": "100vh",
-                "marginBottom": "8vh",
-                "marginTop": "0"
-              },
-              "content": [
-                {
-                  "direction": "row",
-                  "content": [
-                    {
-                      "section": "Persona_1",
-                      "style": {
-                        "marginRight": "auto",
-                        "marginLeft": "auto",
-                        "width": "10vh",
-                        "marginBottom": "0",
-                        "marginTop": "0"
-                      }
-                    },
-                    {
-                      "section": "Persona_2",
-                      "style": {
-                        "marginRight": "auto",
-                        "marginLeft": "auto",
-                        "width": "10vh",
-                        "marginBottom": "0",
-                        "marginTop": "0"
-                      }
-                    },
-                    {
-                      "section": "Persona_3",
-                      "style": {
-                        "marginRight": "auto",
-                        "marginLeft": "auto",
-                        "width": "10vh",
-                        "marginBottom": "0",
-                        "marginTop": "0"
-                      }
-                    }
-                  ],
-                  "style": {
-                    "width": "100vh",
-                    "marginTop": "0",
-                    "marginBottom": "1vh"
-                  }
+                    "count": 1,
+                    "id": "OP01/PHC-061"
                 },
                 {
-                  "direction": "row",
-                  "style": {
-                    "width": "100vh"
-                  },
-                  "content": [
-                    {
-                      "section": "Content_1",
-                      "style": {
-                        "marginRight": "auto",
-                        "marginLeft": "auto",
-                        "marginBottom": "0",
-                        "marginTop": "0"
-                      }
-                    },
-                    {
-                      "section": "Content_2",
-                      "style": {
-                        "marginRight": "auto",
-                        "marginLeft": "auto",
-                        "marginBottom": "0",
-                        "marginTop": "0"
-                      }
-                    },
-                    {
-                      "section": "Content_3",
-                      "style": {
-                        "marginRight": "auto",
-                        "marginLeft": "auto",
-                        "marginBottom": "0",
-                        "marginTop": "0"
-                      }
-                    }
-                  ],
-                  "isSymetricalForOpponents": false
-                }
-              ]
-            },
-            {
-              "direction": "column",
-              "style": {
-                "width": "22vh"
-              },
-              "content": [
+                    "count": 1,
+                    "id": "OP01/PHC-058"
+                },
                 {
-                  "section": "Studio",
-                  "style": {
-                    "marginRight": "auto",
-                    "marginLeft": "auto",
-                    "width": "10vh"
-                  }
+                    "count": 1,
+                    "id": "OP01/PHC-059"
+                },
+                {
+                    "count": 1,
+                    "id": "OP01/PHC-054"
                 }
-              ],
-              "isSymetricalForOpponents": false
-            }
-          ]
-        },
-        "categoriesAlreadyOnBoard": [
-          "Persona->Studio",
-          "Platform->Platform_Deck"
-        ],
-        "autoPlayFromHand": {},
-        "autoPlayFromStack": {
-          "Action": "Discard"
-        },
-        "sectionsDict": {
-          "Hand": {
-            "isDefaultSection": true,
-            "title": "Hand",
-            "isHidden": "opponent-only",
-            "height": "DEFAULT",
-            "alignment": "CENTER",
-            "autoPayFrom": true,
-            "isHorizontalAllowed": false,
-            "isGroupForbidden": true,
-            "reverseZOrder": true,
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "displayedTitle": "",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "Discard": {
-            "isDefaultSection": true,
-            "title": "Discard",
-            "isHidden": "no",
-            "height": "DEFAULT",
-            "alignment": "NONE",
-            "isHorizontalAllowed": false,
-            "isGroupForbidden": true,
-            "noAutoPayTo": true,
-            "opponentAlignment": false,
-            "displayedTitle": "Trash",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "Deck": {
-            "isDefaultSection": true,
-            "title": "Deck",
-            "isHidden": "yes",
-            "height": "DEFAULT",
-            "alignment": "NONE",
-            "isHorizontalAllowed": false,
-            "isGroupForbidden": true,
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "displayedTitle": "",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "Stack": {
-            "isDefaultSection": true,
-            "title": "Stack",
-            "isHidden": "no",
-            "height": "HUGE",
-            "alignment": "NONE",
-            "isHorizontalAllowed": false,
-            "isGroupForbidden": true,
-            "displayedTitle": "Pile",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "Exile": {
-            "isDefaultSection": true,
-            "title": "Exile",
-            "isHidden": "yes",
-            "height": "DEFAULT",
-            "alignment": "NONE",
-            "isHorizontalAllowed": false,
-            "isGroupForbidden": true,
-            "noAutoPayTo": true,
-            "displayedTitle": "Removed",
-            "opponentAlignment": false,
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "ExileHidden": {
-            "isDefaultSection": true,
-            "title": "ExileHidden",
-            "isHidden": "yes",
-            "height": "DEFAULT",
-            "alignment": "NONE",
-            "isHorizontalAllowed": false,
-            "isGroupForbidden": true,
-            "noAutoPayTo": true,
-            "displayedTitle": "Removed hidden",
-            "opponentAlignment": false,
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "Sideboard": {
-            "isDefaultSection": true,
-            "title": "Sideboard",
-            "isHidden": "no",
-            "height": "DEFAULT",
-            "alignment": "NONE",
-            "isHorizontalAllowed": false,
-            "isGroupForbidden": true,
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "displayedTitle": "",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "Platform_1": {
-            "title": "Platform_1",
-            "isHidden": "no",
-            "height": 12,
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": "true",
-            "isHorizontalAllowed": true,
-            "displayedTitle": "Platform",
-            "enterTapped": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false,
-            "noQuickActions": false,
-            "enterSpun": false
-          },
-          "Platform_2": {
-            "title": "Platform_2",
-            "isHidden": "no",
-            "height": 12,
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": "true",
-            "isHorizontalAllowed": true,
-            "displayedTitle": "Platform",
-            "enterTapped": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false,
-            "noQuickActions": false,
-            "enterSpun": false
-          },
-          "Platform_3": {
-            "title": "Platform_3",
-            "isHidden": "no",
-            "height": 12,
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": "true",
-            "isHorizontalAllowed": true,
-            "displayedTitle": "Platform",
-            "enterTapped": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false,
-            "noQuickActions": false,
-            "enterSpun": false
-          },
-          "Persona_1": {
-            "title": "Persona_1",
-            "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": "true",
-            "isHorizontalAllowed": false,
-            "displayedTitle": "Persona",
-            "enterTapped": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false,
-            "noQuickActions": false,
-            "enterSpun": false
-          },
-          "Persona_2": {
-            "title": "Persona_2",
-            "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": true,
-            "isHorizontalAllowed": false,
-            "displayedTitle": "Persona",
-            "enterTapped": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false,
-            "noQuickActions": false,
-            "enterSpun": false
-          },
-          "Persona_3": {
-            "title": "Persona_3",
-            "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": true,
-            "isHorizontalAllowed": false,
-            "displayedTitle": "Persona",
-            "enterTapped": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false,
-            "noQuickActions": false,
-            "enterSpun": false
-          },
-          "Content_1": {
-            "title": "Content_1",
-            "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "isHorizontalAllowed": false,
-            "displayedTitle": "Content",
-            "enterTapped": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false,
-            "noQuickActions": false,
-            "enterSpun": false
-          },
-          "Content_2": {
-            "title": "Content_2",
-            "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "isHorizontalAllowed": false,
-            "displayedTitle": "Content",
-            "enterTapped": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false,
-            "noQuickActions": false,
-            "enterSpun": false
-          },
-          "Content_3": {
-            "title": "Content_3",
-            "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "isHorizontalAllowed": false,
-            "displayedTitle": "Content",
-            "enterTapped": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false,
-            "noQuickActions": false,
-            "enterSpun": false
-          },
-          "Studio": {
-            "title": "Studio",
-            "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": "true",
-            "isHorizontalAllowed": false,
-            "displayedTitle": "Studio",
-            "enterTapped": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false,
-            "noQuickActions": false,
-            "enterSpun": false
-          },
-          "Platform_Deck": {
-            "title": "Platform_Deck",
-            "isHidden": "yes",
-            "height": "SMALL",
-            "alignment": "DECK",
-            "opponentAlignment": false,
-            "noAutoPayTo": "true",
-            "isHorizontalAllowed": true,
-            "displayedTitle": "Platform Deck",
-            "enterTapped": false,
-            "isGroupForbidden": true,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false,
-            "noQuickActions": true,
-            "enterSpun": false
-          },
-          "Captured_Platforms": {
-            "title": "Captured_Platforms",
-            "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "START",
-            "opponentAlignment": false,
-            "noAutoPayTo": true,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "Captured Platforms",
-            "enterTapped": false,
-            "isGroupForbidden": true,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false,
-            "noQuickActions": true,
-            "enterSpun": false
-          }
+            ],
+            "Main Deck": [
+                {
+                    "count": 2,
+                    "id": "OP01/PHC-038"
+                },
+                {
+                    "count": 1,
+                    "id": "OPKS/PHC-044"
+                },
+                {
+                    "count": 2,
+                    "id": "OP01/PHC-135"
+                },
+                {
+                    "count": 2,
+                    "id": "OP01/PHC-111"
+                },
+                {
+                    "count": 2,
+                    "id": "OP01/PHC-155"
+                },
+                {
+                    "count": 3,
+                    "id": "OPKS/PHC-047"
+                },
+                {
+                    "count": 1,
+                    "id": "OP01/PHC-115"
+                },
+                {
+                    "count": 1,
+                    "id": "OP01/PHC-161"
+                },
+                {
+                    "count": 2,
+                    "id": "OP01/PHC-145"
+                },
+                {
+                    "count": 2,
+                    "id": "OP01/PHC-144"
+                },
+                {
+                    "count": 1,
+                    "id": "OP01/PHC-160"
+                },
+                {
+                    "count": 2,
+                    "id": "OP01/PHC-089"
+                },
+                {
+                    "count": 2,
+                    "id": "OP01/PHC-139"
+                },
+                {
+                    "count": 2,
+                    "id": "OP01/PHC-152"
+                },
+                {
+                    "count": 2,
+                    "id": "OP01/PHC-162"
+                },
+                {
+                    "count": 2,
+                    "id": "OP01/PHC-159"
+                },
+                {
+                    "count": 3,
+                    "id": "OPKS/PHC-048"
+                },
+                {
+                    "count": 2,
+                    "id": "OP01/PHC-149"
+                },
+                {
+                    "count": 2,
+                    "id": "OP01/PHC-094"
+                },
+                {
+                    "count": 1,
+                    "id": "OP01/PHC-166"
+                },
+                {
+                    "count": 1,
+                    "id": "OP01/PHC-141"
+                },
+                {
+                    "count": 2,
+                    "id": "OP01/PHC-157"
+                }
+            ]
         }
-      }
+    },
+    {
+        "title": "Gen One Pipkin Pippa Starter Deck",
+        "id": "Gen One Pipkin Pippa Starter Deck",
+        "cardCount": 46,
+        "createdAt": "2026-03-28T05:59:16.515Z",
+        "lastModifiedAt": "2026-07-19T01:45:46.901Z",
+        "game": "Oshi Push",
+        "format": [
+            "Constructed 1v1"
+        ],
+        "deckList": {
+            "categoriesOrder": [
+                "Persona",
+                "Platform",
+                "Main Deck"
+            ],
+            "Persona": [
+                {
+                    "count": 1,
+                    "id": "OP01/PHC-001"
+                }
+            ],
+            "Platform": [
+                {
+                    "count": 1,
+                    "id": "OP01/PHC-049"
+                },
+                {
+                    "count": 1,
+                    "id": "OP01/PHC-060"
+                },
+                {
+                    "count": 1,
+                    "id": "OP01/PHC-063"
+                },
+                {
+                    "count": 1,
+                    "id": "OP01/PHC-062"
+                },
+                {
+                    "count": 1,
+                    "id": "OP01/PHC-052"
+                }
+            ],
+            "Main Deck": [
+                {
+                    "count": 2,
+                    "id": "OP01/PHC-002"
+                },
+                {
+                    "count": 1,
+                    "id": "OPKS/PHC-043"
+                },
+                {
+                    "count": 1,
+                    "id": "OP01/PHC-119"
+                },
+                {
+                    "count": 2,
+                    "id": "OP01/PHC-073"
+                },
+                {
+                    "count": 2,
+                    "id": "OP01/PHC-146"
+                },
+                {
+                    "count": 2,
+                    "id": "OP01/PHC-103"
+                },
+                {
+                    "count": 2,
+                    "id": "OP01/PHC-106"
+                },
+                {
+                    "count": 2,
+                    "id": "OP01/PHC-113"
+                },
+                {
+                    "count": 2,
+                    "id": "OP01/PHC-071"
+                },
+                {
+                    "count": 2,
+                    "id": "OP01/PHC-095"
+                },
+                {
+                    "count": 1,
+                    "id": "OP01/PHC-122"
+                },
+                {
+                    "count": 2,
+                    "id": "OP01/PHC-112"
+                },
+                {
+                    "count": 2,
+                    "id": "OP01/PHC-098"
+                },
+                {
+                    "count": 2,
+                    "id": "OP01/PHC-147"
+                },
+                {
+                    "count": 3,
+                    "id": "OPKS/PHC-045"
+                },
+                {
+                    "count": 1,
+                    "id": "OP01/PHC-096"
+                },
+                {
+                    "count": 1,
+                    "id": "OP01/PHC-077"
+                },
+                {
+                    "count": 2,
+                    "id": "OP01/PHC-126"
+                },
+                {
+                    "count": 2,
+                    "id": "OP01/PHC-125"
+                },
+                {
+                    "count": 2,
+                    "id": "OP01/PHC-117"
+                },
+                {
+                    "count": 3,
+                    "id": "OPKS/PHC-046"
+                },
+                {
+                    "count": 1,
+                    "id": "OP01/PHC-118"
+                }
+            ]
+        }
+    },
+    {
+        "title": "Oshi Push Hidden Links: Starter Deck Porcelain Maid",
+        "id": "Oshi Push Hidden Links: Starter Deck Porcelain Maid",
+        "cardCount": 46,
+        "createdAt": "2026-07-30T01:41:47.018Z",
+        "lastModifiedAt": "2026-07-30T01:41:42.463Z",
+        "game": "Oshi Push",
+        "format": [
+            "Constructed 1v1"
+        ],
+        "deckList": {
+            "categoriesOrder": [
+                "Persona",
+                "Platform",
+                "Main Deck"
+            ],
+            "Persona": [
+                {
+                    "count": 1,
+                    "id": "OP02/HKS-011"
+                }
+            ],
+            "Platform": [
+                {
+                    "count": 1,
+                    "id": "OP02/HKS-036"
+                },
+                {
+                    "count": 1,
+                    "id": "OP02/HKS-041"
+                },
+                {
+                    "count": 1,
+                    "id": "OP02/HKS-042"
+                },
+                {
+                    "count": 1,
+                    "id": "OP02/HKS-046"
+                },
+                {
+                    "count": 1,
+                    "id": "OP02/HKS-038"
+                }
+            ],
+            "Main Deck": [
+                {
+                    "count": 2,
+                    "id": "OP02/HKS-012"
+                },
+                {
+                    "count": 1,
+                    "id": "OP02/HKS-031"
+                },
+                {
+                    "count": 1,
+                    "id": "OP02/HKS-085"
+                },
+                {
+                    "count": 1,
+                    "id": "OP02/HKS-089"
+                },
+                {
+                    "count": 2,
+                    "id": "OP02/HKS-130"
+                },
+                {
+                    "count": 2,
+                    "id": "OP02/HKS-158"
+                },
+                {
+                    "count": 2,
+                    "id": "OP02/HKS-133"
+                },
+                {
+                    "count": 2,
+                    "id": "OP02/HKS-086"
+                },
+                {
+                    "count": 2,
+                    "id": "OP02/HKS-107"
+                },
+                {
+                    "count": 2,
+                    "id": "OP02/HKS-131"
+                },
+                {
+                    "count": 2,
+                    "id": "OP02/HKS-097"
+                },
+                {
+                    "count": 2,
+                    "id": "OP02/HKS-108"
+                },
+                {
+                    "count": 2,
+                    "id": "OP02/HKS-079"
+                },
+                {
+                    "count": 2,
+                    "id": "OP02/HKS-106"
+                },
+                {
+                    "count": 3,
+                    "id": "OP02/HKS-032"
+                },
+                {
+                    "count": 2,
+                    "id": "OP02/HKS-105"
+                },
+                {
+                    "count": 1,
+                    "id": "OP02/HKS-092"
+                },
+                {
+                    "count": 2,
+                    "id": "OP02/HKS-100"
+                },
+                {
+                    "count": 3,
+                    "id": "OP02/HKS-091"
+                },
+                {
+                    "count": 1,
+                    "id": "OP02/HKS-164"
+                },
+                {
+                    "count": 1,
+                    "id": "OP02/HKS-165"
+                },
+                {
+                    "count": 1,
+                    "id": "OP02/HKS-083"
+                },
+                {
+                    "count": 1,
+                    "id": "OP02/HKS-102"
+                }
+            ]
+        }
+    },
+    {
+        "title": "Oshi Push Hidden Links: Starter Deck LineChu",
+        "id": "Oshi Push Hidden Links: Starter Deck LineChu",
+        "cardCount": 46,
+        "createdAt": "2026-07-30T02:08:53.754Z",
+        "lastModifiedAt": "2026-07-30T02:08:49.242Z",
+        "game": "Oshi Push",
+        "format": [
+            "Constructed 1v1"
+        ],
+        "deckList": {
+            "categoriesOrder": [
+                "Persona",
+                "Platform",
+                "Main Deck"
+            ],
+            "Persona": [
+                {
+                    "count": 1,
+                    "id": "OP02/HKS-026"
+                }
+            ],
+            "Platform": [
+                {
+                    "count": 1,
+                    "id": "OP02/HKS-035"
+                },
+                {
+                    "count": 1,
+                    "id": "OP02/HKS-047"
+                },
+                {
+                    "count": 1,
+                    "id": "OP02/HKS-037"
+                },
+                {
+                    "count": 1,
+                    "id": "OP02/HKS-040"
+                },
+                {
+                    "count": 1,
+                    "id": "OP02/HKS-049"
+                }
+            ],
+            "Main Deck": [
+                {
+                    "count": 2,
+                    "id": "OP02/HKS-027"
+                },
+                {
+                    "count": 2,
+                    "id": "OP02/HKS-033"
+                },
+                {
+                    "count": 2,
+                    "id": "OP02/HKS-096"
+                },
+                {
+                    "count": 2,
+                    "id": "OP02/HKS-123"
+                },
+                {
+                    "count": 1,
+                    "id": "OP02/HKS-159"
+                },
+                {
+                    "count": 2,
+                    "id": "OP02/HKS-122"
+                },
+                {
+                    "count": 2,
+                    "id": "OP02/HKS-145"
+                },
+                {
+                    "count": 2,
+                    "id": "OP02/HKS-139"
+                },
+                {
+                    "count": 2,
+                    "id": "OP02/HKS-094"
+                },
+                {
+                    "count": 2,
+                    "id": "OP02/HKS-140"
+                },
+                {
+                    "count": 2,
+                    "id": "OP02/HKS-150"
+                },
+                {
+                    "count": 2,
+                    "id": "OP02/HKS-121"
+                },
+                {
+                    "count": 1,
+                    "id": "OP02/HKS-161"
+                },
+                {
+                    "count": 2,
+                    "id": "OP02/HKS-095"
+                },
+                {
+                    "count": 2,
+                    "id": "OP02/HKS-152"
+                },
+                {
+                    "count": 2,
+                    "id": "OP02/HKS-127"
+                },
+                {
+                    "count": 2,
+                    "id": "OP02/HKS-147"
+                },
+                {
+                    "count": 1,
+                    "id": "OP02/HKS-073"
+                },
+                {
+                    "count": 3,
+                    "id": "OP02/HKS-034"
+                },
+                {
+                    "count": 2,
+                    "id": "OP02/HKS-146"
+                },
+                {
+                    "count": 1,
+                    "id": "OP02/HKS-148"
+                },
+                {
+                    "count": 1,
+                    "id": "OP02/HKS-166"
+                }
+            ]
+        }
     }
-  }
-}
+]
