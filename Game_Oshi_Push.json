@@ -102,49 +102,7 @@
       ],
       "hideFacedDownCards": false,
       "sections": {
-        "sharedZone": {
-          "height": 12,
-          "layout": {
-            "direction": "row",
-            "content": [
-              {
-                "section": "Platform_1",
-                "style": {
-                  "marginRight": "auto",
-                  "marginLeft": "auto",
-                  "width": "22vh",
-                  "marginBottom": "0",
-                  "marginTop": "0"
-                }
-              },
-              {
-                "section": "Platform_2",
-                "style": {
-                  "marginRight": "auto",
-                  "marginLeft": "auto",
-                  "width": "22vh",
-                  "marginBottom": "0",
-                  "marginTop": "0"
-                }
-              },
-              {
-                "section": "Platform_3",
-                "style": {
-                  "marginRight": "auto",
-                  "marginLeft": "auto",
-                  "width": "22vh",
-                  "marginBottom": "0",
-                  "marginTop": "0"
-                }
-              }
-            ],
-            "style": {
-              "width": "100vh",
-              "marginTop": "-2vh",
-              "marginBottom": "1vh"
-            }
-          }
-        },
+        
         "customSections": [
           "Platform_1",
           "Platform_2",
