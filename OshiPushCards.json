@@ -5072,7 +5072,7 @@
       "銅貨"
     ],
     "_legal": {
-      "Classic": true
+      "Classic": 1
     },
     "color": [
       "Green"
@@ -5231,7 +5231,7 @@
       "マノ居"
     ],
     "_legal": {
-      "Classic": true
+      "Classic": 1
     },
     "color": [
       "Green"
