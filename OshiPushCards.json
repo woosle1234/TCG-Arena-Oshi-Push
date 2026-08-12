@@ -149,6 +149,112 @@
     "bits": 6,
     "influence": 6
   },
+  "OPKS/PHC-010": {
+    "id": "OPKS/PHC-010",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Stargazing",
+        "type": "Content",
+        "cost": 1,
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6a7a975e76bb9c6e338ac1ff.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Stargazing",
+    "type": "Content",
+    "set": "PHC",
+    "rarity": "Ao Supa!",
+    "keywords": [],
+    "Vtuber": [
+      "Utatane Nasa"
+    ],
+    "artist": [
+      "Phase Connect"
+    ],
+    "_legal": {
+      "Classic": true
+    },
+    "color": [
+      "Red"
+    ],
+    "genre": [
+      "Zatsudan"
+    ],
+    "cost": 1,
+    "influence": 5
+  },
+  "OPKS/PHC-011": {
+    "id": "OPKS/PHC-011",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "I'll Crush You!",
+        "type": "Action",
+        "cost": 0,
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6a7a93496887ae9ab5a69652.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "I'll Crush You!",
+    "type": "Action",
+    "set": "PHC",
+    "rarity": "Ao Supa!",
+    "keywords": [
+      "Clash Reward"
+    ],
+    "Vtuber": [
+      "Utatane Nasa"
+    ],
+    "artist": [
+      "minsgraph"
+    ],
+    "_legal": {
+      "Classic": true
+    },
+    "color": [
+      "Red"
+    ],
+    "genre": [
+      "Zatsudan"
+    ],
+    "cost": 0
+  },
+  "OPKS/PHC-012": {
+    "id": "OPKS/PHC-012",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dragon Deez",
+        "type": "Content",
+        "cost": 6,
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6a7a906b49ea00f90f9fa1cf.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dragon Deez",
+    "type": "Content",
+    "set": "PHC",
+    "rarity": "Ao Supa!",
+    "keywords": [],
+    "Vtuber": [
+      "Utatane Nasa"
+    ],
+    "artist": [
+      "ryirakii"
+    ],
+    "_legal": {
+      "Classic": true
+    },
+    "color": [
+      "Purple"
+    ],
+    "genre": [
+      "Experience"
+    ],
+    "cost": 6,
+    "influence": 8
+  },
   "OPKS/PHC-013": {
     "id": "OPKS/PHC-013",
     "isToken": false,
@@ -221,6 +327,109 @@
     "cost": 6,
     "bits": 5,
     "influence": 5
+  },
+  "OPKS/PHC-016": {
+    "id": "OPKS/PHC-016",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Japanese Lesson",
+        "type": "Content",
+        "cost": 3,
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6a7a93d59d08ac9f842d7d1a.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Japanese Lesson",
+    "type": "Content",
+    "set": "PHC",
+    "rarity": "Ao Supa!",
+    "keywords": [],
+    "Vtuber": [
+      "Hakushika Iori"
+    ],
+    "artist": [
+      "EldaSolarStudio"
+    ],
+    "_legal": {
+      "Classic": true
+    },
+    "color": [
+      "Purple"
+    ],
+    "genre": [
+      "Poggers"
+    ],
+    "cost": 3,
+    "influence": 5
+  },
+  "OPKS/PHC-017": {
+    "id": "OPKS/PHC-017",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Killer Hands",
+        "type": "Action",
+        "cost": 2,
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6a7a957a0c07b1c160715c55.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Killer Hands",
+    "type": "Action",
+    "set": "PHC",
+    "rarity": "Ao Supa!",
+    "keywords": [],
+    "Vtuber": [
+      "Hakushika Iori"
+    ],
+    "artist": [
+      "akaba"
+    ],
+    "_legal": {
+      "Classic": true
+    },
+    "color": [
+      "Green"
+    ],
+    "genre": [
+      "Poggers"
+    ],
+    "cost": 2
+  },
+  "OPKS/PHC-018": {
+    "id": "OPKS/PHC-018",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Scary Story Writing",
+        "type": "Action",
+        "cost": 1,
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6a7a972d68bba53dc288288d.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Scary Story Writing",
+    "type": "Action",
+    "set": "PHC",
+    "rarity": "Ao Supa!",
+    "keywords": [],
+    "Vtuber": [
+      "Hakushika Iori"
+    ],
+    "artist": [
+      "Phase Connect"
+    ],
+    "_legal": {
+      "Classic": true
+    },
+    "color": [
+      "Green"
+    ],
+    "genre": [
+      "Creatives"
+    ],
+    "cost": 1
   },
   "OPKS/PHC-019": {
     "id": "OPKS/PHC-019",
@@ -296,6 +505,75 @@
     "bits": 6,
     "influence": 7
   },
+  "OPKS/PHC-022": {
+    "id": "OPKS/PHC-022",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Witch Mommy Energy",
+        "type": "Content",
+        "cost": 4,
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6a7a97e60fe51d7100b5b175.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Witch Mommy Energy",
+    "type": "Content",
+    "set": "PHC",
+    "rarity": "Ao Supa!",
+    "keywords": [],
+    "Vtuber": [
+      "Shisui Michiru"
+    ],
+    "artist": [
+      "ValeforZero"
+    ],
+    "_legal": {
+      "Classic": true
+    },
+    "color": [
+      "Red"
+    ],
+    "genre": [
+      "Poggers"
+    ],
+    "cost": 4,
+    "influence": 7
+  },
+  "OPKS/PHC-024": {
+    "id": "OPKS/PHC-024",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "LVL 2 Naked Club",
+        "type": "Action",
+        "cost": 5,
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6a7a95a5dbd9d1f05c229fc7.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "LVL 2 Naked Club",
+    "type": "Action",
+    "set": "PHC",
+    "rarity": "Ao Supa!",
+    "keywords": [],
+    "Vtuber": [
+      "Shisui Michiru"
+    ],
+    "artist": [
+      "EldaSolarStudio"
+    ],
+    "_legal": {
+      "Classic": true
+    },
+    "color": [
+      "Green"
+    ],
+    "genre": [
+      "Poggers"
+    ],
+    "cost": 5
+  },
   "OPKS/PHC-025": {
     "id": "OPKS/PHC-025",
     "isToken": false,
@@ -370,6 +648,40 @@
     "bits": 6,
     "influence": 6
   },
+  "OPKS/PHC-029": {
+    "id": "OPKS/PHC-029",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bear With Me",
+        "type": "Action",
+        "cost": 2,
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6a7a8de8b4e911ffd7da2bd3.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bear With Me",
+    "type": "Action",
+    "set": "PHC",
+    "rarity": "Ao Supa!",
+    "keywords": [],
+    "Vtuber": [
+      "Fujikura Uruka"
+    ],
+    "artist": [
+      "_Luzzi"
+    ],
+    "_legal": {
+      "Classic": true
+    },
+    "color": [
+      "Purple"
+    ],
+    "genre": [
+      "Creatives"
+    ],
+    "cost": 2
+  },
   "OPKS/PHC-031": {
     "id": "OPKS/PHC-031",
     "isToken": false,
@@ -443,6 +755,40 @@
     "bits": 5,
     "influence": 7
   },
+  "OPKS/PHC-036": {
+    "id": "OPKS/PHC-036",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Internet Historian",
+        "type": "Action",
+        "cost": 2,
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6a7a938a6887ae9ab5a6965a.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Internet Historian",
+    "type": "Action",
+    "set": "PHC",
+    "rarity": "Ao Supa!",
+    "keywords": [],
+    "Vtuber": [
+      "Rinkou Ashelia"
+    ],
+    "artist": [
+      "minsgraph"
+    ],
+    "_legal": {
+      "Classic": true
+    },
+    "color": [
+      "Red"
+    ],
+    "genre": [
+      "Creatives"
+    ],
+    "cost": 2
+  },
   "OPKS/PHC-037": {
     "id": "OPKS/PHC-037",
     "isToken": false,
@@ -507,7 +853,7 @@
       "秋原 买"
     ],
     "_legal": {
-      "Classic": true
+      "Classic": 1
     },
     "color": [
       "Green"
@@ -519,6 +865,613 @@
     "bits": 6,
     "influence": 7
   },
+  "OPKS/PHC-071": {
+    "id": "OPKS/PHC-071",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Game Flavor of the Week",
+        "type": "Content",
+        "cost": 1,
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6a7a92b16887ae9ab5a6964a.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Game Flavor of the Week",
+    "type": "Content",
+    "set": "PHC",
+    "rarity": "Pon",
+    "keywords": [
+      "Discard"
+    ],
+    "Vtuber": [
+      "Tenma Maemi"
+    ],
+    "artist": [
+      "棘ナツ"
+    ],
+    "_legal": {
+      "Classic": true
+    },
+    "color": [
+      "Red"
+    ],
+    "genre": [
+      "Poggers"
+    ],
+    "cost": 1,
+    "influence": 3
+  },
+  "OPKS/PHC-104": {
+    "id": "OPKS/PHC-104",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Edgelord Behavior",
+        "type": "Content",
+        "cost": 2,
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6a7a90b608f8917ae4c445a6.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Edgelord Behavior",
+    "type": "Content",
+    "set": "PHC",
+    "rarity": "Pon",
+    "keywords": [],
+    "Vtuber": [
+      "Rinkou Ashelia"
+    ],
+    "artist": [
+      "EldaSolarStudio"
+    ],
+    "_legal": {
+      "Classic": true
+    },
+    "color": [
+      "Purple"
+    ],
+    "genre": [
+      "Zatsudan"
+    ],
+    "cost": 2,
+    "influence": 3
+  },
+  "OPKS/PHC-107": {
+    "id": "OPKS/PHC-107",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Big Head Moment",
+        "type": "Content",
+        "cost": 6,
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6a7a8e2449ea00f90f9fa19f.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Big Head Moment",
+    "type": "Content",
+    "set": "PHC",
+    "rarity": "Supa!",
+    "keywords": [],
+    "Vtuber": [
+      "Shisui Michiru"
+    ],
+    "artist": [
+      "ryirakii"
+    ],
+    "_legal": {
+      "Classic": true
+    },
+    "color": [
+      "Purple"
+    ],
+    "genre": [
+      "Zatsudan"
+    ],
+    "cost": 6,
+    "influence": 10
+  },
+  "OPKS/PHC-114": {
+    "id": "OPKS/PHC-114",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Math Stream",
+        "type": "Content",
+        "cost": 3,
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6a7a962ddbd9d1f05c229fd2.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Math Stream",
+    "type": "Content",
+    "set": "PHC",
+    "rarity": "Ao Supa!",
+    "keywords": [],
+    "Vtuber": [
+      "Hakushika Iori"
+    ],
+    "artist": [
+      "ValeforZero"
+    ],
+    "_legal": {
+      "Classic": true
+    },
+    "color": [
+      "Green"
+    ],
+    "genre": [
+      "Zatsudan"
+    ],
+    "cost": 3,
+    "influence": 5
+  },
+  "OPKS/PHC-116": {
+    "id": "OPKS/PHC-116",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Clip Out of Context",
+        "type": "Content",
+        "cost": 10,
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6a7a8f4049ea00f90f9fa1b2.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Clip Out of Context",
+    "type": "Content",
+    "set": "PHC",
+    "rarity": "Ao Supa!",
+    "keywords": [],
+    "Vtuber": [
+      "Tenma Maemi"
+    ],
+    "artist": [
+      "akaba"
+    ],
+    "_legal": {
+      "Classic": true
+    },
+    "color": [
+      "Green"
+    ],
+    "genre": [
+      "Zatsudan"
+    ],
+    "cost": 10,
+    "influence": 21
+  },
+  "OPKS/PHC-124": {
+    "id": "OPKS/PHC-124",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Masterpiece",
+        "type": "Content",
+        "cost": 9,
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6a7a95e50c07b1c160715c5f.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Masterpiece",
+    "type": "Content",
+    "set": "PHC",
+    "rarity": "Ao Supa!",
+    "keywords": [
+      "Clash Reward"
+    ],
+    "Vtuber": [
+      "Shisui Michiru"
+    ],
+    "artist": [
+      "minsgraph"
+    ],
+    "_legal": {
+      "Classic": true
+    },
+    "color": [
+      "Red"
+    ],
+    "genre": [
+      "Creatives"
+    ],
+    "cost": 9,
+    "influence": 16
+  },
+  "OPKS/PHC-133": {
+    "id": "OPKS/PHC-133",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Diss Track",
+        "type": "Action",
+        "cost": 3,
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6a7a9039aa654bd07d795eb8.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Diss Track",
+    "type": "Action",
+    "set": "PHC",
+    "rarity": "Supa!",
+    "keywords": [],
+    "Vtuber": [
+      "Fujikura Uruka"
+    ],
+    "artist": [
+      "Phase Connect"
+    ],
+    "_legal": {
+      "Classic": true
+    },
+    "color": [
+      "Purple"
+    ],
+    "genre": [
+      "Creatives"
+    ],
+    "cost": 3
+  },
+  "OPKS/PHC-136": {
+    "id": "OPKS/PHC-136",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Encore Performance",
+        "type": "Content",
+        "cost": 2,
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6a7a91de6887ae9ab5a69642.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Encore Performance",
+    "type": "Content",
+    "set": "PHC",
+    "rarity": "Pon",
+    "keywords": [],
+    "Vtuber": [
+      "Fujikura Uruka",
+      "Tenma Maemi"
+    ],
+    "artist": [
+      "daichi"
+    ],
+    "_legal": {
+      "Classic": 1
+    },
+    "color": [
+      "Green"
+    ],
+    "genre": [
+      "Creatives"
+    ],
+    "cost": 2,
+    "influence": 4
+  },
+  "OPKS/PHC-138": {
+    "id": "OPKS/PHC-138",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Christmas Special",
+        "type": "Content",
+        "cost": 3,
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6a7a8ee049ea00f90f9fa1aa.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Christmas Special",
+    "type": "Content",
+    "set": "PHC",
+    "rarity": "Ao Supa!",
+    "keywords": [],
+    "Vtuber": [
+      "Hakushika Iori",
+      "Himemiya Rie",
+      "Tenma Maemi"
+    ],
+    "artist": [
+      "moguta9"
+    ],
+    "_legal": {
+      "Classic": true
+    },
+    "color": [
+      "Green"
+    ],
+    "genre": [
+      "Creatives"
+    ],
+    "cost": 3,
+    "influence": 4
+  },
+  "OPKS/PHC-140": {
+    "id": "OPKS/PHC-140",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Halloween Special",
+        "type": "Content",
+        "cost": 8,
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6a7a930249ea00f90f9fa1e5.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Halloween Special",
+    "type": "Content",
+    "set": "PHC",
+    "rarity": "Supa!",
+    "keywords": [
+      "Activate"
+    ],
+    "Vtuber": [
+      "Pipkin Pippa"
+    ],
+    "artist": [
+      "Phase Connect"
+    ],
+    "_legal": {
+      "Classic": 1
+    },
+    "color": [
+      "Green"
+    ],
+    "genre": [
+      "Creatives"
+    ],
+    "cost": 8,
+    "influence": 14
+  },
+  "OPKS/PHC-142": {
+    "id": "OPKS/PHC-142",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Embrace Scuff",
+        "type": "Action",
+        "cost": 2,
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6a7a910f6887ae9ab5a69632.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Embrace Scuff",
+    "type": "Action",
+    "set": "PHC",
+    "rarity": "Pon",
+    "keywords": [],
+    "Vtuber": [
+      "Pipkin Pippa"
+    ],
+    "artist": [
+      "ryirakii"
+    ],
+    "_legal": {
+      "Classic": true
+    },
+    "color": [
+      "Green"
+    ],
+    "genre": [
+      "Creatives"
+    ],
+    "cost": 2
+  },
+  "OPKS/PHC-143": {
+    "id": "OPKS/PHC-143",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cinema Date",
+        "type": "Content",
+        "cost": 4,
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6a7a8f12aa654bd07d795e99.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cinema Date",
+    "type": "Content",
+    "set": "PHC",
+    "rarity": "Ao Supa!",
+    "keywords": [
+      "Dominating"
+    ],
+    "Vtuber": [
+      "Fujikura Uruka"
+    ],
+    "artist": [
+      "EldaSolarStudio"
+    ],
+    "_legal": {
+      "Classic": true
+    },
+    "color": [
+      "Red"
+    ],
+    "genre": [
+      "Experience"
+    ],
+    "cost": 4,
+    "influence": 2
+  },
+  "OPKS/PHC-150": {
+    "id": "OPKS/PHC-150",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "ARA ARA",
+        "type": "Action",
+        "cost": 4,
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6a7a8dbcb4e911ffd7da2bcc.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "ARA ARA",
+    "type": "Action",
+    "set": "PHC",
+    "rarity": "Ao Supa!",
+    "keywords": [],
+    "Vtuber": [
+      "Shisui Michiru"
+    ],
+    "artist": [
+      "Phase Connect"
+    ],
+    "_legal": {
+      "Classic": true
+    },
+    "color": [
+      "Red"
+    ],
+    "genre": [
+      "Experience"
+    ],
+    "cost": 4
+  },
+  "OPKS/PHC-151": {
+    "id": "OPKS/PHC-151",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "First Date",
+        "type": "Content",
+        "cost": 1,
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6a7a922c49ea00f90f9fa1dd.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "First Date",
+    "type": "Content",
+    "set": "PHC",
+    "rarity": "Ao Supa!",
+    "keywords": [
+      "Activate"
+    ],
+    "Vtuber": [
+      "Pipkin Pippa"
+    ],
+    "artist": [
+      "EldaSolarStudio"
+    ],
+    "_legal": {
+      "Classic": true
+    },
+    "color": [
+      "Purple"
+    ],
+    "genre": [
+      "Experience"
+    ],
+    "cost": 1,
+    "influence": 3
+  },
+  "OPKS/PHC-153": {
+    "id": "OPKS/PHC-153",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Thriller Story Reading",
+        "type": "Content",
+        "cost": 4,
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6a7a979568bba53dc2882895.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Thriller Story Reading",
+    "type": "Content",
+    "set": "PHC",
+    "rarity": "Supa!",
+    "keywords": [],
+    "Vtuber": [
+      "Tenma Maemi"
+    ],
+    "artist": [
+      "Phase Connect"
+    ],
+    "_legal": {
+      "Classic": true
+    },
+    "color": [
+      "Purple"
+    ],
+    "genre": [
+      "Experience"
+    ],
+    "cost": 4,
+    "influence": 7
+  },
+  "OPKS/PHC-154": {
+    "id": "OPKS/PHC-154",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Peaceful ASMR",
+        "type": "Content",
+        "cost": 7,
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6a7a968d0c07b1c160715c67.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Peaceful ASMR",
+    "type": "Content",
+    "set": "PHC",
+    "rarity": "Pon",
+    "keywords": [],
+    "Vtuber": [
+      "Utatane Nasa"
+    ],
+    "artist": [
+      "EldaSolarStudio"
+    ],
+    "_legal": {
+      "Classic": true
+    },
+    "color": [
+      "Purple"
+    ],
+    "genre": [
+      "Experience"
+    ],
+    "cost": 7,
+    "influence": 10
+  },
+  "OPKS/PHC-159": {
+    "id": "OPKS/PHC-159",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vtuber Coffee",
+        "type": "Content",
+        "cost": 1,
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6a7a97c25d0b4390ac90733c.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vtuber Coffee",
+    "type": "Content",
+    "set": "PHC",
+    "rarity": "Pon",
+    "keywords": [
+      "Discard"
+    ],
+    "Vtuber": [
+      "Shisui Michiru"
+    ],
+    "artist": [
+      "Phase Connect"
+    ],
+    "_legal": {
+      "Classic": true
+    },
+    "color": [
+      "Green"
+    ],
+    "genre": [
+      "Experience"
+    ],
+    "cost": 1,
+    "influence": 2
+  },
   "OP01/PHC-001": {
     "id": "OP01/PHC-001",
     "isToken": false,
@@ -527,14 +1480,14 @@
         "name": "Pipkin Pippa",
         "type": "Persona",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69127d2a98bd9be58fda7e4a.webp",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/691264abd8b64bb3753e22b5.webp",
         "isHorizontal": false
       }
     },
     "name": "Pipkin Pippa",
     "type": "Persona",
     "set": "PHC",
-    "rarity": "Supa!",
+    "rarity": "Pon",
     "keywords": [
       "Clash Reward"
     ],
@@ -542,7 +1495,7 @@
       "Pipkin Pippa"
     ],
     "artist": [
-      "lu_cid_sky"
+      "chiri_ap"
     ],
     "_legal": {
       "Classic": 1
@@ -554,7 +1507,7 @@
       "Zatsudan"
     ],
     "bits": 3,
-    "influence": 4
+    "influence": 5
   },
   "OP01/PHC-002": {
     "id": "OP01/PHC-002",
@@ -564,14 +1517,14 @@
         "name": "Pipkin Pippa - Filippa Pipkin",
         "type": "Upgrade",
         "cost": 3,
-        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69127f93576a42015f1852b8.webp",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6956c7aa6a2fc4705f527a2e.webp",
         "isHorizontal": false
       }
     },
     "name": "Pipkin Pippa - Filippa Pipkin",
     "type": "Upgrade",
     "set": "PHC",
-    "rarity": "Supa!",
+    "rarity": "Kiiro S Supa!",
     "keywords": [
       "Clash Reward",
       "Discard"
@@ -603,14 +1556,14 @@
         "name": "Pipkin Pippa - Shipkin Shippa",
         "type": "Upgrade",
         "cost": 7,
-        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69128244de54e64332e23cee.webp",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6956c7ec6a2fc4705f527a3c.webp",
         "isHorizontal": false
       }
     },
     "name": "Pipkin Pippa - Shipkin Shippa",
     "type": "Upgrade",
     "set": "PHC",
-    "rarity": "Light Blue Supa!",
+    "rarity": "Kami!",
     "keywords": [
       "Clash Reward",
       "Discard"
@@ -745,14 +1698,14 @@
         "name": "Utatane Nasa",
         "type": "Persona",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6956ba7978df33989c6e628b.webp",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6956b875fbb4987e356fa0e7.webp",
         "isHorizontal": false
       }
     },
     "name": "Utatane Nasa",
     "type": "Persona",
     "set": "PHC",
-    "rarity": "Midori Supa!",
+    "rarity": "Orenji Supa!",
     "keywords": [],
     "Vtuber": [
       "Utatane Nasa"
@@ -780,14 +1733,14 @@
         "name": "Utatane Nasa - Seiso Sleepy Dragon",
         "type": "Upgrade",
         "cost": 3,
-        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6956b8f777df839e1e13c89a.webp",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69129504becebc528adcd6d7.webp",
         "isHorizontal": false
       }
     },
     "name": "Utatane Nasa - Seiso Sleepy Dragon",
     "type": "Upgrade",
     "set": "PHC",
-    "rarity": "Kiiro Supa!",
+    "rarity": "Supa!",
     "keywords": [
       "Activate",
       "Discard"
@@ -819,14 +1772,14 @@
         "name": "Utatane Nasa - Kawaii Nasajira",
         "type": "Upgrade",
         "cost": 6,
-        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6956b9fafe68c3b9bd84be55.webp",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/691295cdbecebc528adcd6f2.webp",
         "isHorizontal": false
       }
     },
     "name": "Utatane Nasa - Kawaii Nasajira",
     "type": "Upgrade",
     "set": "PHC",
-    "rarity": "Kiiro S Supa!",
+    "rarity": "Light Blue Supa!",
     "keywords": [
       "Activate",
       "Discard"
@@ -964,14 +1917,14 @@
         "name": "Hakushika Iori",
         "type": "Persona",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6956c8cd6a2fc4705f527a66.webp",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69129e6b6d10567828f0eab2.webp",
         "isHorizontal": false
       }
     },
     "name": "Hakushika Iori",
     "type": "Persona",
     "set": "PHC",
-    "rarity": "Orenji Supa!",
+    "rarity": "Pon",
     "keywords": [],
     "Vtuber": [
       "Hakushika Iori"
@@ -999,14 +1952,14 @@
         "name": "Hakushika Iori - Perfect Disguise",
         "type": "Upgrade",
         "cost": 2,
-        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6956cb530afc4b8249c77067.webp",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6912a0bbd301a5909ad5b438.webp",
         "isHorizontal": false
       }
     },
     "name": "Hakushika Iori - Perfect Disguise",
     "type": "Upgrade",
     "set": "PHC",
-    "rarity": "Kiiro S Supa!",
+    "rarity": "Supa!",
     "keywords": [
       "Discard"
     ],
@@ -1037,14 +1990,14 @@
         "name": "Hakushika Iori - Secret Agent",
         "type": "Upgrade",
         "cost": 6,
-        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6956c83f6a2fc4705f527a4a.webp",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6912a7427d037120c18b5445.webp",
         "isHorizontal": false
       }
     },
     "name": "Hakushika Iori - Secret Agent",
     "type": "Upgrade",
     "set": "PHC",
-    "rarity": "Kami!",
+    "rarity": "Light Blue Supa!",
     "keywords": [
       "Discard"
     ],
@@ -1393,14 +2346,14 @@
         "name": "Fujikura Uruka",
         "type": "Persona",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6956cbed8f36c05d134f2c2b.webp",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6912d541e433a1f58e6bdbca.webp",
         "isHorizontal": false
       }
     },
     "name": "Fujikura Uruka",
     "type": "Persona",
     "set": "PHC",
-    "rarity": "Aka Supa!",
+    "rarity": "Supa!",
     "keywords": [],
     "Vtuber": [
       "Fujikura Uruka"
@@ -1428,14 +2381,14 @@
         "name": "Fujikura Uruka - Urufu",
         "type": "Upgrade",
         "cost": 3,
-        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6956cc598f36c05d134f2c40.webp",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6912d612e433a1f58e6bdbd0.webp",
         "isHorizontal": false
       }
     },
     "name": "Fujikura Uruka - Urufu",
     "type": "Upgrade",
     "set": "PHC",
-    "rarity": "Kiiro Supa!",
+    "rarity": "Supa!",
     "keywords": [
       "Discard"
     ],
@@ -1466,14 +2419,14 @@
         "name": "Fujikura Uruka - Gomi Kuma",
         "type": "Upgrade",
         "cost": 7,
-        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6956cbb98f36c05d134f2c24.webp",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6956cb9684c9ae6735fea2d3.webp",
         "isHorizontal": false
       }
     },
     "name": "Fujikura Uruka - Gomi Kuma",
     "type": "Upgrade",
     "set": "PHC",
-    "rarity": "Kiiro S Supa!",
+    "rarity": "Kami!",
     "keywords": [
       "Activate",
       "Discard"
@@ -1608,14 +2561,14 @@
         "name": "Rinkou Ashelia",
         "type": "Persona",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6912ddaa94015178de8eef27.webp",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6912dd7794015178de8eef21.webp",
         "isHorizontal": false
       }
     },
     "name": "Rinkou Ashelia",
     "type": "Persona",
     "set": "PHC",
-    "rarity": "Supa!",
+    "rarity": "Pon",
     "keywords": [],
     "Vtuber": [
       "Rinkou Ashelia"
@@ -1825,14 +2778,14 @@
         "name": "Tenma Maemi",
         "type": "Persona",
         "cost": 0,
-        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69130e0973dbfa1a3df23252.webp",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69130dd673dbfa1a3df2324c.webp",
         "isHorizontal": false
       }
     },
     "name": "Tenma Maemi",
     "type": "Persona",
     "set": "PHC",
-    "rarity": "Supa!",
+    "rarity": "Pon",
     "keywords": [
       "Clash Reward"
     ],
@@ -1840,7 +2793,7 @@
       "Tenma Maemi"
     ],
     "artist": [
-      "Phase Connect"
+      "capri134"
     ],
     "_legal": {
       "Classic": 1
@@ -1862,14 +2815,14 @@
         "name": "Tenma Maemi - Mii-chan",
         "type": "Upgrade",
         "cost": 3,
-        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6956bb9978df33989c6e62ae.webp",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/69130fca1d17611a9d01c180.webp",
         "isHorizontal": false
       }
     },
     "name": "Tenma Maemi - Mii-chan",
     "type": "Upgrade",
     "set": "PHC",
-    "rarity": "Kiiro Supa!",
+    "rarity": "Supa!",
     "keywords": [
       "Clash Reward",
       "Discard"
@@ -1901,14 +2854,14 @@
         "name": "Tenma Maemi - 30ma",
         "type": "Upgrade",
         "cost": 8,
-        "image": "https://oshi-push-database-server.vercel.app/tcgarena/6956bc2478df33989c6e62ca.webp",
+        "image": "https://oshi-push-database-server.vercel.app/tcgarena/691310b61d17611a9d01c186.webp",
         "isHorizontal": false
       }
     },
     "name": "Tenma Maemi - 30ma",
     "type": "Upgrade",
     "set": "PHC",
-    "rarity": "Kiiro S Supa!",
+    "rarity": "Light Blue Supa!",
     "keywords": [
       "Clash Reward",
       "Discard"
